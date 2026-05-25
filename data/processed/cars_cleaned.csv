@@ -1,0 +1,1963 @@
+brand,model,year,fuel_type,transmission,owner_type,km_driven,seller_type,mileage,engine,seats,price,car_age,km_per_year,engine_per_seat
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,22402.0,Dealer,18.9,1197,5,445000.0,10,2240.2,239.4
+Maruti,Alto 800,2019,Petrol,Manual,Second Owner,10344.0,Dealer,22.7,796,5,293000.0,7,1477.71,159.2
+Tata,Safari,2021,Diesel,Manual,Second Owner,12999.0,Dealer,14.1,1956,7,2249000.0,5,2599.8,279.43
+Maruti,Ciaz,2016,Petrol,Manual,Third Owner,45000.0,Dealer,20.7,1373,5,695000.0,10,4500.0,274.6
+Jeep,Compass,2019,Petrol,Manual,Second Owner,11193.0,Dealer,14.9,1956,5,1200000.0,7,1599.0,391.2
+Maruti,Eeco,2017,Petrol,Manual,Third Owner,42906.0,Dealer,16.1,1196,5,372000.0,9,4767.33,239.2
+Hyundai,Creta,2017,Diesel,Automatic,Third Owner,66602.0,Dealer,16.8,1497,5,1150000.0,9,7400.22,299.4
+Maruti,Ertiga,2019,Petrol,Automatic,Second Owner,13189.0,Dealer,19.0,1462,7,1039000.0,7,1884.14,208.86
+Toyota,Etios Liva,2013,Petrol,Manual,Fourth & Above Owner,67815.0,Dealer,18.2,1197,5,375000.0,13,5216.54,239.4
+Renault,Kwid,2018,Petrol,Automatic,Second Owner,19509.0,Dealer,22.0,999,5,425000.0,8,2438.62,199.8
+Maruti,Ciaz,2017,Diesel,Manual,Third Owner,60000.0,Dealer,20.7,1498,5,675000.0,9,6666.67,299.6
+Maruti,Alto 800,2019,Petrol,Manual,Second Owner,3583.0,Dealer,22.7,796,5,449000.0,7,511.86,159.2
+Chevrolet,Optra,2007,Diesel + 1,Manual,Fourth & Above Owner,148000.0,Dealer,12.7,1991,5,300000.0,19,7789.47,398.2
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,48748.0,Dealer,17.0,1462,5,950000.0,7,6964.0,292.4
+Jeep,Compass,2018,Diesel,Manual,Second Owner,38000.0,Dealer,14.9,1956,5,1325000.0,8,4750.0,391.2
+Toyota,Corolla Altis,2016,Petrol,Automatic,Third Owner,36000.0,Dealer,14.3,1798,5,925000.0,10,3600.0,359.6
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,13747.0,Dealer,18.3,1197,5,675000.0,9,1527.44,239.4
+Mercedes-Benz,EQC,2022,Electric,Automatic,First Owner,3200.0,Dealer,0.0,0,5,9500000.0,4,800.0,0.0
+Hyundai,I10,2014,Petrol,Manual,Third Owner,41273.0,Dealer,19.8,1086,5,335000.0,12,3439.42,217.2
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,20142.0,Dealer,16.8,1497,5,988000.0,10,2014.2,299.4
+Porsche,718,2020,Petrol,Automatic,Second Owner,6500.0,Dealer,9.0,1988,2,11500000.0,6,1083.33,994.0
+Kia,Seltos,2019,Diesel,Manual,Second Owner,47103.0,Dealer,16.5,1497,5,1100000.0,7,6729.0,299.4
+Maruti,Ciaz,2020,Petrol,Automatic,Second Owner,7755.0,Dealer,20.7,1373,5,990000.0,6,1292.5,274.6
+Renault,Kwid,2019,Petrol,Manual,Second Owner,33513.0,Dealer,22.0,999,5,345000.0,7,4787.57,199.8
+BMW,3 Series,2019,Diesel,Manual,Second Owner,24848.0,Dealer,16.1,1995,5,3749000.0,7,3549.71,399.0
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,34559.0,Dealer,21.4,1197,5,639000.0,9,3839.89,239.4
+Hyundai,I20,2022,Petrol,Automatic,First Owner,4000.0,Dealer,18.6,1197,5,890000.0,4,1000.0,239.4
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,42247.0,Dealer,21.5,998,5,392000.0,8,5280.88,199.6
+Honda,Jazz,2018,Diesel,Manual,Second Owner,100000.0,Dealer,19.0,1498,5,800000.0,8,12500.0,299.6
+Maruti,Swift,2019,Diesel,Manual,Second Owner,69000.0,Dealer,21.2,1498,5,775000.0,7,9857.14,299.6
+Tata,Nexon,2021,Petrol,Manual,Second Owner,10422.0,Dealer,17.0,1199,5,1152000.0,5,2084.4,239.8
+Audi,Q3,2014,Diesel,Automatic,Third Owner,52000.0,Dealer,14.5,1984,5,1675000.0,12,4333.33,396.8
+Maruti,Ciaz,2019,Petrol,Automatic,Second Owner,56255.0,Dealer,20.7,1373,5,850000.0,7,8036.43,274.6
+Hyundai,Santro,2021,Cng,Manual,Second Owner,78260.0,Dealer,18.3,1197,5,593000.0,5,15652.0,239.4
+Maruti,Alto 800,2021,Cng,Manual,Second Owner,19970.0,Dealer,22.7,796,5,415000.0,5,3994.0,159.2
+MG,Hector,2020,Petrol,Automatic,Second Owner,9070.0,Dealer,18.0,1200,5,1850000.0,6,1511.67,240.0
+Ford,Figo,2013,Petrol,Manual,Fourth & Above Owner,73000.0,Dealer,16.0,1497,5,240000.0,13,5615.38,299.4
+Audi,Q3,2015,Diesel,Automatic,Third Owner,46336.0,Dealer,14.5,1984,5,1199000.0,11,4212.36,396.8
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,57220.0,Dealer,16.8,1497,5,895000.0,10,5722.0,299.4
+Honda,Jazz,2021,Petrol,Manual,Second Owner,7096.0,Dealer,18.7,1199,5,968000.0,5,1419.2,239.8
+Mercedes-Benz,EQC,2020,Electric,Automatic,Second Owner,21500.0,Dealer,0.0,0,5,8100000.0,6,3583.33,0.0
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,44045.0,Dealer,18.9,1197,5,493000.0,11,4004.09,239.4
+BMW,X1,2013,Diesel,Manual,Fourth & Above Owner,70000.0,Dealer,19.0,1498,5,1050000.0,13,5384.62,299.6
+Maruti,Swift,2018,Diesel,Manual,Second Owner,32853.0,Dealer,21.2,1498,5,785000.0,8,4106.62,299.6
+BMW,5 Series,2017,Diesel,Manual,Third Owner,26781.0,Dealer,15.6,1995,5,3899000.0,9,2975.67,399.0
+Skoda,Superb,2021,Petrol,Automatic,Second Owner,45700.0,Dealer,15.6,1498,5,3100000.0,5,9140.0,299.6
+Maruti,Swift,2014,Petrol,Manual,Third Owner,62000.0,Dealer,21.2,1197,5,485000.0,12,5166.67,239.4
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,73500.0,Dealer,21.5,998,5,435000.0,9,8166.67,199.6
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,74076.0,Dealer,21.5,998,5,451000.0,9,8230.67,199.6
+Tata,Tiago,2018,Petrol,Manual,Second Owner,56355.0,Dealer,17.0,1199,5,545000.0,8,7044.38,239.8
+Tata,Tiago,2017,Petrol,Manual,Third Owner,37000.0,Dealer,17.0,1199,5,450000.0,9,4111.11,239.8
+Maruti,Wagon R,2021,Cng,Manual,Second Owner,22158.0,Dealer,21.5,998,5,681000.0,5,4431.6,199.6
+Hyundai,Xcent,2014,Petrol,Manual,Third Owner,62568.0,Dealer,19.1,1197,5,395000.0,12,5214.0,239.4
+Kia,Seltos,2019,Petrol,Manual,Second Owner,19970.0,Dealer,16.5,1497,5,1143000.0,7,2852.86,299.4
+BMW,5 Series,2015,Diesel,Manual,Third Owner,73900.0,Dealer,15.6,1995,5,2300000.0,11,6718.18,399.0
+Kia,Seltos,2020,Petrol,Manual,Second Owner,37991.0,Dealer,16.5,1497,5,1050000.0,6,6331.83,299.4
+Hyundai,Creta,2018,Petrol,Automatic,Second Owner,58676.0,Dealer,16.8,1497,5,1275000.0,8,7334.5,299.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,35104.0,Dealer,18.9,1197,5,599000.0,9,3900.44,239.4
+Kia,Seltos,2019,Petrol,Manual,Second Owner,51605.0,Dealer,16.5,1497,5,1620000.0,7,7372.14,299.4
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,17472.0,Dealer,20.8,1197,5,420000.0,6,2912.0,239.4
+Hyundai,Elite I20,2015,Diesel,Manual,Third Owner,80000.0,Dealer,19.0,1498,5,475000.0,11,7272.73,299.6
+Mercedes-Benz,Glc,2021,Petrol,Automatic,Second Owner,16785.0,Dealer,13.8,1991,5,6600000.0,5,3357.0,398.2
+Mercedes-Benz,E Class,2020,Petrol,Automatic,Second Owner,3999.0,Dealer,13.8,1991,5,6899000.0,6,666.5,398.2
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,66882.0,Dealer,21.5,998,5,441000.0,9,7431.33,199.6
+Audi,A4,2018,Diesel,Automatic,Second Owner,71235.0,Dealer,17.4,1984,5,2950000.0,8,8904.38,396.8
+Chevrolet,Cruze,2013,Diesel,Automatic,Fourth & Above Owner,56000.0,Dealer,19.0,1498,5,590000.0,13,4307.69,299.6
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,74938.0,Dealer,18.9,1197,5,414000.0,10,7493.8,239.4
+Honda,City,2009,Petrol,Manual,Fourth & Above Owner,82000.0,Dealer,17.4,1497,5,285000.0,17,4823.53,299.4
+Maruti,Wagon R,2021,Cng,Manual,Second Owner,57685.0,Dealer,21.5,998,5,675000.0,5,11537.0,199.6
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,48000.0,Dealer,18.3,1197,5,710000.0,8,6000.0,239.4
+Mercedes-Benz,C Class,2013,Diesel,Automatic,Fourth & Above Owner,120000.0,Dealer,13.8,1991,5,1395000.0,13,9230.77,398.2
+Hyundai,Eon,2015,Petrol,Manual,Third Owner,33146.0,Dealer,21.1,814,5,320000.0,11,3013.27,162.8
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,26603.0,Dealer,21.4,1197,5,629000.0,7,3800.43,239.4
+Volkswagen,Vento,2016,Petrol,Automatic,Third Owner,53094.0,Dealer,17.2,1197,5,651000.0,10,5309.4,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,4098.0,Dealer,18.9,1197,5,475000.0,9,455.33,239.4
+Maruti,Wagon R,2011,Petrol,Manual,Fourth & Above Owner,75379.0,Dealer,21.5,998,5,289000.0,15,5025.27,199.6
+Hyundai,Venue,2019,Petrol,Manual,Second Owner,15763.0,Dealer,18.3,1197,5,897000.0,7,2251.86,239.4
+Mercedes-Benz,C Class,2010,Petrol,Automatic,Fourth & Above Owner,119500.0,Dealer,13.8,1991,5,850000.0,16,7468.75,398.2
+Maruti,Wagon R,2013,Petrol,Manual,Fourth & Above Owner,42697.0,Dealer,21.5,998,5,276000.0,13,3284.38,199.6
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,45000.0,Dealer,18.3,1197,5,690000.0,8,5625.0,239.4
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,55174.0,Dealer,17.0,1462,5,1044000.0,7,7882.0,292.4
+Honda,City,2016,Petrol,Automatic,Third Owner,82953.0,Dealer,17.4,1497,5,735000.0,10,8295.3,299.4
+Maruti,Wagon R,2016,Petrol,Automatic,Third Owner,85138.0,Dealer,21.5,998,5,390000.0,10,8513.8,199.6
+Audi,Q5,2015,Diesel,Automatic,Third Owner,57000.0,Dealer,14.5,1984,5,2500000.0,11,5181.82,396.8
+Audi,A6,2013,Diesel,Automatic,Fourth & Above Owner,52000.0,Dealer,14.5,1984,5,1125000.0,13,4000.0,396.8
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,27623.0,Dealer,16.8,1497,5,979000.0,10,2762.3,299.4
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,73333.0,Dealer,19.1,1197,5,499000.0,11,6666.64,239.4
+MG,Hector,2019,Diesel,Manual,Second Owner,45999.0,Dealer,19.0,1498,5,1659000.0,7,6571.29,299.6
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,61518.0,Dealer,21.4,1197,5,545000.0,9,6835.33,239.4
+Maruti,S-Presso,2021,Petrol,Manual,Second Owner,65.0,Dealer,20.8,1197,5,476000.0,5,13.0,239.4
+Maruti,Baleno,2017,Diesel,Manual,Third Owner,42400.0,Dealer,21.4,1498,5,739000.0,9,4711.11,299.6
+Jeep,Compass,2017,Petrol,Automatic,Third Owner,45221.0,Dealer,14.9,1956,5,1395000.0,9,5024.56,391.2
+Maruti,Ignis,2020,Petrol,Manual,Second Owner,11290.0,Dealer,20.9,1197,5,628000.0,6,1881.67,239.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,68446.0,Dealer,18.9,1197,5,409000.0,10,6844.6,239.4
+Honda,City,2015,Petrol,Manual,Third Owner,51850.0,Dealer,17.4,1497,5,590000.0,11,4713.64,299.4
+Toyota,Glanza,2020,Petrol,Automatic,Second Owner,10000.0,Dealer,14.5,1496,5,795000.0,6,1666.67,299.2
+Audi,Q3,2012,Diesel,Automatic,Fourth & Above Owner,69500.0,Dealer,14.5,1984,5,1190000.0,14,4964.29,396.8
+Maruti,Swift,2012,Petrol,Manual,Fourth & Above Owner,44681.0,Dealer,21.2,1197,5,445000.0,14,3191.5,239.4
+Renault,Kwid,2016,Petrol,Manual,Third Owner,65428.0,Dealer,22.0,999,5,299000.0,10,6542.8,199.8
+Hyundai,Verna,2013,Petrol,Manual,Fourth & Above Owner,84344.0,Dealer,17.7,1497,5,391000.0,13,6488.0,299.4
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,113600.0,Dealer,17.0,1462,5,890000.0,8,14200.0,292.4
+Maruti,Wagon R,2020,Cng,Manual,Second Owner,17778.0,Dealer,21.5,998,5,599000.0,6,2963.0,199.6
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,33269.0,Dealer,21.4,1197,5,580000.0,8,4158.62,239.4
+MG,Hector,2021,Petrol,Automatic,Second Owner,15222.0,Dealer,18.0,1200,5,1925000.0,5,3044.4,240.0
+Honda,City,2017,Diesel,Manual,Third Owner,87139.0,Dealer,17.4,1497,5,925000.0,9,9682.11,299.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,69551.0,Dealer,21.2,1197,5,340000.0,13,5350.08,239.4
+Hyundai,Verna,2013,Diesel,Manual,Fourth & Above Owner,72500.0,Dealer,17.7,1497,5,485000.0,13,5576.92,299.4
+Maruti,Swift,2018,Petrol,Manual,Second Owner,28899.0,Dealer,21.2,1197,5,633000.0,8,3612.38,239.4
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,13595.0,Dealer,21.5,998,5,396000.0,9,1510.56,199.6
+Ford,Endeavour,2016,Diesel,Automatic,Third Owner,83000.0,Dealer,16.0,1497,5,2475000.0,10,8300.0,299.4
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,19418.0,Dealer,18.3,1197,5,775000.0,7,2774.0,239.4
+Volvo,V40,2015,Diesel,Automatic,Third Owner,50965.0,Dealer,12.4,1969,5,1200000.0,11,4633.18,393.8
+Hyundai,Xcent,2017,Diesel,Manual,Third Owner,21707.0,Dealer,19.1,1498,5,425000.0,9,2411.89,299.6
+Mahindra,XUV500,2013,Diesel,Manual,Fourth & Above Owner,83555.0,Dealer,15.1,2179,7,740000.0,13,6427.31,311.29
+Hyundai,Verna,2015,Petrol,Manual,Third Owner,37000.0,Dealer,17.7,1497,5,585000.0,11,3363.64,299.4
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,43000.0,Dealer,18.9,1197,5,385000.0,12,3583.33,239.4
+Maruti,Baleno,2017,Petrol,Automatic,Third Owner,21769.0,Dealer,21.4,1197,5,690000.0,9,2418.78,239.4
+BMW,5 Series,2018,Petrol,Manual,Second Owner,32000.0,Dealer,15.6,1995,5,4250000.0,8,4000.0,399.0
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,14886.0,Dealer,20.7,1373,5,799000.0,8,1860.75,274.6
+MG,Hector,2020,Petrol,Automatic,Second Owner,6602.0,Dealer,18.0,1200,5,1890000.0,6,1100.33,240.0
+Maruti,Wagon R,2014,Cng,Manual,Third Owner,58000.0,Dealer,21.5,998,5,385000.0,12,4833.33,199.6
+Maruti,Wagon R,2014,Cng,Manual,Third Owner,63339.0,Dealer,21.5,998,5,407000.0,12,5278.25,199.6
+Maruti,Ciaz,2020,Petrol,Manual,Second Owner,4500.0,Dealer,20.7,1373,5,830000.0,6,750.0,274.6
+Renault,Triber,2020,Petrol,Automatic,Second Owner,23600.0,Dealer,20.0,999,5,760000.0,6,3933.33,199.8
+Hyundai,Venue,2019,Petrol,Manual,Second Owner,17844.0,Dealer,18.3,1197,5,955000.0,7,2549.14,239.4
+Honda,City,2019,Petrol,Manual,Second Owner,21000.0,Dealer,17.4,1497,5,875000.0,7,3000.0,299.4
+Tata,Indica,2017,Diesel,Manual,Third Owner,60000.0,Dealer,19.0,1498,5,250000.0,9,6666.67,299.6
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,34530.0,Dealer,20.8,1197,5,450000.0,10,3453.0,239.4
+Honda,CR-V,2014,Petrol,Automatic,Third Owner,117192.0,Dealer,17.8,1497,5,1400000.0,12,9766.0,299.4
+Honda,Jazz,2016,Diesel,Manual,Third Owner,54000.0,Dealer,19.0,1498,5,595000.0,10,5400.0,299.6
+Nissan,Terrano,2016,Petrol,Manual,Third Owner,38999.0,Dealer,18.0,1498,5,679000.0,10,3899.9,299.6
+Volkswagen,Ameo,2017,Diesel,Automatic,Third Owner,58549.0,Dealer,19.0,1498,5,660000.0,9,6505.44,299.6
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,41055.0,Dealer,18.3,1197,5,687000.0,7,5865.0,239.4
+Renault,Kwid,2018,Petrol,Manual,Second Owner,53728.0,Dealer,22.0,999,5,304000.0,8,6716.0,199.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,42141.0,Dealer,18.9,1197,5,529000.0,9,4682.33,239.4
+Tata,Tiago,2018,Petrol,Manual,Second Owner,63130.0,Dealer,17.0,1199,5,416000.0,8,7891.25,239.8
+Maruti,Alto K10,2016,Petrol,Manual,Third Owner,53912.0,Dealer,24.1,998,5,301000.0,10,5391.2,199.6
+Tata,Nexon,2019,Diesel,Manual,Second Owner,20678.0,Dealer,19.0,1498,5,941000.0,7,2954.0,299.6
+Tata,Safari,2022,Diesel,Manual,First Owner,4259.0,Dealer,14.1,1956,7,2375000.0,4,1064.75,279.43
+Honda,Jazz,2016,Petrol,Manual,Third Owner,48866.0,Dealer,18.7,1199,5,490000.0,10,4886.6,239.8
+Renault,Kwid,2018,Petrol,Manual,Second Owner,32954.0,Dealer,22.0,999,5,331000.0,8,4119.25,199.8
+Maruti,Wagon R,2012,Petrol,Manual,Fourth & Above Owner,37000.0,Dealer,21.5,998,5,235000.0,14,2642.86,199.6
+Mahindra,XUV500,2018,Diesel,Automatic,Second Owner,85000.0,Dealer,15.1,2179,7,1390000.0,8,10625.0,311.29
+Audi,A3,2016,Diesel,Automatic,Third Owner,36627.0,Dealer,14.5,1984,5,2475000.0,10,3662.7,396.8
+Volkswagen,Polo,2018,Petrol,Manual,Second Owner,62690.0,Dealer,17.2,1197,5,925000.0,8,7836.25,239.4
+Toyota,Innova,2020,Diesel,Manual,Second Owner,12039.0,Dealer,12.99,2494,7,2150000.0,6,2006.5,356.29
+Honda,City,2020,Petrol,Automatic,Second Owner,26230.0,Dealer,17.4,1497,5,1204000.0,6,4371.67,299.4
+Hyundai,Santro,2020,Petrol,Automatic,Second Owner,19156.0,Dealer,18.3,1197,5,557000.0,6,3192.67,239.4
+Hyundai,Grand I10,2020,Petrol,Manual,Second Owner,18350.0,Dealer,18.9,1197,5,579000.0,6,3058.33,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,44053.0,Dealer,18.3,1197,5,554000.0,8,5506.62,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,69000.0,Dealer,19.8,1086,5,340000.0,12,5750.0,217.2
+BMW,5 Series,2017,Diesel,Manual,Third Owner,40000.0,Dealer,15.6,1995,5,4300000.0,9,4444.44,399.0
+Tata,Harrier,2020,Diesel,Manual,Second Owner,35438.0,Dealer,19.0,1498,5,1895000.0,6,5906.33,299.6
+BMW,7 Series,2008,Petrol,Manual,Fourth & Above Owner,65000.0,Dealer,18.0,1200,5,1000000.0,18,3611.11,240.0
+Maruti,Ciaz,2020,Petrol,Automatic,Second Owner,38500.0,Dealer,20.7,1373,5,885000.0,6,6416.67,274.6
+Maruti,Wagon R,2018,Cng,Manual,Second Owner,20583.0,Dealer,21.5,998,5,484000.0,8,2572.88,199.6
+Skoda,Rapid,2016,Diesel,Automatic,Third Owner,81325.0,Dealer,15.6,1498,5,715000.0,10,8132.5,299.6
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,35000.0,Dealer,21.4,1197,5,590000.0,9,3888.89,239.4
+Maruti,Celerio,2015,Petrol,Automatic,Third Owner,25000.0,Dealer,20.8,1197,5,485000.0,11,2272.73,239.4
+Honda,Jazz,2015,Petrol,Manual,Third Owner,37993.0,Dealer,18.7,1199,5,462000.0,11,3453.91,239.8
+Hyundai,Creta,2018,Petrol,Manual,Second Owner,63194.0,Dealer,16.8,1497,5,1025000.0,8,7899.25,299.4
+Hyundai,I10,2009,Petrol,Manual,Fourth & Above Owner,60000.0,Dealer,19.8,1086,5,180000.0,17,3529.41,217.2
+Honda,City,2018,Petrol + 1,Automatic,Second Owner,70000.0,Dealer,17.4,1497,5,1200000.0,8,8750.0,299.4
+Tata,Hexa,2018,Diesel + 1,Manual,Second Owner,51000.0,Dealer,19.0,1498,5,1600000.0,8,6375.0,299.6
+Hyundai,Elite I20,2019,Petrol,Automatic,Second Owner,22024.0,Dealer,18.3,1197,5,830000.0,7,3146.29,239.4
+Skoda,Octavia,2017,Diesel,Manual,Third Owner,35793.0,Dealer,15.6,1498,5,2095000.0,9,3977.0,299.6
+Hyundai,Tucson,2017,Diesel,Automatic,Third Owner,75400.0,Dealer,19.0,1498,5,1925000.0,9,8377.78,299.6
+Maruti,Swift,2016,Diesel,Manual,Third Owner,84996.0,Dealer,21.2,1498,5,475000.0,10,8499.6,299.6
+Maruti,Swift,2015,Petrol,Manual,Third Owner,74767.0,Dealer,21.2,1197,5,460000.0,11,6797.0,239.4
+Honda,Amaze,2013,Petrol,Manual,Fourth & Above Owner,63956.0,Dealer,18.6,1199,5,342000.0,13,4919.69,239.8
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,48000.0,Dealer,21.5,998,5,450000.0,9,5333.33,199.6
+Renault,Duster,2014,Diesel,Manual,Third Owner,48330.0,Dealer,20.0,1498,5,685000.0,12,4027.5,299.6
+Maruti,Alto 800,2014,Petrol,Manual,Third Owner,93150.0,Dealer,22.7,796,5,210000.0,12,7762.5,159.2
+BMW,X3,2016,Diesel,Manual,Third Owner,69499.0,Dealer,19.0,1498,5,4100000.0,10,6949.9,299.6
+Mahindra,TUV300,2016,Diesel,Automatic,Third Owner,75000.0,Dealer,15.1,2179,7,545000.0,10,7500.0,311.29
+Kia,Carnival,2021,Diesel,Manual,Second Owner,13748.0,Dealer,16.5,1497,5,3499000.0,5,2749.6,299.4
+Maruti,Ciaz,2019,Petrol,Automatic,Second Owner,30672.0,Dealer,20.7,1373,5,1075000.0,7,4381.71,274.6
+Jeep,Compass,2019,Diesel,Manual,Second Owner,64683.0,Dealer,14.9,1956,5,1799000.0,7,9240.43,391.2
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,69886.0,Dealer,21.4,1197,5,711000.0,7,9983.71,239.4
+Audi,Q5,2014,Diesel,Automatic,Third Owner,34000.0,Dealer,14.5,1984,5,2150000.0,12,2833.33,396.8
+Hyundai,Creta,2019,Petrol,Manual,Second Owner,62137.0,Dealer,16.8,1497,5,1149000.0,7,8876.71,299.4
+Maruti,Baleno,2016,Petrol,Manual,Third Owner,56800.0,Dealer,21.4,1197,5,524000.0,10,5680.0,239.4
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,42382.0,Dealer,19.1,1197,5,475000.0,11,3852.91,239.4
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,66794.0,Dealer,21.5,998,5,390000.0,8,8349.25,199.6
+Honda,City,2020,Petrol,Automatic,Second Owner,19600.0,Dealer,17.4,1497,5,1150000.0,6,3266.67,299.4
+Mercedes-Benz,S Class,2011,Diesel,Automatic,Fourth & Above Owner,85489.0,Dealer,13.8,1991,5,1900000.0,15,5699.27,398.2
+Renault,Triber,2020,Petrol,Automatic,Second Owner,19784.0,Dealer,20.0,999,5,750000.0,6,3297.33,199.8
+Honda,City,2020,Petrol,Automatic,Second Owner,19238.0,Dealer,17.4,1497,5,1285000.0,6,3206.33,299.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,78518.0,Dealer,21.2,1197,5,420000.0,13,6039.85,239.4
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,54104.0,Dealer,16.8,1497,5,855000.0,9,6011.56,299.4
+Renault,Duster,2018,Diesel,Manual,Second Owner,55300.0,Dealer,20.0,1498,5,899000.0,8,6912.5,299.6
+Renault,Kwid,2018,Petrol,Manual,Second Owner,40397.0,Dealer,22.0,999,5,348000.0,8,5049.62,199.8
+Mahindra,XUV500,2015,Diesel,Manual,Third Owner,87527.0,Dealer,15.1,2179,7,811000.0,11,7957.0,311.29
+Toyota,Glanza,2019,Petrol,Manual,Second Owner,63000.0,Dealer,14.5,1496,5,675000.0,7,9000.0,299.2
+Maruti,Swift,2016,Diesel,Manual,Third Owner,83647.0,Dealer,21.2,1498,5,567000.0,10,8364.7,299.6
+Isuzu,Mu,2018,Diesel,Manual,Second Owner,75592.0,Dealer,13.8,1898,5,2100000.0,8,9449.0,379.6
+Renault,Duster,2012,Diesel,Manual,Fourth & Above Owner,57660.0,Dealer,20.0,1498,5,475000.0,14,4118.57,299.6
+Honda,Amaze,2018,Petrol,Manual,Second Owner,42277.0,Dealer,18.6,1199,5,685000.0,8,5284.62,239.8
+Maruti,S-Presso,2022,Petrol,Manual,First Owner,2600.0,Dealer,20.8,1197,5,525000.0,4,650.0,239.4
+Volvo,Xc90,2014,Diesel,Automatic,Third Owner,51000.0,Dealer,12.4,1969,5,2257000.0,12,4250.0,393.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,19630.0,Dealer,18.9,1197,5,575000.0,9,2181.11,239.4
+Honda,City,2016,Petrol,Manual,Third Owner,42218.0,Dealer,17.4,1497,5,745000.0,10,4221.8,299.4
+Toyota,Glanza,2019,Petrol,Manual,Second Owner,69553.0,Dealer,14.5,1496,5,708000.0,7,9936.14,299.2
+Maruti,Alto K10,2017,Petrol,Automatic,Third Owner,48448.0,Dealer,24.1,998,5,338000.0,9,5383.11,199.6
+Tata,Tiago,2019,Petrol,Manual,Second Owner,60167.0,Dealer,17.0,1199,5,484000.0,7,8595.29,239.8
+Honda,City,2012,Petrol,Manual,Fourth & Above Owner,61000.0,Dealer,17.4,1497,5,395000.0,14,4357.14,299.4
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,26282.0,Dealer,18.9,1197,5,434000.0,11,2389.27,239.4
+Mercedes-Benz,E Class,2019,Diesel,Automatic,Second Owner,19070.0,Dealer,13.8,1991,5,6175000.0,7,2724.29,398.2
+Audi,A4,2018,Diesel,Automatic,Second Owner,67262.0,Dealer,17.4,1984,5,3200000.0,8,8407.75,396.8
+Maruti,Ciaz,2020,Petrol,Manual,Second Owner,5814.0,Dealer,20.7,1373,5,872000.0,6,969.0,274.6
+Skoda,Rapid,2017,Diesel,Manual,Third Owner,76810.0,Dealer,15.6,1498,5,650000.0,9,8534.44,299.6
+Honda,Amaze,2015,Diesel,Manual,Third Owner,63587.0,Dealer,19.0,1498,5,495000.0,11,5780.64,299.6
+Kia,Seltos,2019,Petrol,Automatic,Second Owner,28000.0,Dealer,16.5,1497,5,1525000.0,7,4000.0,299.4
+Honda,Amaze,2014,Diesel,Manual,Third Owner,42637.0,Dealer,19.0,1498,5,499000.0,12,3553.08,299.6
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,52775.0,Dealer,21.5,998,5,432000.0,9,5863.89,199.6
+Maruti,Ciaz,2019,Petrol,Automatic,Second Owner,21809.0,Dealer,20.7,1373,5,850000.0,7,3115.57,274.6
+Volkswagen,Vento,2016,Petrol,Automatic,Third Owner,45689.0,Dealer,17.2,1197,5,725000.0,10,4568.9,239.4
+Maruti,Celerio,2017,Petrol,Manual,Third Owner,34251.0,Dealer,20.8,1197,5,433000.0,9,3805.67,239.4
+Maruti,Ertiga,2016,Cng,Manual,Third Owner,55000.0,Dealer,19.0,1462,7,720000.0,10,5500.0,208.86
+Skoda,Rapid,2018,Diesel,Manual,Second Owner,95004.0,Dealer,15.6,1498,5,925000.0,8,11875.5,299.6
+Tata,Harrier,2019,Diesel,Manual,Second Owner,20856.0,Dealer,19.0,1498,5,1695000.0,7,2979.43,299.6
+Maruti,Dzire,2020,Petrol,Automatic,Second Owner,11800.0,Dealer,22.0,1197,5,875000.0,6,1966.67,239.4
+Maruti,Baleno,2016,Petrol,Manual,Third Owner,32897.0,Dealer,21.4,1197,5,510000.0,10,3289.7,239.4
+Mahindra,TUV300,2016,Diesel,Manual,Third Owner,47107.0,Dealer,15.1,2179,7,565000.0,10,4710.7,311.29
+Maruti,Alto K10,2011,Petrol,Manual,Fourth & Above Owner,76614.0,Dealer,24.1,998,5,225000.0,15,5107.6,199.6
+Audi,Q3,2018,Diesel,Automatic,Second Owner,32345.0,Dealer,14.5,1984,5,1999000.0,8,4043.12,396.8
+Jaguar,Xe,2018,Diesel,Automatic,Second Owner,35491.0,Dealer,13.0,1999,5,3775000.0,8,4436.38,399.8
+Toyota,Innova,2021,Diesel,Automatic,Second Owner,22562.0,Dealer,12.99,2494,7,3250000.0,5,4512.4,356.29
+Maruti,Ciaz,2018,Diesel,Manual,Second Owner,49908.0,Dealer,20.7,1498,5,745000.0,8,6238.5,299.6
+Mini,Cooper,2021,Petrol,Automatic,Second Owner,2482.0,Dealer,16.3,1998,4,4400000.0,5,496.4,499.5
+Jeep,Compass,2020,Diesel,Automatic,Second Owner,9000.0,Dealer,14.9,1956,5,2300000.0,6,1500.0,391.2
+Volkswagen,Polo,2015,Petrol,Manual,Third Owner,27700.0,Dealer,17.2,1197,5,465000.0,11,2518.18,239.4
+Maruti,Wagon R,2009,Petrol,Manual,Fourth & Above Owner,49000.0,Dealer,21.5,998,5,180000.0,17,2882.35,199.6
+Maruti,Ignis,2018,Petrol,Manual,Second Owner,12104.0,Dealer,20.9,1197,5,453000.0,8,1513.0,239.4
+Hyundai,Xcent,2016,Petrol,Manual,Third Owner,28646.0,Dealer,19.1,1197,5,534000.0,10,2864.6,239.4
+Maruti,Alto 800,2014,Petrol,Manual,Third Owner,35965.0,Dealer,22.7,796,5,205000.0,12,2997.08,159.2
+Mercedes-Benz,E Class,2010,Diesel,Automatic,Fourth & Above Owner,64000.0,Dealer,13.8,1991,5,1550000.0,16,4000.0,398.2
+Maruti,Baleno,2020,Petrol,Manual,Second Owner,5288.0,Dealer,21.4,1197,5,735000.0,6,881.33,239.4
+Volvo,S60,2017,Diesel,Automatic,Third Owner,90604.0,Dealer,12.4,1969,5,1790000.0,9,10067.11,393.8
+Maruti,Estilo,2011,Petrol + 1,Manual,Fourth & Above Owner,68000.0,Dealer,20.8,1197,5,225000.0,15,4533.33,239.4
+Hyundai,I20,2020,Petrol,Manual,Second Owner,32243.0,Dealer,18.6,1197,5,850000.0,6,5373.83,239.4
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,33823.0,Dealer,20.7,1373,5,687000.0,9,3758.11,274.6
+Maruti,Swift,2018,Petrol,Automatic,Second Owner,25412.0,Dealer,21.2,1197,5,538000.0,8,3176.5,239.4
+BMW,3 Series,2021,Diesel,Manual,Second Owner,22600.0,Dealer,16.1,1995,5,5750000.0,5,4520.0,399.0
+Honda,City,2017,Petrol,Automatic,Third Owner,56468.0,Dealer,17.4,1497,5,830000.0,9,6274.22,299.4
+Ford,Figo,2011,Petrol + 1,Manual,Fourth & Above Owner,73000.0,Dealer,16.0,1497,5,240000.0,15,4866.67,299.4
+Honda,City,2018,Petrol,Manual,Second Owner,24751.0,Dealer,17.4,1497,5,630000.0,8,3093.88,299.4
+Audi,Tt,2016,Petrol,Automatic,Third Owner,9865.0,Dealer,14.5,1984,5,4600000.0,10,986.5,396.8
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,29646.0,Dealer,20.8,1197,5,475000.0,10,2964.6,239.4
+BMW,X1,2017,Diesel,Manual,Third Owner,55000.0,Dealer,19.0,1498,5,2175000.0,9,6111.11,299.6
+Volvo,S90,2020,Diesel,Automatic,Second Owner,15446.0,Dealer,12.4,1969,5,5900000.0,6,2574.33,393.8
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,24595.0,Dealer,20.8,1197,5,445000.0,10,2459.5,239.4
+Hyundai,Creta,2016,Diesel,Automatic,Third Owner,97761.0,Dealer,16.8,1497,5,998000.0,10,9776.1,299.4
+Maruti,Celerio,2020,Petrol,Manual,Second Owner,47000.0,Dealer,20.8,1197,5,565000.0,6,7833.33,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,66471.0,Dealer,18.9,1197,5,485000.0,9,7385.67,239.4
+Datsun,Redi,2019,Petrol,Manual,Second Owner,37000.0,Dealer,20.6,999,5,325000.0,7,5285.71,199.8
+Kia,Seltos,2020,Petrol,Manual,Second Owner,28100.0,Dealer,16.5,1497,5,1690000.0,6,4683.33,299.4
+Skoda,Octavia,2014,Diesel,Automatic,Third Owner,63000.0,Dealer,15.6,1498,5,799000.0,12,5250.0,299.6
+Maruti,Wagon R,2016,Cng,Manual,Third Owner,26600.0,Dealer,21.5,998,5,430000.0,10,2660.0,199.6
+Mahindra,XUV500,2013,Diesel,Manual,Fourth & Above Owner,55105.0,Dealer,15.1,2179,7,575000.0,13,4238.85,311.29
+Hyundai,Eon,2017,Petrol,Manual,Third Owner,42748.0,Dealer,21.1,814,5,330000.0,9,4749.78,162.8
+Audi,Q7,2018,Diesel,Automatic,Second Owner,51000.0,Dealer,14.5,1984,5,5950000.0,8,6375.0,396.8
+Audi,A6,2018,Diesel,Automatic,Second Owner,76000.0,Dealer,14.5,1984,5,2500000.0,8,9500.0,396.8
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,35247.0,Dealer,18.3,1197,5,613000.0,9,3916.33,239.4
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,30183.0,Dealer,18.3,1197,5,559000.0,7,4311.86,239.4
+Mercedes-Benz,Gls,2018,Diesel,Automatic,Second Owner,88000.0,Dealer,13.8,1991,5,6800000.0,8,11000.0,398.2
+MG,Hector,2021,Petrol,Automatic,Second Owner,7870.0,Dealer,18.0,1200,5,1699000.0,5,1574.0,240.0
+Mahindra,XUV500,2018,Diesel,Manual,Second Owner,50000.0,Dealer,15.1,2179,7,1490000.0,8,6250.0,311.29
+BMW,3 Series,2015,Diesel,Manual,Third Owner,46000.0,Dealer,16.1,1995,5,1710000.0,11,4181.82,399.0
+Maruti,Celerio,2018,Petrol,Automatic,Second Owner,28726.0,Dealer,20.8,1197,5,490000.0,8,3590.75,239.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,32907.0,Dealer,21.5,998,5,313000.0,12,2742.25,199.6
+Maruti,Alto 800,2019,Petrol,Manual,Second Owner,29092.0,Dealer,22.7,796,5,332000.0,7,4156.0,159.2
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,62461.0,Dealer,16.8,1497,5,745000.0,10,6246.1,299.4
+Skoda,Rapid,2012,Petrol,Manual,Fourth & Above Owner,60000.0,Dealer,15.6,1498,5,385000.0,14,4285.71,299.6
+Jaguar,Xf,2015,Diesel,Automatic,Third Owner,62645.0,Dealer,13.0,1999,5,2650000.0,11,5695.0,399.8
+Toyota,Innova,2015,Diesel,Manual,Third Owner,83000.0,Dealer,12.99,2494,7,975000.0,11,7545.45,356.29
+Hyundai,I10,2015,Petrol,Manual,Third Owner,55000.0,Dealer,19.8,1086,5,350000.0,11,5000.0,217.2
+Toyota,Fortuner,2019,Diesel,Automatic,Second Owner,181213.0,Dealer,12.6,2755,7,3500000.0,7,25887.57,393.57
+Maruti,Dzire,2020,Petrol,Automatic,Second Owner,25000.0,Dealer,22.0,1197,5,690000.0,6,4166.67,239.4
+Datsun,Go,2018,Petrol,Manual,Second Owner,52000.0,Dealer,20.6,999,5,235000.0,8,6500.0,199.8
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,64942.0,Dealer,21.5,998,5,406000.0,9,7215.78,199.6
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,47837.0,Dealer,21.4,1197,5,540000.0,8,5979.62,239.4
+Maruti,Ertiga,2013,Petrol + 1,Manual,Fourth & Above Owner,85000.0,Dealer,19.0,1462,7,500000.0,13,6538.46,208.86
+Mercedes-Benz,Cla,2015,Diesel,Automatic,Third Owner,51500.0,Dealer,13.8,1991,5,1649000.0,11,4681.82,398.2
+Skoda,Octavia,2018,Petrol,Manual,Second Owner,23160.0,Dealer,15.6,1498,5,2100000.0,8,2895.0,299.6
+Toyota,Corolla Altis,2015,Petrol,Manual,Third Owner,75000.0,Dealer,14.3,1798,5,695000.0,11,6818.18,359.6
+Toyota,Corolla Altis,2014,Petrol,Automatic,Third Owner,63000.0,Dealer,14.3,1798,5,883000.0,12,5250.0,359.6
+BMW,3 Series,2013,Diesel,Manual,Fourth & Above Owner,104264.0,Dealer,16.1,1995,5,1550000.0,13,8020.31,399.0
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,15972.0,Dealer,18.3,1197,5,659000.0,9,1774.67,239.4
+Maruti,Swift,2020,Petrol,Manual,Second Owner,30956.0,Dealer,21.2,1197,5,674000.0,6,5159.33,239.4
+Renault,Kiger,2022,Petrol,Automatic,First Owner,4371.0,Dealer,20.0,999,5,998000.0,4,1092.75,199.8
+Hyundai,Elite I20,2020,Diesel,Manual,Second Owner,63653.0,Dealer,19.0,1498,5,1075000.0,6,10608.83,299.6
+Honda,City,2013,Petrol,Manual,Fourth & Above Owner,55297.0,Dealer,17.4,1497,5,405000.0,13,4253.62,299.4
+Porsche,Cayenne,2015,Petrol,Automatic,Third Owner,12000.0,Dealer,9.0,1988,2,7857000.0,11,1090.91,994.0
+Maruti,Swift,2014,Petrol,Manual,Third Owner,21391.0,Dealer,21.2,1197,5,417000.0,12,1782.58,239.4
+Renault,Kwid,2021,Petrol,Manual,Second Owner,11546.0,Dealer,22.0,999,5,483000.0,5,2309.2,199.8
+Hyundai,Santro,2020,Petrol,Manual,Second Owner,16270.0,Dealer,18.3,1197,5,589000.0,6,2711.67,239.4
+Nissan,Micra,2012,Diesel,Manual,Fourth & Above Owner,73000.0,Dealer,18.0,1498,5,290000.0,14,5214.29,299.6
+Hyundai,Grand I10,2018,Petrol,Automatic,Second Owner,53000.0,Dealer,18.9,1197,5,549000.0,8,6625.0,239.4
+Mercedes-Benz,Cla,2016,Petrol,Automatic,Third Owner,34000.0,Dealer,13.8,1991,5,1925000.0,10,3400.0,398.2
+Hyundai,Venue,2019,Petrol,Manual,Second Owner,16328.0,Dealer,18.3,1197,5,1064000.0,7,2332.57,239.4
+Land Rover,Range,2021,Petrol,Automatic,Second Owner,5600.0,Dealer,11.8,2179,5,7700000.0,5,1120.0,435.8
+Maruti,S Cross,2016,Diesel,Manual,Third Owner,73994.0,Dealer,19.0,1498,5,760000.0,10,7399.4,299.6
+Hyundai,Verna,2019,Petrol,Automatic,Second Owner,43920.0,Dealer,17.7,1497,5,1059000.0,7,6274.29,299.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,17715.0,Dealer,21.5,998,5,317000.0,12,1476.25,199.6
+Toyota,Corolla Altis,2018,Petrol,Manual,Second Owner,82902.0,Dealer,14.3,1798,5,1040000.0,8,10362.75,359.6
+Land Rover,Range,2019,Diesel,Automatic,Second Owner,39012.0,Dealer,11.8,2179,5,12300000.0,7,5573.14,435.8
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,23344.0,Dealer,21.5,998,5,471000.0,8,2918.0,199.6
+Hyundai,Verna,2019,Petrol,Manual,Second Owner,93494.0,Dealer,17.7,1497,5,749000.0,7,13356.29,299.4
+Honda,Jazz,2018,Petrol,Automatic,Second Owner,27222.0,Dealer,18.7,1199,5,725000.0,8,3402.75,239.8
+Hyundai,Creta,2021,Diesel,Manual,Second Owner,14468.0,Dealer,16.8,1497,5,1600000.0,5,2893.6,299.4
+Honda,Jazz,2017,Diesel + 1,Manual,Third Owner,40000.0,Dealer,19.0,1498,5,747000.0,9,4444.44,299.6
+Maruti,Ciaz,2015,Petrol,Manual,Third Owner,65000.0,Dealer,20.7,1373,5,575000.0,11,5909.09,274.6
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,60028.0,Dealer,24.1,998,5,190000.0,14,4287.71,199.6
+Mercedes-Benz,Cla,2018,Diesel,Automatic,Second Owner,37300.0,Dealer,13.8,1991,5,2950000.0,8,4662.5,398.2
+Hyundai,Creta,2018,Petrol,Automatic,Second Owner,32143.0,Dealer,16.8,1497,5,1125000.0,8,4017.88,299.4
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,55669.0,Dealer,18.3,1197,5,645000.0,10,5566.9,239.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,72757.0,Dealer,18.9,1197,5,405000.0,10,7275.7,239.4
+Honda,City,2017,Petrol,Automatic,Third Owner,56000.0,Dealer,17.4,1497,5,875000.0,9,6222.22,299.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,70244.0,Dealer,21.2,1197,5,326000.0,13,5403.38,239.4
+BMW,X1,2018,Diesel,Manual,Second Owner,46595.0,Dealer,19.0,1498,5,2145000.0,8,5824.38,299.6
+Maruti,Xl6,2020,Petrol,Manual,Second Owner,20703.0,Dealer,20.8,1197,5,951000.0,6,3450.5,239.4
+Tata,Harrier,2019,Diesel,Manual,Second Owner,47579.0,Dealer,19.0,1498,5,1465000.0,7,6797.0,299.6
+BMW,X1,2019,Diesel,Manual,Second Owner,31000.0,Dealer,19.0,1498,5,2800000.0,7,4428.57,299.6
+Mercedes-Benz,Gle,2019,Diesel,Automatic,Second Owner,31300.0,Dealer,13.8,1991,5,5800000.0,7,4471.43,398.2
+Mahindra,XUV500,2016,Diesel,Automatic,Third Owner,91000.0,Dealer,15.1,2179,7,950000.0,10,9100.0,311.29
+Audi,A6,2013,Diesel,Automatic,Fourth & Above Owner,69631.0,Dealer,14.5,1984,5,2100000.0,13,5356.23,396.8
+Hyundai,I20,2018,Petrol,Manual,Second Owner,32036.0,Dealer,18.6,1197,5,611000.0,8,4004.5,239.4
+Mercedes-Benz,Amg,2022,Petrol,Automatic,First Owner,2000.0,Dealer,13.8,1991,5,6450000.0,4,500.0,398.2
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,22621.0,Dealer,18.3,1197,5,600000.0,8,2827.62,239.4
+Honda,City,2015,Petrol,Manual,Third Owner,45000.0,Dealer,17.4,1497,5,625000.0,11,4090.91,299.4
+Hyundai,Verna,2019,Petrol,Automatic,Second Owner,33423.0,Dealer,17.7,1497,5,1126000.0,7,4774.71,299.4
+Hyundai,I10,2015,Petrol,Manual,Third Owner,31500.0,Dealer,19.8,1086,5,350000.0,11,2863.64,217.2
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,51000.0,Dealer,16.8,1497,5,925000.0,9,5666.67,299.4
+Renault,Duster,2018,Diesel,Manual,Second Owner,39030.0,Dealer,20.0,1498,5,979000.0,8,4878.75,299.6
+Mercedes-Benz,C Class,2018,Petrol,Automatic,Second Owner,27236.0,Dealer,13.8,1991,5,3056000.0,8,3404.5,398.2
+Maruti,Celerio,2015,Petrol,Manual,Third Owner,24063.0,Dealer,20.8,1197,5,357000.0,11,2187.55,239.4
+Volkswagen,Polo,2015,Petrol,Manual,Third Owner,59819.0,Dealer,17.2,1197,5,521000.0,11,5438.09,239.4
+Renault,Kwid,2019,Petrol,Manual,Second Owner,8297.0,Dealer,22.0,999,5,439000.0,7,1185.29,199.8
+Maruti,Dzire,2017,Petrol,Automatic,Third Owner,32740.0,Dealer,22.0,1197,5,735000.0,9,3637.78,239.4
+BMW,5 Series,2020,Diesel,Manual,Second Owner,34500.0,Dealer,15.6,1995,5,4599000.0,6,5750.0,399.0
+Kia,Sonet,2020,Diesel,Manual,Second Owner,25007.0,Dealer,16.5,1497,5,1419000.0,6,4167.83,299.4
+Maruti,Ignis,2019,Petrol,Manual,Second Owner,38944.0,Dealer,20.9,1197,5,489000.0,7,5563.43,239.4
+Volkswagen,Vento,2010,Petrol,Manual,Fourth & Above Owner,101740.0,Dealer,17.2,1197,5,350000.0,16,6358.75,239.4
+Maruti,Celerio,2019,Petrol,Automatic,Second Owner,9130.0,Dealer,20.8,1197,5,599000.0,7,1304.29,239.4
+Honda,Jazz,2017,Petrol,Automatic,Third Owner,48650.0,Dealer,18.7,1199,5,675000.0,9,5405.56,239.8
+Hyundai,Creta,2016,Petrol,Automatic,Third Owner,40314.0,Dealer,16.8,1497,5,1029000.0,10,4031.4,299.4
+Volvo,Xc90,2015,Diesel,Automatic,Third Owner,30800.0,Dealer,12.4,1969,5,2287000.0,11,2800.0,393.8
+Maruti,Alto 800,2019,Cng,Manual,Second Owner,33000.0,Dealer,22.7,796,5,345000.0,7,4714.29,159.2
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,54000.0,Dealer,18.3,1197,5,790000.0,7,7714.29,239.4
+Honda,City,2018,Petrol,Manual,Second Owner,22500.0,Dealer,17.4,1497,5,845000.0,8,2812.5,299.4
+Toyota,Glanza,2020,Petrol,Automatic,Second Owner,29866.0,Dealer,14.5,1496,5,849000.0,6,4977.67,299.2
+Ford,Aspire,2017,Petrol,Manual,Third Owner,65000.0,Dealer,16.0,1497,5,535000.0,9,7222.22,299.4
+Volkswagen,Taigun,2021,Petrol,Manual,Second Owner,9792.0,Dealer,17.2,1197,5,1649000.0,5,1958.4,239.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,64774.0,Dealer,18.9,1197,5,569000.0,10,6477.4,239.4
+Toyota,Fortuner,2018,Diesel,Manual,Second Owner,31283.0,Dealer,12.6,2755,7,3375000.0,8,3910.38,393.57
+Skoda,Rapid,2020,Petrol,Automatic,Second Owner,10713.0,Dealer,15.6,1498,5,1082000.0,6,1785.5,299.6
+Maruti,Baleno,2021,Petrol,Manual,Second Owner,13127.0,Dealer,21.4,1197,5,699000.0,5,2625.4,239.4
+Maruti,Wagon R,2016,Petrol,Automatic,Third Owner,50000.0,Dealer,21.5,998,5,425000.0,10,5000.0,199.6
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,35340.0,Dealer,22.7,796,5,325000.0,8,4417.5,159.2
+Honda,Jazz,2017,Petrol,Automatic,Third Owner,27654.0,Dealer,18.7,1199,5,651000.0,9,3072.67,239.8
+Hyundai,Santro,2018,Cng,Manual,Second Owner,40067.0,Dealer,18.3,1197,5,523000.0,8,5008.38,239.4
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,50899.0,Dealer,21.4,1197,5,548000.0,8,6362.38,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,52000.0,Dealer,18.9,1197,5,460000.0,9,5777.78,239.4
+Honda,City,2017,Petrol,Manual,Third Owner,51292.0,Dealer,17.4,1497,5,695000.0,9,5699.11,299.4
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,19905.0,Dealer,18.3,1197,5,519000.0,9,2211.67,239.4
+Tata,Nano,2015,Petrol,Manual,Third Owner,18000.0,Dealer,17.0,1199,5,110000.0,11,1636.36,239.8
+Maruti,Ertiga,2021,Cng,Manual,Second Owner,28715.0,Dealer,19.0,1462,7,1140000.0,5,5743.0,208.86
+Maruti,Ertiga,2015,Cng,Manual,Third Owner,69161.0,Dealer,19.0,1462,7,721000.0,11,6287.36,208.86
+Maruti,S Cross,2017,Diesel,Manual,Third Owner,54571.0,Dealer,19.0,1498,5,887000.0,9,6063.44,299.6
+Honda,City,2016,Petrol,Automatic,Third Owner,25000.0,Dealer,17.4,1497,5,775000.0,10,2500.0,299.4
+Honda,City,2019,Petrol,Manual,Second Owner,24259.0,Dealer,17.4,1497,5,875000.0,7,3465.57,299.4
+Maruti,Alto 800,2015,Petrol,Manual,Third Owner,30233.0,Dealer,22.7,796,5,295000.0,11,2748.45,159.2
+Mahindra,Thar,2021,Diesel,Automatic,Second Owner,21000.0,Dealer,15.1,2179,7,1750000.0,5,4200.0,311.29
+Maruti,Ertiga,2017,Cng,Manual,Third Owner,51000.0,Dealer,19.0,1462,7,825000.0,9,5666.67,208.86
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,23137.0,Dealer,18.9,1197,5,450000.0,10,2313.7,239.4
+Maruti,Dzire,2018,Diesel,Automatic,Second Owner,52328.0,Dealer,22.0,1498,5,645000.0,8,6541.0,299.6
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,35849.0,Dealer,21.4,1197,5,666000.0,9,3983.22,239.4
+Hyundai,Venue,2020,Petrol,Manual,Second Owner,24783.0,Dealer,18.3,1197,5,1066000.0,6,4130.5,239.4
+Maruti,Ciaz,2016,Petrol,Manual,Third Owner,27346.0,Dealer,20.7,1373,5,500000.0,10,2734.6,274.6
+Hyundai,I10,2014,Petrol,Manual,Third Owner,75619.0,Dealer,19.8,1086,5,349000.0,12,6301.58,217.2
+Hyundai,I10,2013,Petrol,Manual,Fourth & Above Owner,54000.0,Dealer,19.8,1086,5,245000.0,13,4153.85,217.2
+Nissan,Sunny,2012,Petrol,Manual,Fourth & Above Owner,58000.0,Dealer,18.0,1498,5,295000.0,14,4142.86,299.6
+Jeep,Wrangler,2021,Petrol,Manual,Second Owner,27340.0,Dealer,14.9,1956,5,6500000.0,5,5468.0,391.2
+Maruti,Swift,2020,Petrol,Automatic,Second Owner,17000.0,Dealer,21.2,1197,5,630000.0,6,2833.33,239.4
+Volkswagen,Vento,2018,Diesel,Automatic,Second Owner,111139.0,Dealer,19.0,1498,5,790000.0,8,13892.38,299.6
+Hyundai,Elantra,2018,Diesel,Automatic,Second Owner,40916.0,Dealer,14.6,1999,5,1875000.0,8,5114.5,399.8
+Honda,Wr,2018,Diesel,Manual,Second Owner,120463.0,Dealer,17.8,1497,5,950000.0,8,15057.88,299.4
+Honda,Br,2017,Diesel,Manual,Third Owner,94197.0,Dealer,17.8,1497,5,799000.0,9,10466.33,299.4
+Maruti,Swift,2014,Petrol,Manual,Third Owner,76859.0,Dealer,21.2,1197,5,424000.0,12,6404.92,239.4
+Honda,City,2017,Petrol,Manual,Third Owner,33000.0,Dealer,17.4,1497,5,725000.0,9,3666.67,299.4
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,17286.0,Dealer,21.4,1197,5,596000.0,8,2160.75,239.4
+Mercedes-Benz,Gla,2017,Diesel,Automatic,Third Owner,40484.0,Dealer,13.8,1991,5,2850000.0,9,4498.22,398.2
+Tata,Tiago,2020,Diesel,Manual,Second Owner,70450.0,Dealer,19.0,1498,5,540000.0,6,11741.67,299.6
+Honda,City,2019,Petrol,Manual,Second Owner,45074.0,Dealer,17.4,1497,5,840000.0,7,6439.14,299.4
+Hyundai,Elite I20,2015,Diesel,Manual,Third Owner,101000.0,Dealer,19.0,1498,5,695000.0,11,9181.82,299.6
+BMW,7 Series,2016,Petrol,Manual,Third Owner,22000.0,Dealer,18.0,1200,5,5900000.0,10,2200.0,240.0
+Hyundai,I20,2012,Petrol,Manual,Fourth & Above Owner,69000.0,Dealer,18.6,1197,5,345000.0,14,4928.57,239.4
+Maruti,Dzire,2018,Petrol,Automatic,Second Owner,14895.0,Dealer,22.0,1197,5,696000.0,8,1861.88,239.4
+Tata,Tiago,2022,Cng,Manual,First Owner,11444.0,Dealer,17.0,1199,5,810000.0,4,2861.0,239.8
+Tata,Tiago,2018,Petrol,Manual,Second Owner,32120.0,Dealer,17.0,1199,5,414000.0,8,4015.0,239.8
+Toyota,Fortuner,2019,Diesel,Automatic,Second Owner,64300.0,Dealer,12.6,2755,7,3300000.0,7,9185.71,393.57
+Tata,Harrier,2021,Diesel,Manual,Second Owner,30503.0,Dealer,19.0,1498,5,2200000.0,5,6100.6,299.6
+Honda,City,2019,Petrol,Manual,Second Owner,62042.0,Dealer,17.4,1497,5,825000.0,7,8863.14,299.4
+Mahindra,TUV300,2017,Diesel,Manual,Third Owner,122924.0,Dealer,15.1,2179,7,745000.0,9,13658.22,311.29
+Skoda,Kushaq,2021,Petrol,Manual,Second Owner,23402.0,Dealer,15.6,1498,5,1925000.0,5,4680.4,299.6
+Audi,A4,2015,Petrol,Automatic,Third Owner,35000.0,Dealer,17.4,1984,5,1725000.0,11,3181.82,396.8
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,38657.0,Dealer,18.3,1197,5,639000.0,9,4295.22,239.4
+Maruti,Wagon R,2016,Petrol,Automatic,Third Owner,64000.0,Dealer,21.5,998,5,445000.0,10,6400.0,199.6
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,35094.0,Dealer,18.9,1197,5,510000.0,8,4386.75,239.4
+Toyota,Glanza,2021,Petrol,Manual,Second Owner,18000.0,Dealer,14.5,1496,5,730000.0,5,3600.0,299.2
+Nissan,Magnite,2021,Petrol,Manual,Second Owner,18503.0,Dealer,18.0,1498,5,670000.0,5,3700.6,299.6
+Honda,Jazz,2020,Petrol,Automatic,Second Owner,33197.0,Dealer,18.7,1199,5,842000.0,6,5532.83,239.8
+Land Rover,Range,2019,Petrol,Automatic,Second Owner,39800.0,Dealer,11.8,2179,5,7700000.0,7,5685.71,435.8
+Maruti,Swift,2021,Petrol,Manual,Second Owner,24783.0,Dealer,21.2,1197,5,715000.0,5,4956.6,239.4
+Maruti,Vitara Brezza,2017,Diesel,Manual,Third Owner,55000.0,Dealer,17.0,1462,5,815000.0,9,6111.11,292.4
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,11844.0,Dealer,18.3,1197,5,554000.0,7,1692.0,239.4
+Jeep,Compass,2017,Diesel,Manual,Third Owner,37430.0,Dealer,14.9,1956,5,1695000.0,9,4158.89,391.2
+Mahindra,XUV500,2013,Diesel,Manual,Fourth & Above Owner,81682.0,Dealer,15.1,2179,7,879000.0,13,6283.23,311.29
+Hyundai,Xcent,2014,Petrol,Manual,Third Owner,32700.0,Dealer,19.1,1197,5,490000.0,12,2725.0,239.4
+Honda,Wr,2021,Petrol,Manual,Second Owner,23795.0,Dealer,17.8,1497,5,1019000.0,5,4759.0,299.4
+Maruti,Swift,2015,Petrol,Manual,Third Owner,37188.0,Dealer,21.2,1197,5,518000.0,11,3380.73,239.4
+Maruti,Alto K10,2017,Petrol,Manual,Third Owner,27044.0,Dealer,24.1,998,5,379000.0,9,3004.89,199.6
+Hyundai,Elite I20,2016,Diesel,Manual,Third Owner,52451.0,Dealer,19.0,1498,5,660000.0,10,5245.1,299.6
+MG,Hector,2020,Petrol,Automatic,Second Owner,35200.0,Dealer,18.0,1200,5,1649000.0,6,5866.67,240.0
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,30490.0,Dealer,18.3,1197,5,849000.0,7,4355.71,239.4
+Maruti,Celerio,2019,Petrol,Automatic,Second Owner,65000.0,Dealer,20.8,1197,5,500000.0,7,9285.71,239.4
+Maruti,Alto 800,2017,Cng,Manual,Third Owner,36427.0,Dealer,22.7,796,5,349000.0,9,4047.44,159.2
+Hyundai,Santro,2020,Petrol,Manual,Second Owner,47873.0,Dealer,18.3,1197,5,589000.0,6,7978.83,239.4
+Mahindra,XUV500,2015,Diesel,Manual,Third Owner,116000.0,Dealer,15.1,2179,7,865000.0,11,10545.45,311.29
+Volkswagen,Taigun,2022,Petrol,Automatic,First Owner,11321.0,Dealer,17.2,1197,5,1790000.0,4,2830.25,239.4
+Hyundai,Creta,2018,Petrol,Manual,Second Owner,12000.0,Dealer,16.8,1497,5,930000.0,8,1500.0,299.4
+Hyundai,Grand I10,2018,Petrol,Automatic,Second Owner,23671.0,Dealer,18.9,1197,5,695000.0,8,2958.88,239.4
+Maruti,Sx4,2009,Petrol,Manual,Fourth & Above Owner,58000.0,Dealer,16.5,1586,5,160000.0,17,3411.76,317.2
+Honda,Amaze,2018,Petrol,Automatic,Second Owner,38868.0,Dealer,18.6,1199,5,665000.0,8,4858.5,239.8
+Honda,City,2016,Petrol,Automatic,Third Owner,33613.0,Dealer,17.4,1497,5,795000.0,10,3361.3,299.4
+Audi,Q3,2016,Diesel,Automatic,Third Owner,90246.0,Dealer,14.5,1984,5,2050000.0,10,9024.6,396.8
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,58005.0,Dealer,18.9,1197,5,500000.0,8,7250.62,239.4
+Toyota,Yaris,2018,Petrol,Manual,Second Owner,44000.0,Dealer,14.5,1496,5,980000.0,8,5500.0,299.2
+Maruti,Swift,2019,Petrol,Automatic,Second Owner,28151.0,Dealer,21.2,1197,5,704000.0,7,4021.57,239.4
+Hyundai,Creta,2015,Petrol,Manual,Third Owner,59233.0,Dealer,16.8,1497,5,745000.0,11,5384.82,299.4
+Hyundai,Grand I10,2017,Diesel,Manual,Third Owner,34000.0,Dealer,19.0,1498,5,500000.0,9,3777.78,299.6
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,47500.0,Dealer,21.4,1197,5,610000.0,9,5277.78,239.4
+Honda,City,2010,Petrol,Manual,Fourth & Above Owner,82000.0,Dealer,17.4,1497,5,325000.0,16,5125.0,299.4
+Toyota,Fortuner,2021,Diesel,Automatic,Second Owner,28000.0,Dealer,12.6,2755,7,4850000.0,5,5600.0,393.57
+Toyota,Etios,2015,Petrol,Manual,Third Owner,32545.0,Dealer,14.5,1496,5,435000.0,11,2958.64,299.2
+Honda,City,2014,Petrol,Manual,Third Owner,82852.0,Dealer,17.4,1497,5,653000.0,12,6904.33,299.4
+Kia,Seltos,2019,Petrol,Automatic,Second Owner,57600.0,Dealer,16.5,1497,5,1490000.0,7,8228.57,299.4
+Hyundai,Grand I10,2018,Diesel,Manual,Second Owner,30704.0,Dealer,19.0,1498,5,620000.0,8,3838.0,299.6
+BMW,X5,2017,Diesel,Manual,Third Owner,60000.0,Dealer,19.0,1498,5,4790000.0,9,6666.67,299.6
+Maruti,Baleno,2016,Petrol,Manual,Third Owner,14813.0,Dealer,21.4,1197,5,527000.0,10,1481.3,239.4
+Fiat,Punto,2014,Diesel,Manual,Third Owner,85451.0,Dealer,19.0,1498,5,350000.0,12,7120.92,299.6
+Renault,Kwid,2017,Petrol,Automatic,Third Owner,39736.0,Dealer,22.0,999,5,425000.0,9,4415.11,199.8
+Mercedes-Benz,C Class,2016,Diesel,Automatic,Third Owner,31283.0,Dealer,13.8,1991,5,2878000.0,10,3128.3,398.2
+Honda,City,2015,Petrol,Automatic,Third Owner,69000.0,Dealer,17.4,1497,5,615000.0,11,6272.73,299.4
+Maruti,Xl6,2022,Petrol,Automatic,First Owner,14222.0,Dealer,20.8,1197,5,1290000.0,4,3555.5,239.4
+Honda,City,2011,Petrol,Manual,Fourth & Above Owner,63000.0,Dealer,17.4,1497,5,345000.0,15,4200.0,299.4
+Volkswagen,Polo,2013,Diesel,Manual,Fourth & Above Owner,57261.0,Dealer,19.0,1498,5,290000.0,13,4404.69,299.6
+Skoda,Rapid,2020,Petrol,Automatic,Second Owner,14049.0,Dealer,15.6,1498,5,1013000.0,6,2341.5,299.6
+Hyundai,Eon,2016,Petrol,Manual,Third Owner,75000.0,Dealer,21.1,814,5,295000.0,10,7500.0,162.8
+Maruti,S-Presso,2021,Petrol,Manual,Second Owner,66.0,Dealer,20.8,1197,5,476000.0,5,13.2,239.4
+Maruti,Dzire,2018,Diesel,Manual,Second Owner,91000.0,Dealer,22.0,1498,5,785000.0,8,11375.0,299.6
+Maruti,Ritz,2011,Petrol,Manual,Fourth & Above Owner,39900.0,Dealer,18.5,1197,5,235000.0,15,2660.0,239.4
+Hyundai,Creta,2022,Petrol,Automatic,First Owner,9355.0,Dealer,16.8,1497,5,1925000.0,4,2338.75,299.4
+Maruti,Baleno,2018,Petrol,Automatic,Second Owner,55000.0,Dealer,21.4,1197,5,700000.0,8,6875.0,239.4
+Volkswagen,Taigun,2021,Petrol,Automatic,Second Owner,16777.0,Dealer,17.2,1197,5,1749000.0,5,3355.4,239.4
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,55627.0,Dealer,12.99,2494,7,2449000.0,8,6953.38,356.29
+Maruti,Ertiga,2014,Petrol,Manual,Third Owner,67590.0,Dealer,19.0,1462,7,595000.0,12,5632.5,208.86
+Nissan,Micra,2017,Petrol,Manual,Third Owner,16937.0,Dealer,18.0,1498,5,325000.0,9,1881.89,299.6
+Honda,City,2018,Petrol,Manual,Second Owner,36000.0,Dealer,17.4,1497,5,875000.0,8,4500.0,299.4
+Honda,Amaze,2022,Petrol,Manual,First Owner,7702.0,Dealer,18.6,1199,5,857000.0,4,1925.5,239.8
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,50729.0,Dealer,20.8,1197,5,454000.0,6,8454.83,239.4
+BMW,3 Series,2018,Petrol,Manual,Second Owner,63000.0,Dealer,16.1,1995,5,2250000.0,8,7875.0,399.0
+Mini,Cooper,2014,Diesel,Automatic,Third Owner,46251.0,Dealer,16.3,1998,4,1475000.0,12,3854.25,499.5
+Hyundai,Verna,2016,Petrol,Manual,Third Owner,67000.0,Dealer,17.7,1497,5,590000.0,10,6700.0,299.4
+Mercedes-Benz,Cla,2016,Diesel,Automatic,Third Owner,52295.0,Dealer,13.8,1991,5,2500000.0,10,5229.5,398.2
+Maruti,Alto 800,2015,Petrol,Manual,Third Owner,52460.0,Dealer,22.7,796,5,292000.0,11,4769.09,159.2
+Hyundai,I20,2012,Petrol,Manual,Fourth & Above Owner,41429.0,Dealer,18.6,1197,5,430000.0,14,2959.21,239.4
+Jeep,Compass,2019,Petrol,Automatic,Second Owner,28449.0,Dealer,14.9,1956,5,1825000.0,7,4064.14,391.2
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,57588.0,Dealer,18.3,1197,5,526000.0,7,8226.86,239.4
+Maruti,Wagon R,2018,Petrol,Automatic,Second Owner,53830.0,Dealer,21.5,998,5,490000.0,8,6728.75,199.6
+Toyota,Innova,2009,Diesel,Manual,Fourth & Above Owner,120000.0,Dealer,12.99,2494,7,425000.0,17,7058.82,356.29
+Tata,Indica,2007,Diesel,Manual,Fourth & Above Owner,50000.0,Dealer,19.0,1498,5,60000.0,19,2631.58,299.6
+Maruti,Alto 800,2015,Petrol,Manual,Third Owner,68000.0,Dealer,22.7,796,5,310000.0,11,6181.82,159.2
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,22772.0,Dealer,21.4,1197,5,655000.0,8,2846.5,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,22407.0,Dealer,18.9,1197,5,465000.0,9,2489.67,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,61546.0,Dealer,18.3,1197,5,630000.0,8,7693.25,239.4
+Hyundai,I20,2012,Petrol,Manual,Fourth & Above Owner,68000.0,Dealer,18.6,1197,5,310000.0,14,4857.14,239.4
+Honda,City,2015,Petrol,Automatic,Third Owner,45000.0,Dealer,17.4,1497,5,690000.0,11,4090.91,299.4
+MG,Astor,2021,Petrol,Automatic,Second Owner,4946.0,Dealer,18.0,1200,5,1685000.0,5,989.2,240.0
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,13889.0,Dealer,21.5,998,5,464000.0,9,1543.22,199.6
+Jeep,Compass,2019,Petrol,Automatic,Second Owner,23409.0,Dealer,14.9,1956,5,1692000.0,7,3344.14,391.2
+Toyota,Fortuner,2017,Diesel,Automatic,Third Owner,82000.0,Dealer,12.6,2755,7,3250000.0,9,9111.11,393.57
+Maruti,Celerio,2014,Petrol,Manual,Third Owner,40900.0,Dealer,20.8,1197,5,415000.0,12,3408.33,239.4
+Mercedes-Benz,A,2017,Diesel,Automatic,Third Owner,8368.0,Dealer,13.8,1991,5,2295000.0,9,929.78,398.2
+Toyota,Fortuner,2012,Diesel,Automatic,Fourth & Above Owner,107281.0,Dealer,12.6,2755,7,1649000.0,14,7662.93,393.57
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,51595.0,Dealer,21.2,1197,5,340000.0,13,3968.85,239.4
+Renault,Kwid,2018,Petrol,Manual,Second Owner,22541.0,Dealer,22.0,999,5,460000.0,8,2817.62,199.8
+Mercedes-Benz,Glc,2018,Diesel,Automatic,Second Owner,46000.0,Dealer,13.8,1991,5,4400000.0,8,5750.0,398.2
+Maruti,Wagon R,2016,Petrol,Manual,Third Owner,20728.0,Dealer,21.5,998,5,359000.0,10,2072.8,199.6
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,44868.0,Dealer,18.9,1197,5,595000.0,7,6409.71,239.4
+Hyundai,Grand I10,2019,Petrol,Automatic,Second Owner,18631.0,Dealer,18.9,1197,5,733000.0,7,2661.57,239.4
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,48969.0,Dealer,12.99,2494,7,1890000.0,8,6121.12,356.29
+Toyota,Innova,2022,Diesel,Manual,First Owner,42000.0,Dealer,12.99,2494,7,3350000.0,4,10500.0,356.29
+Maruti,Wagon R,2021,Petrol,Manual,Second Owner,9011.0,Dealer,21.5,998,5,649000.0,5,1802.2,199.6
+Honda,City,2015,Petrol,Automatic,Third Owner,77116.0,Dealer,17.4,1497,5,950000.0,11,7010.55,299.4
+Honda,City,2018,Diesel + 1,Manual,Second Owner,26500.0,Dealer,17.4,1497,5,820000.0,8,3312.5,299.4
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,22872.0,Dealer,16.8,1497,5,1137000.0,9,2541.33,299.4
+Volvo,V40,2016,Diesel,Automatic,Third Owner,30000.0,Dealer,12.4,1969,5,1600000.0,10,3000.0,393.8
+Hyundai,Elite I20,2018,Petrol,Automatic,Second Owner,33647.0,Dealer,18.3,1197,5,750000.0,8,4205.88,239.4
+Maruti,Alto 800,2014,Petrol,Manual,Third Owner,27233.0,Dealer,22.7,796,5,223000.0,12,2269.42,159.2
+Hyundai,Creta,2021,Petrol,Automatic,Second Owner,28374.0,Dealer,16.8,1497,5,1725000.0,5,5674.8,299.4
+Mahindra,Scorpio,2017,Diesel,Manual,Third Owner,80500.0,Dealer,15.1,2179,7,895000.0,9,8944.44,311.29
+Volkswagen,Polo,2017,Petrol,Manual,Third Owner,41417.0,Dealer,17.2,1197,5,945000.0,9,4601.89,239.4
+Maruti,Alto 800,2015,Petrol,Manual,Third Owner,23377.0,Dealer,22.7,796,5,267000.0,11,2125.18,159.2
+Hyundai,Elite I20,2018,Diesel,Manual,Second Owner,75126.0,Dealer,19.0,1498,5,850000.0,8,9390.75,299.6
+Maruti,Ciaz,2020,Petrol,Automatic,Second Owner,16700.0,Dealer,20.7,1373,5,949000.0,6,2783.33,274.6
+Honda,Wr,2019,Petrol,Manual,Second Owner,27429.0,Dealer,17.8,1497,5,699000.0,7,3918.43,299.4
+Renault,Kwid,2018,Petrol,Manual,Second Owner,40000.0,Dealer,22.0,999,5,295000.0,8,5000.0,199.8
+Ford,Figo,2015,Diesel,Manual,Third Owner,50945.0,Dealer,16.0,1497,5,475000.0,11,4631.36,299.4
+Maruti,Swift,2019,Petrol,Manual,Second Owner,9500.0,Dealer,21.2,1197,5,650000.0,7,1357.14,239.4
+Honda,Civic,2009,Petrol,Manual,Fourth & Above Owner,107551.0,Dealer,17.8,1497,5,235000.0,17,6326.53,299.4
+Mahindra,Xuv700,2022,Diesel,Automatic,First Owner,2100.0,Dealer,15.1,2179,7,2800000.0,4,525.0,311.29
+Maruti,Swift,2012,Petrol,Manual,Fourth & Above Owner,40110.0,Dealer,21.2,1197,5,327000.0,14,2865.0,239.4
+Honda,Brio,2013,Petrol,Manual,Fourth & Above Owner,60000.0,Dealer,18.5,1198,5,370000.0,13,4615.38,239.6
+Honda,CR-V,2015,Petrol,Automatic,Third Owner,74009.0,Dealer,17.8,1497,5,1251000.0,11,6728.09,299.4
+BMW,3 Series,2020,Petrol,Manual,Second Owner,13900.0,Dealer,16.1,1995,5,4750000.0,6,2316.67,399.0
+BMW,X5,2017,Diesel,Manual,Third Owner,28000.0,Dealer,19.0,1498,5,4800000.0,9,3111.11,299.6
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,11537.0,Dealer,20.8,1197,5,450000.0,6,1922.83,239.4
+Toyota,Glanza,2021,Petrol,Automatic,Second Owner,15928.0,Dealer,14.5,1496,5,985000.0,5,3185.6,299.2
+Mahindra,Alturas,2019,Diesel,Automatic,Second Owner,40180.0,Dealer,15.1,2179,7,2145000.0,7,5740.0,311.29
+Renault,Duster,2018,Diesel,Manual,Second Owner,22601.0,Dealer,20.0,1498,5,850000.0,8,2825.12,299.6
+BMW,3 Series,2016,Diesel,Manual,Third Owner,99000.0,Dealer,16.1,1995,5,2750000.0,10,9900.0,399.0
+Maruti,Ignis,2020,Petrol,Manual,Second Owner,10658.0,Dealer,20.9,1197,5,712000.0,6,1776.33,239.4
+Maruti,Celerio,2020,Cng,Manual,Second Owner,75044.0,Dealer,20.8,1197,5,556000.0,6,12507.33,239.4
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,43999.0,Dealer,20.7,1373,5,875000.0,8,5499.88,274.6
+Honda,Jazz,2017,Petrol,Manual,Third Owner,92270.0,Dealer,18.7,1199,5,570000.0,9,10252.22,239.8
+Maruti,Swift,2012,Petrol,Manual,Fourth & Above Owner,77000.0,Dealer,21.2,1197,5,370000.0,14,5500.0,239.4
+Audi,Q3,2015,Diesel,Automatic,Third Owner,148108.0,Dealer,14.5,1984,5,1500000.0,11,13464.36,396.8
+Maruti,Wagon R,2016,Petrol,Manual,Third Owner,39876.0,Dealer,21.5,998,5,407000.0,10,3987.6,199.6
+Jaguar,Xf,2014,Diesel,Automatic,Third Owner,67534.0,Dealer,13.0,1999,5,1950000.0,12,5627.83,399.8
+Maruti,Alto 800,2015,Cng,Manual,Third Owner,75430.0,Dealer,22.7,796,5,330000.0,11,6857.27,159.2
+Maruti,Alto K10,2022,Petrol + 1,Manual,First Owner,20000.0,Dealer,24.1,998,5,420000.0,4,5000.0,199.6
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,32000.0,Dealer,17.0,1462,5,1150000.0,7,4571.43,292.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,29000.0,Dealer,18.9,1197,5,535000.0,10,2900.0,239.4
+Hyundai,I20,2016,Petrol,Manual,Third Owner,60273.0,Dealer,18.6,1197,5,645000.0,10,6027.3,239.4
+Honda,Amaze,2015,Petrol,Manual,Third Owner,57000.0,Dealer,18.6,1199,5,450000.0,11,5181.82,239.8
+Tata,Nexon,2022,Petrol,Manual,First Owner,3280.0,Dealer,17.0,1199,5,1065000.0,4,820.0,239.8
+Audi,Q7,2022,Petrol,Automatic,First Owner,6500.0,Dealer,14.5,1984,5,9300000.0,4,1625.0,396.8
+Toyota,Fortuner,2018,Diesel,Automatic,Second Owner,51000.0,Dealer,12.6,2755,7,3250000.0,8,6375.0,393.57
+Toyota,Corolla Altis,2015,Petrol,Manual,Third Owner,90293.0,Dealer,14.3,1798,5,645000.0,11,8208.45,359.6
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,36000.0,Dealer,21.2,1197,5,395000.0,13,2769.23,239.4
+Mercedes-Benz,E Class,2014,Diesel,Automatic,Third Owner,39000.0,Dealer,13.8,1991,5,2200000.0,12,3250.0,398.2
+BMW,5 Series,2019,Diesel,Manual,Second Owner,25234.0,Dealer,15.6,1995,5,5195000.0,7,3604.86,399.0
+Skoda,Kodiaq,2019,Diesel,Automatic,Second Owner,61213.0,Dealer,15.6,1498,5,3260000.0,7,8744.71,299.6
+Renault,Kwid,2021,Petrol,Manual,Second Owner,36904.0,Dealer,22.0,999,5,446000.0,5,7380.8,199.8
+Maruti,Swift,2018,Petrol,Manual,Second Owner,16304.0,Dealer,21.2,1197,5,542000.0,8,2038.0,239.4
+Skoda,Octavia,2015,Petrol,Automatic,Third Owner,43000.0,Dealer,15.6,1498,5,945000.0,11,3909.09,299.6
+Tata,Nexon,2021,Petrol,Manual,Second Owner,20763.0,Dealer,17.0,1199,5,1225000.0,5,4152.6,239.8
+Maruti,Eeco,2016,Cng,Manual,Third Owner,38500.0,Dealer,16.1,1196,5,475000.0,10,3850.0,239.2
+Mahindra,Thar,2017,Diesel,Manual,Third Owner,41535.0,Dealer,15.1,2179,7,730000.0,9,4615.0,311.29
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,24645.0,Dealer,21.4,1197,5,731000.0,7,3520.71,239.4
+BMW,X5,2018,Diesel,Manual,Second Owner,48213.0,Dealer,19.0,1498,5,5300000.0,8,6026.62,299.6
+BMW,X5,2017,Diesel,Manual,Third Owner,80000.0,Dealer,19.0,1498,5,4250000.0,9,8888.89,299.6
+Audi,Q3,2015,Diesel,Automatic,Third Owner,79000.0,Dealer,14.5,1984,5,1513000.0,11,7181.82,396.8
+Maruti,Ciaz,2021,Petrol,Automatic,Second Owner,32031.0,Dealer,20.7,1373,5,1155000.0,5,6406.2,274.6
+Hyundai,I10,2013,Petrol,Automatic,Fourth & Above Owner,65002.0,Dealer,19.8,1086,5,295000.0,13,5000.15,217.2
+Mahindra,Xuv300,2021,Diesel,Manual,Second Owner,39300.0,Dealer,15.1,2179,7,1574000.0,5,7860.0,311.29
+Renault,Kwid,2016,Petrol,Automatic,Third Owner,25332.0,Dealer,22.0,999,5,495000.0,10,2533.2,199.8
+Maruti,Alto 800,2016,Petrol,Manual,Third Owner,24456.0,Dealer,22.7,796,5,298000.0,10,2445.6,159.2
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,32491.0,Dealer,18.9,1197,5,521000.0,9,3610.11,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,12593.0,Dealer,18.3,1197,5,645000.0,8,1574.12,239.4
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,34267.0,Dealer,18.3,1197,5,550000.0,7,4895.29,239.4
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,29855.0,Dealer,20.8,1197,5,482000.0,10,2985.5,239.4
+Hyundai,I20,2015,Petrol,Manual,Third Owner,15367.0,Dealer,18.6,1197,5,550000.0,11,1397.0,239.4
+Hyundai,Venue,2019,Petrol,Manual,Second Owner,14667.0,Dealer,18.3,1197,5,895000.0,7,2095.29,239.4
+Hyundai,Verna,2016,Petrol,Manual,Third Owner,41990.0,Dealer,17.7,1497,5,549000.0,10,4199.0,299.4
+Hyundai,Creta,2018,Diesel,Manual,Second Owner,59000.0,Dealer,16.8,1497,5,1425000.0,8,7375.0,299.4
+Hyundai,Xcent,2015,Diesel,Manual,Third Owner,48000.0,Dealer,19.1,1498,5,350000.0,11,4363.64,299.6
+Maruti,Celerio,2018,Petrol,Automatic,Second Owner,17542.0,Dealer,20.8,1197,5,560000.0,8,2192.75,239.4
+Skoda,Rapid,2018,Petrol,Automatic,Second Owner,57702.0,Dealer,15.6,1498,5,899000.0,8,7212.75,299.6
+Honda,City,2013,Petrol,Automatic,Fourth & Above Owner,42408.0,Dealer,17.4,1497,5,620000.0,13,3262.15,299.4
+Honda,City,2016,Petrol,Automatic,Third Owner,51000.0,Dealer,17.4,1497,5,599000.0,10,5100.0,299.4
+Renault,Duster,2018,Diesel,Manual,Second Owner,75795.0,Dealer,20.0,1498,5,862000.0,8,9474.38,299.6
+Maruti,Baleno,2018,Petrol,Automatic,Second Owner,21367.0,Dealer,21.4,1197,5,895000.0,8,2670.88,239.4
+Mercedes-Benz,C Class,2006,Petrol,Automatic,Fourth & Above Owner,76000.0,Dealer,13.8,1991,5,463000.0,20,3800.0,398.2
+Mercedes-Benz,C Class,2015,Diesel,Automatic,Third Owner,30000.0,Dealer,13.8,1991,5,2650000.0,11,2727.27,398.2
+Hyundai,Grand I10,2015,Petrol,Automatic,Third Owner,41017.0,Dealer,18.9,1197,5,535000.0,11,3728.82,239.4
+Hyundai,Grand I10,2016,Petrol,Automatic,Third Owner,58184.0,Dealer,18.9,1197,5,524000.0,10,5818.4,239.4
+Maruti,Ciaz,2018,Petrol,Automatic,Second Owner,31573.0,Dealer,20.7,1373,5,900000.0,8,3946.62,274.6
+Tata,Nexon,2022,Electric,Automatic,First Owner,4100.0,Dealer,0.0,0,5,1500000.0,4,1025.0,0.0
+Mahindra,Quanto,2012,Diesel,Manual,Fourth & Above Owner,100000.0,Dealer,15.1,2179,7,300000.0,14,7142.86,311.29
+Tata,Tigor,2018,Petrol,Manual,Second Owner,33100.0,Dealer,17.0,1199,5,490000.0,8,4137.5,239.8
+Maruti,Dzire,2018,Petrol,Manual,Second Owner,19000.0,Dealer,22.0,1197,5,665000.0,8,2375.0,239.4
+Honda,City,2022,Petrol,Manual,First Owner,9300.0,Dealer,17.4,1497,5,991000.0,4,2325.0,299.4
+Hyundai,Tucson,2021,Diesel,Manual,Second Owner,12030.0,Dealer,19.0,1498,5,761000.0,5,2406.0,299.6
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,9889.0,Dealer,18.3,1197,5,779000.0,10,988.9,239.4
+Skoda,Octavia,2019,Petrol,Automatic,Second Owner,41000.0,Dealer,15.6,1498,5,1950000.0,7,5857.14,299.6
+Hyundai,Verna,2017,Diesel,Automatic,Third Owner,69599.0,Dealer,17.7,1497,5,1025000.0,9,7733.22,299.4
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,56322.0,Dealer,18.9,1197,5,376000.0,12,4693.5,239.4
+Hyundai,Santro,2013,Petrol,Manual,Fourth & Above Owner,24587.0,Dealer,18.3,1197,5,265000.0,13,1891.31,239.4
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,43398.0,Dealer,16.8,1497,5,975000.0,9,4822.0,299.4
+BMW,3 Series,2011,Diesel,Manual,Fourth & Above Owner,40000.0,Dealer,16.1,1995,5,900000.0,15,2666.67,399.0
+Maruti,Wagon R,2021,Petrol,Manual,Second Owner,18512.0,Dealer,21.5,998,5,687000.0,5,3702.4,199.6
+Maruti,Alto 800,2020,Petrol,Manual,Second Owner,13046.0,Dealer,22.7,796,5,369000.0,6,2174.33,159.2
+Hyundai,I10,2014,Petrol,Manual,Third Owner,73700.0,Dealer,19.8,1086,5,390000.0,12,6141.67,217.2
+Honda,Wr,2019,Petrol,Manual,Second Owner,6000.0,Dealer,17.8,1497,5,890000.0,7,857.14,299.4
+Tata,Harrier,2022,Diesel,Manual,First Owner,6861.0,Dealer,19.0,1498,5,2500000.0,4,1715.25,299.6
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,53776.0,Dealer,18.3,1197,5,465000.0,11,4888.73,239.4
+Skoda,Rapid,2017,Diesel,Manual,Third Owner,61681.0,Dealer,15.6,1498,5,654000.0,9,6853.44,299.6
+Renault,Kwid,2019,Petrol,Manual,Second Owner,13045.0,Dealer,22.0,999,5,351000.0,7,1863.57,199.8
+Maruti,Swift,2012,Diesel,Manual,Fourth & Above Owner,98251.0,Dealer,21.2,1498,5,526000.0,14,7017.93,299.6
+Renault,Kwid,2018,Petrol,Manual,Second Owner,52778.0,Dealer,22.0,999,5,380000.0,8,6597.25,199.8
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,45000.0,Dealer,16.8,1497,5,911000.0,10,4500.0,299.4
+Nissan,Terrano,2015,Diesel,Manual,Third Owner,72000.0,Dealer,18.0,1498,5,625000.0,11,6545.45,299.6
+MG,Hector,2021,Petrol,Automatic,Second Owner,20999.0,Dealer,18.0,1200,5,1975000.0,5,4199.8,240.0
+Maruti,Ritz,2012,Petrol,Manual,Fourth & Above Owner,42000.0,Dealer,18.5,1197,5,315000.0,14,3000.0,239.4
+Maruti,Vitara Brezza,2020,Petrol,Manual,Second Owner,72255.0,Dealer,17.0,1462,5,859000.0,6,12042.5,292.4
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,48529.0,Dealer,16.8,1497,5,1003000.0,9,5392.11,299.4
+Honda,Jazz,2017,Petrol,Manual,Third Owner,55056.0,Dealer,18.7,1199,5,673000.0,9,6117.33,239.8
+Land Rover,Range,2020,Petrol,Automatic,Second Owner,31059.0,Dealer,11.8,2179,5,7899000.0,6,5176.5,435.8
+Renault,Duster,2014,Diesel,Manual,Third Owner,56816.0,Dealer,20.0,1498,5,570000.0,12,4734.67,299.6
+Maruti,Ertiga,2021,Petrol,Automatic,Second Owner,12587.0,Dealer,19.0,1462,7,1190000.0,5,2517.4,208.86
+Toyota,Innova,2017,Diesel,Automatic,Third Owner,56967.0,Dealer,12.99,2494,7,1850000.0,9,6329.67,356.29
+Renault,Kwid,2021,Petrol,Manual,Second Owner,5485.0,Dealer,22.0,999,5,549000.0,5,1097.0,199.8
+Renault,Captur,2019,Diesel,Manual,Second Owner,51720.0,Dealer,20.0,1498,5,675000.0,7,7388.57,299.6
+Hyundai,Santro,2018,Petrol,Automatic,Second Owner,29944.0,Dealer,18.3,1197,5,518000.0,8,3743.0,239.4
+Hyundai,Verna,2018,Petrol,Manual,Second Owner,16339.0,Dealer,17.7,1497,5,750000.0,8,2042.38,299.4
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,93500.0,Dealer,17.0,1462,5,985000.0,8,11687.5,292.4
+Honda,City,2017,Petrol,Manual,Third Owner,31605.0,Dealer,17.4,1497,5,695000.0,9,3511.67,299.4
+Hyundai,Verna,2021,Diesel,Manual,Second Owner,14512.0,Dealer,17.7,1497,5,1383000.0,5,2902.4,299.4
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,24993.0,Dealer,22.7,796,5,319000.0,8,3124.12,159.2
+Mahindra,Xuv300,2018,Diesel,Manual,Second Owner,72000.0,Dealer,15.1,2179,7,1150000.0,8,9000.0,311.29
+Toyota,Innova,2017,Diesel,Automatic,Third Owner,52907.0,Dealer,12.99,2494,7,2250000.0,9,5878.56,356.29
+Ford,Figo,2016,Petrol,Automatic,Third Owner,49223.0,Dealer,16.0,1497,5,550000.0,10,4922.3,299.4
+Toyota,Corolla Altis,2018,Petrol,Manual,Second Owner,125000.0,Dealer,14.3,1798,5,885000.0,8,15625.0,359.6
+Tata,Tiago,2018,Petrol,Manual,Second Owner,32210.0,Dealer,17.0,1199,5,639000.0,8,4026.25,239.8
+Honda,Wr,2018,Petrol,Manual,Second Owner,27963.0,Dealer,17.8,1497,5,820000.0,8,3495.38,299.4
+Volkswagen,Tiguan,2017,Diesel,Manual,Third Owner,74000.0,Dealer,19.0,1498,5,2400000.0,9,8222.22,299.6
+Audi,Q7,2017,Diesel,Automatic,Third Owner,40000.0,Dealer,14.5,1984,5,6150000.0,9,4444.44,396.8
+Mahindra,XUV500,2012,Diesel,Manual,Fourth & Above Owner,147421.0,Dealer,15.1,2179,7,750000.0,14,10530.07,311.29
+BMW,X1,2019,Diesel,Manual,Second Owner,36114.0,Dealer,19.0,1498,5,3250000.0,7,5159.14,299.6
+Toyota,Camry,2017,Petrol,Manual,Third Owner,82000.0,Dealer,12.9,2494,5,2143000.0,9,9111.11,498.8
+Honda,Amaze,2014,Petrol,Manual,Third Owner,65000.0,Dealer,18.6,1199,5,460000.0,12,5416.67,239.8
+Mercedes-Benz,C Class,2012,Diesel,Automatic,Fourth & Above Owner,99941.0,Dealer,13.8,1991,5,950000.0,14,7138.64,398.2
+Maruti,Swift,2015,Petrol,Manual,Third Owner,76256.0,Dealer,21.2,1197,5,370000.0,11,6932.36,239.4
+Fiat,Punto,2016,Petrol,Manual,Third Owner,36500.0,Dealer,16.3,1248,5,400000.0,10,3650.0,249.6
+Maruti,Ignis,2017,Petrol,Manual,Third Owner,41240.0,Dealer,20.9,1197,5,525000.0,9,4582.22,239.4
+Mercedes-Benz,E Class,2022,Diesel,Automatic,First Owner,11000.0,Dealer,13.8,1991,5,7400000.0,4,2750.0,398.2
+Mercedes-Benz,C Class,2013,Diesel,Automatic,Fourth & Above Owner,55910.0,Dealer,13.8,1991,5,1395000.0,13,4300.77,398.2
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,38345.0,Dealer,18.9,1197,5,479000.0,10,3834.5,239.4
+Audi,A6,2020,Petrol,Automatic,Second Owner,23931.0,Dealer,14.5,1984,5,4800000.0,6,3988.5,396.8
+Mahindra,XUV500,2020,Diesel,Manual,Second Owner,73342.0,Dealer,15.1,2179,7,1350000.0,6,12223.67,311.29
+Honda,Amaze,2021,Petrol,Automatic,Second Owner,17500.0,Dealer,18.6,1199,5,851000.0,5,3500.0,239.8
+Kia,Seltos,2019,Petrol,Manual,Second Owner,23113.0,Dealer,16.5,1497,5,1491000.0,7,3301.86,299.4
+Mercedes-Benz,Gle,2016,Diesel,Automatic,Third Owner,47045.0,Dealer,13.8,1991,5,4275000.0,10,4704.5,398.2
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,32064.0,Dealer,18.9,1197,5,415000.0,12,2672.0,239.4
+Maruti,Dzire,2017,Petrol,Automatic,Third Owner,76203.0,Dealer,22.0,1197,5,637000.0,9,8467.0,239.4
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,27448.0,Dealer,18.9,1197,5,477000.0,7,3921.14,239.4
+Jeep,Compass,2021,Petrol,Automatic,Second Owner,5030.0,Dealer,14.9,1956,5,2250000.0,5,1006.0,391.2
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,30858.0,Dealer,18.3,1197,5,510000.0,7,4408.29,239.4
+Maruti,Swift,2016,Petrol,Manual,Third Owner,48000.0,Dealer,21.2,1197,5,550000.0,10,4800.0,239.4
+Hyundai,I10,2011,Petrol,Automatic,Fourth & Above Owner,36500.0,Dealer,19.8,1086,5,320000.0,15,2433.33,217.2
+Maruti,Celerio,2018,Cng,Manual,Second Owner,34039.0,Dealer,20.8,1197,5,524000.0,8,4254.88,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,24062.0,Dealer,18.3,1197,5,536000.0,8,3007.75,239.4
+Mercedes-Benz,C Class,2015,Diesel,Automatic,Third Owner,64148.0,Dealer,13.8,1991,5,3000000.0,11,5831.64,398.2
+MG,Hector,2019,Diesel,Manual,Second Owner,46301.0,Dealer,19.0,1498,5,1611000.0,7,6614.43,299.6
+Mahindra,Thar,2022,Petrol,Manual,First Owner,3590.0,Dealer,15.1,2179,7,1699000.0,4,897.5,311.29
+Toyota,Fortuner,2014,Diesel,Automatic,Third Owner,134361.0,Dealer,12.6,2755,7,1990000.0,12,11196.75,393.57
+Toyota,Fortuner,2016,Diesel,Automatic,Third Owner,108512.0,Dealer,12.6,2755,7,2649000.0,10,10851.2,393.57
+Hyundai,Grand I10,2021,Cng,Manual,Second Owner,8423.0,Dealer,18.9,1197,5,778000.0,5,1684.6,239.4
+Volkswagen,Polo,2013,Petrol,Manual,Fourth & Above Owner,78800.0,Dealer,17.2,1197,5,345000.0,13,6061.54,239.4
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,46023.0,Dealer,20.7,1373,5,745000.0,8,5752.88,274.6
+Hyundai,Verna,2017,Petrol,Manual,Third Owner,47000.0,Dealer,17.7,1497,5,675000.0,9,5222.22,299.4
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,18352.0,Dealer,18.3,1197,5,683000.0,9,2039.11,239.4
+Honda,Amaze,2015,Petrol,Manual,Third Owner,70000.0,Dealer,18.6,1199,5,460000.0,11,6363.64,239.8
+MG,Astor,2021,Petrol,Automatic,Second Owner,12000.0,Dealer,18.0,1200,5,1475000.0,5,2400.0,240.0
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,36422.0,Dealer,17.0,1462,5,875000.0,7,5203.14,292.4
+Honda,City,2012,Petrol,Manual,Fourth & Above Owner,86593.0,Dealer,17.4,1497,5,565000.0,14,6185.21,299.4
+Hyundai,Eon,2013,Petrol,Manual,Fourth & Above Owner,34000.0,Dealer,21.1,814,5,250000.0,13,2615.38,162.8
+Maruti,Swift,2020,Petrol,Manual,Second Owner,12463.0,Dealer,21.2,1197,5,564000.0,6,2077.17,239.4
+Maruti,Alto 800,2017,Petrol,Manual,Third Owner,54923.0,Dealer,22.7,796,5,299000.0,9,6102.56,159.2
+Honda,Brio,2013,Petrol,Manual,Fourth & Above Owner,52000.0,Dealer,18.5,1198,5,305000.0,13,4000.0,239.6
+Mahindra,XUV500,2017,Diesel,Automatic,Third Owner,53075.0,Dealer,15.1,2179,7,1499000.0,9,5897.22,311.29
+BMW,X1,2017,Diesel,Manual,Third Owner,21000.0,Dealer,19.0,1498,5,2175000.0,9,2333.33,299.6
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,18705.0,Dealer,21.5,998,5,391000.0,9,2078.33,199.6
+Maruti,Swift,2017,Diesel,Automatic,Third Owner,69000.0,Dealer,21.2,1498,5,690000.0,9,7666.67,299.6
+Maruti,Dzire,2017,Diesel,Manual,Third Owner,71250.0,Dealer,22.0,1498,5,770000.0,9,7916.67,299.6
+Hyundai,Creta,2022,Petrol,Automatic,First Owner,18583.0,Dealer,16.8,1497,5,1920000.0,4,4645.75,299.4
+Maruti,Vitara Brezza,2017,Diesel,Manual,Third Owner,117859.0,Dealer,17.0,1462,5,950000.0,9,13095.44,292.4
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,67000.0,Dealer,18.3,1197,5,575000.0,11,6090.91,239.4
+Maruti,Baleno,2016,Petrol,Manual,Third Owner,57052.0,Dealer,21.4,1197,5,483000.0,10,5705.2,239.4
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,75000.0,Dealer,12.99,2494,7,1975000.0,8,9375.0,356.29
+Hyundai,Elantra,2016,Petrol,Automatic,Third Owner,71395.0,Dealer,14.6,1999,5,1090000.0,10,7139.5,399.8
+Maruti,Alto K10,2016,Petrol,Automatic,Third Owner,24550.0,Dealer,24.1,998,5,389000.0,10,2455.0,199.6
+Volkswagen,Ameo,2019,Petrol,Manual,Second Owner,28000.0,Dealer,17.2,1197,5,590000.0,7,4000.0,239.4
+Maruti,Dzire,2019,Petrol,Manual,Second Owner,8087.0,Dealer,22.0,1197,5,634000.0,7,1155.29,239.4
+Volkswagen,Vento,2014,Petrol,Manual,Third Owner,88000.0,Dealer,17.2,1197,5,445000.0,12,7333.33,239.4
+Tata,Nexon,2019,Petrol,Manual,Second Owner,26438.0,Dealer,17.0,1199,5,745000.0,7,3776.86,239.8
+Honda,City,2018,Petrol,Automatic,Second Owner,71420.0,Dealer,17.4,1497,5,996000.0,8,8927.5,299.4
+Maruti,Vitara Brezza,2020,Petrol,Automatic,Second Owner,21052.0,Dealer,17.0,1462,5,1117000.0,6,3508.67,292.4
+Audi,Q7,2014,Diesel,Automatic,Third Owner,170000.0,Dealer,14.5,1984,5,3200000.0,12,14166.67,396.8
+Honda,City,2017,Petrol,Automatic,Third Owner,43417.0,Dealer,17.4,1497,5,885000.0,9,4824.11,299.4
+Maruti,Swift,2012,Petrol,Manual,Fourth & Above Owner,75100.0,Dealer,21.2,1197,5,325000.0,14,5364.29,239.4
+Toyota,Camry,2022,Petrol,Manual,First Owner,700.0,Dealer,12.9,2494,5,4850000.0,4,175.0,498.8
+Honda,Brio,2016,Petrol,Manual,Third Owner,21996.0,Dealer,18.5,1198,5,450000.0,10,2199.6,239.6
+Tata,Harrier,2021,Diesel,Manual,Second Owner,30229.0,Dealer,19.0,1498,5,2251000.0,5,6045.8,299.6
+Maruti,Alto 800,2016,Petrol,Manual,Third Owner,37796.0,Dealer,22.7,796,5,299000.0,10,3779.6,159.2
+MG,Hector,2022,Hybrid,Manual,First Owner,32000.0,Dealer,18.0,1200,5,1866000.0,4,8000.0,240.0
+Maruti,Dzire,2020,Petrol,Automatic,Second Owner,40904.0,Dealer,22.0,1197,5,880000.0,6,6817.33,239.4
+Hyundai,Grand I10,2015,Diesel,Manual,Third Owner,43000.0,Dealer,19.0,1498,5,415000.0,11,3909.09,299.6
+Maruti,Wagon R,2012,Cng,Manual,Fourth & Above Owner,80173.0,Dealer,21.5,998,5,295000.0,14,5726.64,199.6
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,18512.0,Dealer,22.7,796,5,379000.0,8,2314.0,159.2
+Honda,City,2016,Petrol,Manual,Third Owner,73000.0,Dealer,17.4,1497,5,625000.0,10,7300.0,299.4
+Maruti,Celerio,2022,Cng,Manual,First Owner,1064.0,Dealer,20.8,1197,5,689000.0,4,266.0,239.4
+Hyundai,Grand I10,2017,Petrol + 1,Manual,Third Owner,37000.0,Dealer,18.9,1197,5,410000.0,9,4111.11,239.4
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,60600.0,Dealer,18.3,1197,5,486000.0,7,8657.14,239.4
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,21344.0,Dealer,18.3,1197,5,495000.0,10,2134.4,239.4
+Hyundai,Creta,2018,Diesel,Automatic,Second Owner,82899.0,Dealer,16.8,1497,5,1285000.0,8,10362.38,299.4
+Maruti,Celerio,2018,Petrol,Automatic,Second Owner,29192.0,Dealer,20.8,1197,5,450000.0,8,3649.0,239.4
+Maruti,Celerio,2015,Petrol,Manual,Third Owner,11363.0,Dealer,20.8,1197,5,364000.0,11,1033.0,239.4
+Maruti,Wagon R,2011,Cng,Manual,Fourth & Above Owner,77050.0,Dealer,21.5,998,5,250000.0,15,5136.67,199.6
+Tata,Tiago,2018,Petrol,Manual,Second Owner,24051.0,Dealer,17.0,1199,5,525000.0,8,3006.38,239.8
+Mahindra,XUV500,2016,Diesel,Manual,Third Owner,75811.0,Dealer,15.1,2179,7,1375000.0,10,7581.1,311.29
+Tata,Tiago,2017,Petrol,Manual,Third Owner,45412.0,Dealer,17.0,1199,5,465000.0,9,5045.78,239.8
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,115000.0,Dealer,12.99,2494,7,1580000.0,8,14375.0,356.29
+Maruti,Swift,2018,Diesel,Manual,Second Owner,90251.0,Dealer,21.2,1498,5,730000.0,8,11281.38,299.6
+Maruti,Wagon R,2016,Petrol,Manual,Third Owner,28518.0,Dealer,21.5,998,5,359000.0,10,2851.8,199.6
+Datsun,Go,2018,Petrol,Manual,Second Owner,33766.0,Dealer,20.6,999,5,361000.0,8,4220.75,199.8
+Ford,Fiesta,2009,Petrol + 1,Manual,Fourth & Above Owner,114000.0,Dealer,16.0,1497,5,175000.0,17,6705.88,299.4
+Volvo,S90,2020,Diesel,Automatic,Second Owner,30000.0,Dealer,12.4,1969,5,4750000.0,6,5000.0,393.8
+Maruti,Swift,2014,Petrol,Manual,Third Owner,12902.0,Dealer,21.2,1197,5,428000.0,12,1075.17,239.4
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,62769.0,Dealer,17.0,1462,5,845000.0,8,7846.12,292.4
+Hyundai,Grand I10,2015,Diesel,Manual,Third Owner,52242.0,Dealer,19.0,1498,5,349000.0,11,4749.27,299.6
+Honda,Jazz,2021,Petrol,Automatic,Second Owner,9838.0,Dealer,18.7,1199,5,1024000.0,5,1967.6,239.8
+Renault,Kwid,2021,Petrol,Manual,Second Owner,12000.0,Dealer,22.0,999,5,475000.0,5,2400.0,199.8
+Honda,Br,2016,Petrol,Automatic,Third Owner,76275.0,Dealer,17.8,1497,5,775000.0,10,7627.5,299.4
+Honda,City,2017,Petrol,Manual,Third Owner,29500.0,Dealer,17.4,1497,5,765000.0,9,3277.78,299.4
+Tata,Safari,2021,Diesel,Manual,Second Owner,22617.0,Dealer,14.1,1956,7,2395000.0,5,4523.4,279.43
+Renault,Triber,2020,Petrol,Manual,Second Owner,25000.0,Dealer,20.0,999,5,670000.0,6,4166.67,199.8
+BMW,7 Series,2017,Diesel,Manual,Third Owner,22000.0,Dealer,19.0,1498,5,6975000.0,9,2444.44,299.6
+Nissan,Sunny,2017,Diesel,Manual,Third Owner,29208.0,Dealer,18.0,1498,5,575000.0,9,3245.33,299.6
+Volkswagen,Vento,2011,Petrol,Manual,Fourth & Above Owner,62000.0,Dealer,17.2,1197,5,315000.0,15,4133.33,239.4
+Land Rover,Range,2018,Diesel,Automatic,Second Owner,22000.0,Dealer,11.8,2179,5,5300000.0,8,2750.0,435.8
+Hyundai,Eon,2017,Petrol,Manual,Third Owner,26700.0,Dealer,21.1,814,5,350000.0,9,2966.67,162.8
+Honda,Jazz,2016,Petrol,Manual,Third Owner,41217.0,Dealer,18.7,1199,5,530000.0,10,4121.7,239.8
+Hyundai,Creta,2015,Petrol,Manual,Third Owner,56747.0,Dealer,16.8,1497,5,750000.0,11,5158.82,299.4
+Maruti,Wagon R,2020,Cng,Manual,Second Owner,51765.0,Dealer,21.5,998,5,553000.0,6,8627.5,199.6
+Honda,Amaze,2014,Petrol,Automatic,Third Owner,54000.0,Dealer,18.6,1199,5,465000.0,12,4500.0,239.8
+Tata,Harrier,2021,Diesel,Manual,Second Owner,9535.0,Dealer,19.0,1498,5,2250000.0,5,1907.0,299.6
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,25000.0,Dealer,18.3,1197,5,485000.0,7,3571.43,239.4
+Maruti,Wagon R,2015,Cng,Manual,Third Owner,47000.0,Dealer,21.5,998,5,400000.0,11,4272.73,199.6
+Honda,City,2015,Petrol,Automatic,Third Owner,46399.0,Dealer,17.4,1497,5,750000.0,11,4218.09,299.4
+Maruti,Alto K10,2019,Cng,Manual,Second Owner,47377.0,Dealer,24.1,998,5,370000.0,7,6768.14,199.6
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,44300.0,Dealer,18.9,1197,5,669000.0,7,6328.57,239.4
+Toyota,Innova,2017,Diesel,Manual,Third Owner,144286.0,Dealer,12.99,2494,7,1975000.0,9,16031.78,356.29
+Hyundai,I10,2013,Petrol,Automatic,Fourth & Above Owner,46721.0,Dealer,19.8,1086,5,325000.0,13,3593.92,217.2
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,21303.0,Dealer,18.3,1197,5,799000.0,8,2662.88,239.4
+Maruti,Ritz,2014,Diesel,Manual,Third Owner,80000.0,Dealer,19.0,1498,5,410000.0,12,6666.67,299.6
+Audi,Q3,2015,Diesel,Automatic,Third Owner,73000.0,Dealer,14.5,1984,5,1579000.0,11,6636.36,396.8
+Chevrolet,Beat,2011,Diesel + 1,Manual,Fourth & Above Owner,84656.0,Dealer,19.0,1498,5,150000.0,15,5643.73,299.6
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,18523.0,Dealer,18.3,1197,5,565000.0,11,1683.91,239.4
+Honda,Amaze,2015,Diesel,Manual,Third Owner,76018.0,Dealer,19.0,1498,5,560000.0,11,6910.73,299.6
+Nissan,Sunny,2013,Petrol,Automatic,Fourth & Above Owner,73056.0,Dealer,18.0,1498,5,495000.0,13,5619.69,299.6
+Hyundai,Venue,2021,Diesel,Manual,Second Owner,23221.0,Dealer,19.0,1498,5,1300000.0,5,4644.2,299.6
+Honda,Brio,2011,Petrol,Manual,Fourth & Above Owner,71000.0,Dealer,18.5,1198,5,285000.0,15,4733.33,239.6
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,13825.0,Dealer,18.3,1197,5,723000.0,7,1975.0,239.4
+Tata,Zest,2015,Diesel,Manual,Third Owner,101785.0,Dealer,19.0,1498,5,550000.0,11,9253.18,299.6
+Maruti,Wagon R,2015,Cng,Manual,Third Owner,24000.0,Dealer,21.5,998,5,410000.0,11,2181.82,199.6
+Maruti,Celerio,2019,Cng,Manual,Second Owner,77813.0,Dealer,20.8,1197,5,558000.0,7,11116.14,239.4
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,41617.0,Dealer,21.4,1197,5,618000.0,7,5945.29,239.4
+BMW,3 Series,2013,Diesel,Manual,Fourth & Above Owner,41000.0,Dealer,16.1,1995,5,1200000.0,13,3153.85,399.0
+Maruti,Wagon R,2015,Petrol,Manual,Third Owner,55847.0,Dealer,21.5,998,5,378000.0,11,5077.0,199.6
+Renault,Duster,2020,Petrol,Automatic,Second Owner,16600.0,Dealer,20.0,999,5,1190000.0,6,2766.67,199.8
+Honda,Jazz,2019,Petrol,Manual,Second Owner,57340.0,Dealer,18.7,1199,5,599000.0,7,8191.43,239.8
+Hyundai,I20,2015,Petrol,Manual,Third Owner,45173.0,Dealer,18.6,1197,5,590000.0,11,4106.64,239.4
+Honda,City,2017,Petrol,Automatic,Third Owner,58019.0,Dealer,17.4,1497,5,999000.0,9,6446.56,299.4
+Hyundai,Grand I10,2015,Petrol,Automatic,Third Owner,53150.0,Dealer,18.9,1197,5,499000.0,11,4831.82,239.4
+Tata,Nexon,2020,Petrol,Manual,Second Owner,44999.0,Dealer,17.0,1199,5,1099000.0,6,7499.83,239.8
+Hyundai,Santro,2021,Petrol,Manual,Second Owner,12996.0,Dealer,18.3,1197,5,540000.0,5,2599.2,239.4
+Tata,Nexon,2018,Petrol,Manual,Second Owner,50043.0,Dealer,17.0,1199,5,913000.0,8,6255.38,239.8
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,21880.0,Dealer,20.7,1373,5,686000.0,8,2735.0,274.6
+Volkswagen,Polo,2014,Diesel,Manual,Third Owner,36486.0,Dealer,19.0,1498,5,550000.0,12,3040.5,299.6
+Toyota,Yaris,2019,Petrol,Automatic,Second Owner,18535.0,Dealer,14.5,1496,5,847000.0,7,2647.86,299.2
+Maruti,Swift,2018,Petrol,Automatic,Second Owner,37090.0,Dealer,21.2,1197,5,675000.0,8,4636.25,239.4
+Honda,Jazz,2018,Petrol,Manual,Second Owner,26361.0,Dealer,18.7,1199,5,650000.0,8,3295.12,239.8
+Honda,City,2017,Petrol,Automatic,Third Owner,72973.0,Dealer,17.4,1497,5,811000.0,9,8108.11,299.4
+Toyota,Etios,2014,Petrol,Manual,Third Owner,121790.0,Dealer,14.5,1496,5,411000.0,12,10149.17,299.2
+Renault,Kwid,2018,Petrol,Manual,Second Owner,140000.0,Dealer,22.0,999,5,270000.0,8,17500.0,199.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,39200.0,Dealer,18.9,1197,5,525000.0,9,4355.56,239.4
+Hyundai,Grand I10,2017,Diesel,Manual,Third Owner,61391.0,Dealer,19.0,1498,5,550000.0,9,6821.22,299.6
+Maruti,S Cross,2018,Diesel,Manual,Second Owner,87544.0,Dealer,19.0,1498,5,950000.0,8,10943.0,299.6
+Honda,Brio,2014,Petrol,Manual,Third Owner,32000.0,Dealer,18.5,1198,5,345000.0,12,2666.67,239.6
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,66000.0,Dealer,21.4,1197,5,565000.0,9,7333.33,239.4
+Nissan,Magnite,2021,Petrol,Manual,Second Owner,13264.0,Dealer,18.0,1498,5,840000.0,5,2652.8,299.6
+Skoda,Rapid,2018,Petrol,Automatic,Second Owner,31469.0,Dealer,15.6,1498,5,875000.0,8,3933.62,299.6
+Volkswagen,Cross,2017,Petrol,Manual,Third Owner,71976.0,Dealer,17.2,1197,5,650000.0,9,7997.33,239.4
+Honda,City,2016,Petrol,Manual,Third Owner,59800.0,Dealer,17.4,1497,5,575000.0,10,5980.0,299.4
+Honda,Amaze,2020,Petrol,Automatic,Second Owner,5768.0,Dealer,18.6,1199,5,922000.0,6,961.33,239.8
+Maruti,Swift,2015,Petrol,Manual,Third Owner,55209.0,Dealer,21.2,1197,5,531000.0,11,5019.0,239.4
+Mercedes-Benz,Cla,2016,Diesel,Automatic,Third Owner,59500.0,Dealer,13.8,1991,5,2426000.0,10,5950.0,398.2
+Hyundai,I10,2016,Petrol + 1,Manual,Third Owner,45000.0,Dealer,19.8,1086,5,400000.0,10,4500.0,217.2
+Nissan,Terrano,2016,Diesel,Manual,Third Owner,63839.0,Dealer,18.0,1498,5,769000.0,10,6383.9,299.6
+Jaguar,Xe,2017,Petrol,Automatic,Third Owner,32434.0,Dealer,13.0,1999,5,2975000.0,9,3603.78,399.8
+Maruti,Wagon R,2016,Petrol + 1,Manual,Third Owner,55264.0,Dealer,21.5,998,5,375000.0,10,5526.4,199.6
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,12906.0,Dealer,18.3,1197,5,545000.0,9,1434.0,239.4
+Maruti,Swift,2021,Petrol,Automatic,Second Owner,18236.0,Dealer,21.2,1197,5,765000.0,5,3647.2,239.4
+Maruti,S Cross,2022,Petrol,Manual,First Owner,6200.0,Dealer,18.5,1248,5,1050000.0,4,1550.0,249.6
+Honda,City,2014,Petrol,Manual,Third Owner,80122.0,Dealer,17.4,1497,5,575000.0,12,6676.83,299.4
+Honda,Jazz,2016,Diesel,Manual,Third Owner,46220.0,Dealer,19.0,1498,5,450000.0,10,4622.0,299.6
+Audi,A6,2013,Diesel,Automatic,Fourth & Above Owner,69000.0,Dealer,14.5,1984,5,1213000.0,13,5307.69,396.8
+Maruti,Swift,2018,Diesel,Manual,Second Owner,81007.0,Dealer,21.2,1498,5,685000.0,8,10125.88,299.6
+Audi,Q5,2015,Diesel,Automatic,Third Owner,78457.0,Dealer,14.5,1984,5,2800000.0,11,7132.45,396.8
+Maruti,Vitara Brezza,2020,Petrol,Manual,Second Owner,41098.0,Dealer,17.0,1462,5,949000.0,6,6849.67,292.4
+Maruti,Celerio,2016,Petrol,Manual,Third Owner,50809.0,Dealer,20.8,1197,5,396000.0,10,5080.9,239.4
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,59568.0,Dealer,17.0,1462,5,954000.0,7,8509.71,292.4
+Skoda,Laura,2013,Diesel,Automatic,Fourth & Above Owner,140037.0,Dealer,15.6,1498,5,425000.0,13,10772.08,299.6
+Honda,Wr,2017,Diesel,Manual,Third Owner,63036.0,Dealer,17.8,1497,5,645000.0,9,7004.0,299.4
+Maruti,Alto 800,2021,Cng,Manual,Second Owner,18362.0,Dealer,22.7,796,5,451000.0,5,3672.4,159.2
+Hyundai,Elantra,2015,Diesel,Automatic,Third Owner,85520.0,Dealer,14.6,1999,5,931000.0,11,7774.55,399.8
+Honda,Amaze,2016,Petrol,Manual,Third Owner,46000.0,Dealer,18.6,1199,5,500000.0,10,4600.0,239.8
+Maruti,S Cross,2021,Petrol,Manual,Second Owner,12712.0,Dealer,18.5,1248,5,1095000.0,5,2542.4,249.6
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,35731.0,Dealer,20.7,1373,5,769000.0,9,3970.11,274.6
+Honda,Jazz,2015,Petrol,Automatic,Third Owner,32000.0,Dealer,18.7,1199,5,475000.0,11,2909.09,239.8
+Honda,City,2007,Petrol + 1,Manual,Fourth & Above Owner,119000.0,Dealer,17.4,1497,5,295000.0,19,6263.16,299.4
+Maruti,Swift,2018,Petrol,Manual,Second Owner,80457.0,Dealer,21.2,1197,5,652000.0,8,10057.12,239.4
+Hyundai,Elite I20,2018,Diesel,Manual,Second Owner,91234.0,Dealer,19.0,1498,5,621000.0,8,11404.25,299.6
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,49422.0,Dealer,18.9,1197,5,615000.0,10,4942.2,239.4
+Maruti,Wagon R,2017,Petrol,Automatic,Third Owner,33053.0,Dealer,21.5,998,5,475000.0,9,3672.56,199.6
+Hyundai,Aura,2020,Petrol,Manual,Second Owner,17385.0,Dealer,18.3,1197,5,730000.0,6,2897.5,239.4
+Mercedes-Benz,Amg,2021,Petrol,Automatic,Second Owner,1600.0,Dealer,13.8,1991,5,6100000.0,5,320.0,398.2
+Maruti,Dzire,2022,Petrol,Manual,First Owner,10158.0,Dealer,22.0,1197,5,974000.0,4,2539.5,239.4
+Hyundai,Creta,2018,Diesel,Automatic,Second Owner,56907.0,Dealer,16.8,1497,5,1023000.0,8,7113.38,299.4
+Hyundai,Elite I20,2019,Petrol + 1,Manual,Second Owner,18000.0,Dealer,18.3,1197,5,800000.0,7,2571.43,239.4
+Kia,Seltos,2020,Petrol,Manual,Second Owner,12498.0,Dealer,16.5,1497,5,1682000.0,6,2083.0,299.4
+Honda,Brio,2013,Petrol,Manual,Fourth & Above Owner,42265.0,Dealer,18.5,1198,5,419000.0,13,3251.15,239.6
+Maruti,Celerio,2018,Cng,Manual,Second Owner,81329.0,Dealer,20.8,1197,5,487000.0,8,10166.12,239.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,53300.0,Dealer,18.9,1197,5,450000.0,10,5330.0,239.4
+Nissan,Magnite,2021,Petrol + 1,Manual,Second Owner,20000.0,Dealer,18.0,1498,5,830000.0,5,4000.0,299.6
+Renault,Duster,2018,Diesel,Automatic,Second Owner,59839.0,Dealer,20.0,1498,5,1029000.0,8,7479.88,299.6
+Toyota,Fortuner,2018,Diesel,Automatic,Second Owner,177734.0,Dealer,12.6,2755,7,3200000.0,8,22216.75,393.57
+Honda,Brio,2014,Petrol,Manual,Third Owner,55200.0,Dealer,18.5,1198,5,282000.0,12,4600.0,239.6
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,31651.0,Dealer,20.8,1197,5,452000.0,6,5275.17,239.4
+Hyundai,Verna,2018,Petrol,Manual,Second Owner,25921.0,Dealer,17.7,1497,5,910000.0,8,3240.12,299.4
+Tata,Nexon,2022,Petrol,Manual,First Owner,700.0,Dealer,17.0,1199,5,1150000.0,4,175.0,239.8
+Honda,Brio,2014,Petrol,Manual,Third Owner,39276.0,Dealer,18.5,1198,5,351000.0,12,3273.0,239.6
+Audi,A6,2014,Diesel,Automatic,Third Owner,75000.0,Dealer,14.5,1984,5,1650000.0,12,6250.0,396.8
+Honda,Amaze,2018,Petrol,Manual,Second Owner,25075.0,Dealer,18.6,1199,5,685000.0,8,3134.38,239.8
+Kia,Seltos,2020,Petrol,Manual,Second Owner,10678.0,Dealer,16.5,1497,5,1353000.0,6,1779.67,299.4
+Maruti,Swift,2010,Petrol,Manual,Fourth & Above Owner,38500.0,Dealer,21.2,1197,5,265000.0,16,2406.25,239.4
+Maruti,Wagon R,2015,Petrol,Automatic,Third Owner,25299.0,Dealer,21.5,998,5,400000.0,11,2299.91,199.6
+BMW,7 Series,2009,Diesel,Manual,Fourth & Above Owner,35000.0,Dealer,19.0,1498,5,1250000.0,17,2058.82,299.6
+Maruti,Swift,2019,Petrol,Manual,Second Owner,21388.0,Dealer,21.2,1197,5,571000.0,7,3055.43,239.4
+Mahindra,TUV300,2015,Diesel,Automatic,Third Owner,35239.0,Dealer,15.1,2179,7,645000.0,11,3203.55,311.29
+Volkswagen,Polo,2021,Petrol,Manual,Second Owner,11106.0,Dealer,17.2,1197,5,825000.0,5,2221.2,239.4
+Kia,Seltos,2020,Petrol,Automatic,Second Owner,28133.0,Dealer,16.5,1497,5,1275000.0,6,4688.83,299.4
+Maruti,Ciaz,2021,Petrol,Automatic,Second Owner,23097.0,Dealer,20.7,1373,5,1076000.0,5,4619.4,274.6
+Maruti,Wagon R,2016,Petrol,Manual,Third Owner,57348.0,Dealer,21.5,998,5,376000.0,10,5734.8,199.6
+Mercedes-Benz,Cla,2018,Diesel,Automatic,Second Owner,37329.0,Dealer,13.8,1991,5,2975000.0,8,4666.12,398.2
+Hyundai,Eon,2018,Petrol,Manual,Second Owner,43000.0,Dealer,21.1,814,5,340000.0,8,5375.0,162.8
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,39240.0,Dealer,16.8,1497,5,925000.0,9,4360.0,299.4
+Hyundai,Santro,2019,Cng,Manual,Second Owner,43784.0,Dealer,18.3,1197,5,545000.0,7,6254.86,239.4
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,87803.0,Dealer,17.0,1462,5,925000.0,8,10975.38,292.4
+Hyundai,I20,2015,Petrol,Manual,Third Owner,45000.0,Dealer,18.6,1197,5,645000.0,11,4090.91,239.4
+Toyota,Etios,2011,Petrol,Manual,Fourth & Above Owner,35311.0,Dealer,14.5,1496,5,309000.0,15,2354.07,299.2
+Mahindra,Alturas,2018,Diesel,Automatic,Second Owner,42347.0,Dealer,15.1,2179,7,1899000.0,8,5293.38,311.29
+Maruti,Swift,2018,Petrol,Automatic,Second Owner,68183.0,Dealer,21.2,1197,5,700000.0,8,8522.88,239.4
+Mercedes-Benz,Gla,2018,Diesel,Automatic,Second Owner,41679.0,Dealer,13.8,1991,5,3300000.0,8,5209.88,398.2
+Hyundai,Verna,2013,Petrol,Automatic,Fourth & Above Owner,77394.0,Dealer,17.7,1497,5,460000.0,13,5953.38,299.4
+Honda,Jazz,2019,Petrol,Automatic,Second Owner,30610.0,Dealer,18.7,1199,5,699000.0,7,4372.86,239.8
+Toyota,Urban,2021,Petrol,Automatic,Second Owner,6257.0,Dealer,14.5,1496,5,1140000.0,5,1251.4,299.2
+Hyundai,Creta,2017,Diesel,Manual,Third Owner,75799.0,Dealer,16.8,1497,5,1072000.0,9,8422.11,299.4
+Datsun,Go,2018,Petrol,Manual,Second Owner,47000.0,Dealer,20.6,999,5,250000.0,8,5875.0,199.8
+Maruti,Ertiga,2013,Cng,Manual,Fourth & Above Owner,52000.0,Dealer,19.0,1462,7,650000.0,13,4000.0,208.86
+Toyota,Innova,2018,Diesel,Manual,Second Owner,40372.0,Dealer,12.99,2494,7,2031000.0,8,5046.5,356.29
+Audi,A8,2013,Diesel,Automatic,Fourth & Above Owner,45500.0,Dealer,14.5,1984,5,2751000.0,13,3500.0,396.8
+Maruti,Swift,2018,Petrol,Manual,Second Owner,18548.0,Dealer,21.2,1197,5,595000.0,8,2318.5,239.4
+Ford,Freestyle,2019,Petrol,Manual,Second Owner,63000.0,Dealer,16.0,1497,5,610000.0,7,9000.0,299.4
+Maruti,Vitara Brezza,2017,Diesel,Manual,Third Owner,51439.0,Dealer,17.0,1462,5,885000.0,9,5715.44,292.4
+BMW,X1,2018,Diesel,Manual,Second Owner,56307.0,Dealer,19.0,1498,5,3275000.0,8,7038.38,299.6
+Maruti,Dzire,2018,Petrol,Manual,Second Owner,30481.0,Dealer,22.0,1197,5,641000.0,8,3810.12,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,34058.0,Dealer,18.3,1197,5,789000.0,8,4257.25,239.4
+Honda,Amaze,2015,Petrol,Manual,Third Owner,48285.0,Dealer,18.6,1199,5,519000.0,11,4389.55,239.8
+BMW,5 Series,2019,Diesel,Manual,Second Owner,61000.0,Dealer,15.6,1995,5,3800000.0,7,8714.29,399.0
+Maruti,Celerio,2017,Cng,Manual,Third Owner,88603.0,Dealer,20.8,1197,5,489000.0,9,9844.78,239.4
+Maruti,Alto 800,2013,Petrol,Manual,Fourth & Above Owner,45643.0,Dealer,22.7,796,5,209000.0,13,3511.0,159.2
+Tata,Altroz,2021,Diesel,Manual,Second Owner,10412.0,Dealer,19.0,1498,5,978000.0,5,2082.4,299.6
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,32335.0,Dealer,18.9,1197,5,570000.0,7,4619.29,239.4
+Mercedes-Benz,S Class,2011,Petrol,Automatic,Fourth & Above Owner,133000.0,Dealer,13.8,1991,5,1456000.0,15,8866.67,398.2
+Hyundai,Elantra,2014,Diesel,Automatic,Third Owner,80000.0,Dealer,14.6,1999,5,625000.0,12,6666.67,399.8
+Honda,Jazz,2015,Petrol,Manual,Third Owner,39173.0,Dealer,18.7,1199,5,599000.0,11,3561.18,239.8
+Hyundai,I20,2013,Diesel,Manual,Fourth & Above Owner,91127.0,Dealer,19.0,1498,5,450000.0,13,7009.77,299.6
+Hyundai,Verna,2019,Diesel,Automatic,Second Owner,29373.0,Dealer,17.7,1497,5,1325000.0,7,4196.14,299.4
+Kia,Sonet,2020,Petrol,Manual,Second Owner,23700.0,Dealer,16.5,1497,5,1050000.0,6,3950.0,299.4
+Honda,City,2013,Petrol,Manual,Fourth & Above Owner,62550.0,Dealer,17.4,1497,5,399000.0,13,4811.54,299.4
+Hyundai,Elite I20,2015,Diesel,Manual,Third Owner,66000.0,Dealer,19.0,1498,5,571000.0,11,6000.0,299.6
+Maruti,Wagon R,2014,Cng,Manual,Third Owner,89000.0,Dealer,21.5,998,5,349000.0,12,7416.67,199.6
+Hyundai,Eon,2016,Petrol,Manual,Third Owner,45100.0,Dealer,21.1,814,5,295000.0,10,4510.0,162.8
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,53734.0,Dealer,18.9,1197,5,461000.0,10,5373.4,239.4
+Hyundai,I20,2016,Petrol,Manual,Third Owner,74655.0,Dealer,18.6,1197,5,690000.0,10,7465.5,239.4
+Toyota,Innova,2009,Diesel,Manual,Fourth & Above Owner,340000.0,Dealer,12.99,2494,7,650000.0,17,20000.0,356.29
+Toyota,Corolla Altis,2019,Petrol,Manual,Second Owner,54517.0,Dealer,14.3,1798,5,1190000.0,7,7788.14,359.6
+Maruti,Alto 800,2019,Petrol,Manual,Second Owner,35000.0,Dealer,22.7,796,5,335000.0,7,5000.0,159.2
+Maruti,Ciaz,2016,Petrol,Automatic,Third Owner,36937.0,Dealer,20.7,1373,5,640000.0,10,3693.7,274.6
+Mercedes-Benz,E Class,2007,Petrol,Automatic,Fourth & Above Owner,40206.0,Dealer,13.8,1991,5,450000.0,19,2116.11,398.2
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,48488.0,Dealer,16.8,1497,5,880000.0,10,4848.8,299.4
+Volkswagen,Tiguan,2017,Diesel,Manual,Third Owner,72533.0,Dealer,19.0,1498,5,2376000.0,9,8059.22,299.6
+Mercedes-Benz,R,2012,Petrol,Automatic,Fourth & Above Owner,44724.0,Dealer,13.8,1991,5,2485000.0,14,3194.57,398.2
+Honda,Amaze,2017,Diesel,Manual,Third Owner,43000.0,Dealer,19.0,1498,5,475000.0,9,4777.78,299.6
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,94691.0,Dealer,19.1,1197,5,486000.0,11,8608.27,239.4
+Hyundai,Verna,2013,Petrol,Manual,Fourth & Above Owner,71550.0,Dealer,17.7,1497,5,499000.0,13,5503.85,299.4
+Nissan,Terrano,2014,Diesel,Manual,Third Owner,77000.0,Dealer,18.0,1498,5,625000.0,12,6416.67,299.6
+Honda,City,2014,Petrol,Automatic,Third Owner,46200.0,Dealer,17.4,1497,5,595000.0,12,3850.0,299.4
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,58481.0,Dealer,17.0,1462,5,779000.0,8,7310.12,292.4
+Honda,Jazz,2019,Petrol,Automatic,Second Owner,8652.0,Dealer,18.7,1199,5,811000.0,7,1236.0,239.8
+Maruti,Alto 800,2017,Petrol,Manual,Third Owner,30680.0,Dealer,22.7,796,5,350000.0,9,3408.89,159.2
+Maruti,Swift,2018,Petrol,Manual,Second Owner,34933.0,Dealer,21.2,1197,5,450000.0,8,4366.62,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,42825.0,Dealer,18.3,1197,5,779000.0,8,5353.12,239.4
+Hyundai,Creta,2018,Petrol,Manual,Second Owner,39813.0,Dealer,16.8,1497,5,791000.0,8,4976.62,299.4
+Volkswagen,Vento,2011,Petrol,Automatic,Fourth & Above Owner,50667.0,Dealer,17.2,1197,5,345000.0,15,3377.8,239.4
+Maruti,Vitara Brezza,2020,Petrol,Manual,Second Owner,29219.0,Dealer,17.0,1462,5,862000.0,6,4869.83,292.4
+Mercedes-Benz,E Class,2012,Diesel,Automatic,Fourth & Above Owner,63906.0,Dealer,13.8,1991,5,1195000.0,14,4564.71,398.2
+Toyota,Innova,2019,Diesel,Automatic,Second Owner,35531.0,Dealer,12.99,2494,7,2450000.0,7,5075.86,356.29
+Hyundai,Santro,2019,Cng,Manual,Second Owner,23404.0,Dealer,18.3,1197,5,545000.0,7,3343.43,239.4
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,22498.0,Dealer,18.9,1197,5,511000.0,8,2812.25,239.4
+Maruti,Wagon R,2015,Cng,Manual,Third Owner,68000.0,Dealer,21.5,998,5,395000.0,11,6181.82,199.6
+Mahindra,Marazzo,2018,Diesel,Manual,Second Owner,70163.0,Dealer,15.1,2179,7,1045000.0,8,8770.38,311.29
+Datsun,Redi,2017,Petrol,Manual,Third Owner,48261.0,Dealer,20.6,999,5,285000.0,9,5362.33,199.8
+Honda,City,2019,Petrol,Manual,Second Owner,42700.0,Dealer,17.4,1497,5,990000.0,7,6100.0,299.4
+Renault,Kwid,2020,Petrol,Automatic,Second Owner,32000.0,Dealer,22.0,999,5,545000.0,6,5333.33,199.8
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,20315.0,Dealer,22.7,796,5,321000.0,8,2539.38,159.2
+Jeep,Compass,2018,Diesel,Manual,Second Owner,66500.0,Dealer,14.9,1956,5,1800000.0,8,8312.5,391.2
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,40579.0,Dealer,17.0,1462,5,745000.0,8,5072.38,292.4
+Honda,City,2010,Petrol,Manual,Fourth & Above Owner,72474.0,Dealer,17.4,1497,5,390000.0,16,4529.62,299.4
+Tata,Nexon,2022,Petrol,Manual,First Owner,1419.0,Dealer,17.0,1199,5,1150000.0,4,354.75,239.8
+Maruti,Alto 800,2016,Petrol,Manual,Third Owner,29799.0,Dealer,22.7,796,5,320000.0,10,2979.9,159.2
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,73402.0,Dealer,20.7,1373,5,675000.0,9,8155.78,274.6
+Maruti,Alto 800,2015,Petrol,Manual,Third Owner,70661.0,Dealer,22.7,796,5,269000.0,11,6423.73,159.2
+Mahindra,XUV500,2015,Diesel,Manual,Third Owner,148803.0,Dealer,15.1,2179,7,1150000.0,11,13527.55,311.29
+Kia,Sonet,2021,Petrol,Manual,Second Owner,7500.0,Dealer,16.5,1497,5,790000.0,5,1500.0,299.4
+Maruti,Ertiga,2017,Petrol,Manual,Third Owner,53056.0,Dealer,19.0,1462,7,644000.0,9,5895.11,208.86
+Maruti,Eeco,2020,Cng,Manual,Second Owner,69817.0,Dealer,16.1,1196,5,555000.0,6,11636.17,239.2
+Audi,A6,2013,Diesel,Automatic,Fourth & Above Owner,38894.0,Dealer,14.5,1984,5,1800000.0,13,2991.85,396.8
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,15685.0,Dealer,24.1,998,5,234000.0,14,1120.36,199.6
+Jeep,Compass,2018,Petrol,Manual,Second Owner,18000.0,Dealer,14.9,1956,5,1530000.0,8,2250.0,391.2
+Maruti,Wagon R,2013,Petrol,Manual,Fourth & Above Owner,76617.0,Dealer,21.5,998,5,268000.0,13,5893.62,199.6
+Skoda,Kodiaq,2018,Diesel,Automatic,Second Owner,32407.0,Dealer,15.6,1498,5,3325000.0,8,4050.88,299.6
+Maruti,Swift,2018,Petrol,Manual,Second Owner,21852.0,Dealer,21.2,1197,5,648000.0,8,2731.5,239.4
+Mahindra,Kuv100,2017,Petrol,Manual,Third Owner,41000.0,Dealer,15.1,2179,7,395000.0,9,4555.56,311.29
+Kia,Sonet,2022,Petrol,Manual,First Owner,4000.0,Dealer,16.5,1497,5,1275000.0,4,1000.0,299.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,31776.0,Dealer,18.3,1197,5,675000.0,8,3972.0,239.4
+Maruti,Swift,2014,Petrol,Manual,Third Owner,76725.0,Dealer,21.2,1197,5,385000.0,12,6393.75,239.4
+Maruti,Dzire,2018,Petrol,Manual,Second Owner,25144.0,Dealer,22.0,1197,5,544000.0,8,3143.0,239.4
+Renault,Duster,2018,Diesel,Manual,Second Owner,63673.0,Dealer,20.0,1498,5,1025000.0,8,7959.12,299.6
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,40558.0,Dealer,18.9,1197,5,534000.0,9,4506.44,239.4
+Hyundai,Creta,2015,Diesel,Automatic,Third Owner,74469.0,Dealer,16.8,1497,5,1125000.0,11,6769.91,299.4
+Toyota,Yaris,2018,Petrol,Automatic,Second Owner,67067.0,Dealer,14.5,1496,5,755000.0,8,8383.38,299.2
+Volkswagen,Vento,2011,Petrol,Manual,Fourth & Above Owner,77000.0,Dealer,17.2,1197,5,325000.0,15,5133.33,239.4
+Hyundai,Eon,2011,Petrol,Manual,Fourth & Above Owner,81000.0,Dealer,21.1,814,5,220000.0,15,5400.0,162.8
+Tata,Harrier,2020,Diesel,Manual,Second Owner,30830.0,Dealer,19.0,1498,5,1895000.0,6,5138.33,299.6
+Tata,Tiago,2018,Petrol,Manual,Second Owner,33640.0,Dealer,17.0,1199,5,569000.0,8,4205.0,239.8
+Volkswagen,Vento,2015,Petrol,Automatic,Third Owner,60240.0,Dealer,17.2,1197,5,765000.0,11,5476.36,239.4
+Audi,A4,2015,Diesel,Automatic,Third Owner,48000.0,Dealer,17.4,1984,5,1690000.0,11,4363.64,396.8
+Honda,Br,2016,Petrol,Automatic,Third Owner,61280.0,Dealer,17.8,1497,5,795000.0,10,6128.0,299.4
+Maruti,Ertiga,2014,Diesel,Manual,Third Owner,92064.0,Dealer,19.0,1462,7,670000.0,12,7672.0,208.86
+Tata,Altroz,2020,Petrol,Manual,Second Owner,9291.0,Dealer,17.0,1199,5,789000.0,6,1548.5,239.8
+Maruti,Baleno,2018,Diesel,Manual,Second Owner,65000.0,Dealer,21.4,1498,5,625000.0,8,8125.0,299.6
+Toyota,Yaris,2019,Petrol,Automatic,Second Owner,41079.0,Dealer,14.5,1496,5,990000.0,7,5868.43,299.2
+Renault,Kwid,2020,Petrol,Automatic,Second Owner,10690.0,Dealer,22.0,999,5,555000.0,6,1781.67,199.8
+Hyundai,Creta,2019,Petrol,Manual,Second Owner,36313.0,Dealer,16.8,1497,5,1175000.0,7,5187.57,299.4
+Honda,City,2015,Petrol,Automatic,Third Owner,75258.0,Dealer,17.4,1497,5,590000.0,11,6841.64,299.4
+Maruti,Swift,2018,Petrol,Automatic,Second Owner,21523.0,Dealer,21.2,1197,5,750000.0,8,2690.38,239.4
+Hyundai,Eon,2016,Petrol,Manual,Third Owner,40000.0,Dealer,21.1,814,5,310000.0,10,4000.0,162.8
+Maruti,Wagon R,2018,Cng,Manual,Second Owner,57300.0,Dealer,21.5,998,5,490000.0,8,7162.5,199.6
+BMW,7 Series,2010,Diesel,Manual,Fourth & Above Owner,77000.0,Dealer,19.0,1498,5,1956000.0,16,4812.5,299.6
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,20744.0,Dealer,17.0,1462,5,1012000.0,7,2963.43,292.4
+Audi,A3,2020,Diesel,Automatic,Second Owner,40910.0,Dealer,14.5,1984,5,3050000.0,6,6818.33,396.8
+Mercedes-Benz,Gla,2017,Diesel,Automatic,Third Owner,25000.0,Dealer,13.8,1991,5,2559000.0,9,2777.78,398.2
+Maruti,Ertiga,2021,Petrol,Manual,Second Owner,43162.0,Dealer,19.0,1462,7,936000.0,5,8632.4,208.86
+Honda,Accord,2010,Petrol,Manual,Fourth & Above Owner,82000.0,Dealer,17.8,1497,5,390000.0,16,5125.0,299.4
+MG,Hector,2021,Petrol,Automatic,Second Owner,24000.0,Dealer,18.0,1200,5,1940000.0,5,4800.0,240.0
+Tata,Indigo,2014,Diesel,Manual,Third Owner,175000.0,Dealer,19.0,1498,5,200000.0,12,14583.33,299.6
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,21415.0,Dealer,18.9,1197,5,471000.0,12,1784.58,239.4
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,48549.0,Dealer,20.8,1197,5,445000.0,10,4854.9,239.4
+BMW,5 Series,2015,Diesel,Manual,Third Owner,69000.0,Dealer,15.6,1995,5,2149000.0,11,6272.73,399.0
+Datsun,Redi,2019,Petrol,Manual,Second Owner,1391.0,Dealer,20.6,999,5,345000.0,7,198.71,199.8
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,42000.0,Dealer,21.5,998,5,325000.0,12,3500.0,199.6
+Renault,Kwid,2022,Petrol,Automatic,First Owner,8097.0,Dealer,22.0,999,5,525000.0,4,2024.25,199.8
+Maruti,Swift,2014,Petrol,Manual,Third Owner,31511.0,Dealer,21.2,1197,5,408000.0,12,2625.92,239.4
+Skoda,Rapid,2013,Petrol,Automatic,Fourth & Above Owner,65000.0,Dealer,15.6,1498,5,351000.0,13,5000.0,299.6
+Mercedes-Benz,E Class,2018,Diesel,Automatic,Second Owner,88508.0,Dealer,13.8,1991,5,4450000.0,8,11063.5,398.2
+Mahindra,Thar,2021,Diesel,Manual,Second Owner,36804.0,Dealer,15.1,2179,7,1299000.0,5,7360.8,311.29
+Hyundai,Creta,2018,Diesel,Manual,Second Owner,40000.0,Dealer,16.8,1497,5,1490000.0,8,5000.0,299.4
+Skoda,Rapid,2016,Diesel,Manual,Third Owner,117048.0,Dealer,15.6,1498,5,745000.0,10,11704.8,299.6
+Maruti,Alto 800,2021,Petrol,Manual,Second Owner,28200.0,Dealer,22.7,796,5,350000.0,5,5640.0,159.2
+Maruti,Swift,2014,Petrol,Manual,Third Owner,57742.0,Dealer,21.2,1197,5,499000.0,12,4811.83,239.4
+Audi,Q3,2017,Diesel,Automatic,Third Owner,94520.0,Dealer,14.5,1984,5,2250000.0,9,10502.22,396.8
+Mahindra,XUV500,2015,Diesel,Manual,Third Owner,88066.0,Dealer,15.1,2179,7,685000.0,11,8006.0,311.29
+Volkswagen,Polo,2014,Diesel,Manual,Third Owner,78140.0,Dealer,19.0,1498,5,380000.0,12,6511.67,299.6
+Tata,Nexon,2018,Petrol,Manual,Second Owner,29873.0,Dealer,17.0,1199,5,875000.0,8,3734.12,239.8
+Hyundai,Elite I20,2019,Diesel,Manual,Second Owner,56415.0,Dealer,19.0,1498,5,880000.0,7,8059.29,299.6
+Honda,Br,2018,Petrol,Manual,Second Owner,38258.0,Dealer,17.8,1497,5,942000.0,8,4782.25,299.4
+Volvo,S60,2016,Diesel,Automatic,Third Owner,118271.0,Dealer,12.4,1969,5,1595000.0,10,11827.1,393.8
+Mahindra,Bolero,2019,Diesel,Manual,Second Owner,29726.0,Dealer,15.1,2179,7,832000.0,7,4246.57,311.29
+Maruti,Vitara Brezza,2017,Diesel,Manual,Third Owner,77000.0,Dealer,17.0,1462,5,865000.0,9,8555.56,292.4
+Mahindra,XUV500,2018,Diesel,Manual,Second Owner,55218.0,Dealer,15.1,2179,7,1395000.0,8,6902.25,311.29
+Maruti,Xl6,2021,Petrol,Manual,Second Owner,2390.0,Dealer,20.8,1197,5,1045000.0,5,478.0,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,71975.0,Dealer,18.9,1197,5,491000.0,9,7997.22,239.4
+Tata,Hexa,2018,Diesel,Manual,Second Owner,70930.0,Dealer,19.0,1498,5,1550000.0,8,8866.25,299.6
+Honda,Amaze,2017,Petrol,Automatic,Third Owner,45751.0,Dealer,18.6,1199,5,625000.0,9,5083.44,239.8
+Maruti,Wagon R,2016,Petrol,Manual,Third Owner,32702.0,Dealer,21.5,998,5,369000.0,10,3270.2,199.6
+Honda,Amaze,2018,Petrol,Manual,Second Owner,45982.0,Dealer,18.6,1199,5,725000.0,8,5747.75,239.8
+Jeep,Compass,2018,Diesel,Manual,Second Owner,57624.0,Dealer,14.9,1956,5,1745000.0,8,7203.0,391.2
+Maruti,Celerio,2014,Petrol,Automatic,Third Owner,67000.0,Dealer,20.8,1197,5,400000.0,12,5583.33,239.4
+Renault,Kwid,2021,Petrol,Manual,Second Owner,1245.0,Dealer,22.0,999,5,480000.0,5,249.0,199.8
+Honda,City,2016,Petrol,Manual,Third Owner,56861.0,Dealer,17.4,1497,5,799000.0,10,5686.1,299.4
+Maruti,Dzire,2020,Petrol,Manual,Second Owner,33372.0,Dealer,22.0,1197,5,795000.0,6,5562.0,239.4
+Tata,Safari,2021,Diesel,Manual,Second Owner,22360.0,Dealer,14.1,1956,7,2400000.0,5,4472.0,279.43
+Hyundai,I20,2014,Petrol,Manual,Third Owner,74050.0,Dealer,18.6,1197,5,425000.0,12,6170.83,239.4
+Hyundai,Elite I20,2018,Petrol,Automatic,Second Owner,39389.0,Dealer,18.3,1197,5,895000.0,8,4923.62,239.4
+Maruti,Alto K10,2015,Petrol,Manual,Third Owner,44042.0,Dealer,24.1,998,5,336000.0,11,4003.82,199.6
+Mercedes-Benz,C Class,2019,Diesel,Automatic,Second Owner,53841.0,Dealer,13.8,1991,5,4600000.0,7,7691.57,398.2
+Mahindra,XUV500,2018,Diesel,Automatic,Second Owner,45724.0,Dealer,15.1,2179,7,1590000.0,8,5715.5,311.29
+Jeep,Compass,2022,Diesel,Automatic,First Owner,1600.0,Dealer,14.9,1956,5,3700000.0,4,400.0,391.2
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,33583.0,Dealer,18.9,1197,5,500000.0,7,4797.57,239.4
+Hyundai,Venue,2020,Petrol,Automatic,Second Owner,32727.0,Dealer,18.3,1197,5,1045000.0,6,5454.5,239.4
+Hyundai,Verna,2018,Petrol,Manual,Second Owner,52858.0,Dealer,17.7,1497,5,868000.0,8,6607.25,299.4
+Maruti,Alto K10,2016,Petrol,Manual,Third Owner,88989.0,Dealer,24.1,998,5,295000.0,10,8898.9,199.6
+Skoda,Rapid,2021,Petrol,Manual,Second Owner,10418.0,Dealer,15.6,1498,5,1046000.0,5,2083.6,299.6
+Chevrolet,Cruze,2017,Diesel,Manual,Third Owner,65000.0,Dealer,19.0,1498,5,850000.0,9,7222.22,299.6
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,31968.0,Dealer,21.4,1197,5,689000.0,8,3996.0,239.4
+Hyundai,Elite I20,2019,Petrol,Automatic,Second Owner,41236.0,Dealer,18.3,1197,5,851000.0,7,5890.86,239.4
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,36101.0,Dealer,21.4,1197,5,585000.0,9,4011.22,239.4
+Hyundai,Creta,2017,Diesel,Automatic,Third Owner,44157.0,Dealer,16.8,1497,5,1171000.0,9,4906.33,299.4
+Volkswagen,Polo,2014,Petrol,Manual,Third Owner,51644.0,Dealer,17.2,1197,5,592000.0,12,4303.67,239.4
+Hyundai,Venue,2019,Diesel,Manual,Second Owner,40655.0,Dealer,19.0,1498,5,983000.0,7,5807.86,299.6
+Honda,Amaze,2015,Petrol,Manual,Third Owner,79749.0,Dealer,18.6,1199,5,469000.0,11,7249.91,239.8
+Volkswagen,Ameo,2018,Petrol,Manual,Second Owner,46000.0,Dealer,17.2,1197,5,465000.0,8,5750.0,239.4
+Volkswagen,Ameo,2016,Petrol,Manual,Third Owner,40729.0,Dealer,17.2,1197,5,399000.0,10,4072.9,239.4
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,36349.0,Dealer,18.3,1197,5,658000.0,11,3304.45,239.4
+Hyundai,Grand I10,2019,Cng,Manual,Second Owner,23345.0,Dealer,18.9,1197,5,537000.0,7,3335.0,239.4
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,33679.0,Dealer,18.3,1197,5,534000.0,10,3367.9,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,56000.0,Dealer,19.8,1086,5,295000.0,12,4666.67,217.2
+Maruti,Celerio,2015,Petrol,Manual,Third Owner,66290.0,Dealer,20.8,1197,5,395000.0,11,6026.36,239.4
+Maruti,Celerio,2017,Petrol,Automatic,Third Owner,41624.0,Dealer,20.8,1197,5,425000.0,9,4624.89,239.4
+Hyundai,Grand I10,2013,Petrol,Manual,Fourth & Above Owner,46458.0,Dealer,18.9,1197,5,431000.0,13,3573.69,239.4
+Audi,A4,2013,Diesel,Automatic,Fourth & Above Owner,116265.0,Dealer,17.4,1984,5,1650000.0,13,8943.46,396.8
+Honda,Amaze,2014,Petrol,Manual,Third Owner,50821.0,Dealer,18.6,1199,5,400000.0,12,4235.08,239.8
+Mahindra,XUV500,2016,Diesel,Manual,Third Owner,87820.0,Dealer,15.1,2179,7,975000.0,10,8782.0,311.29
+Renault,Kwid,2019,Petrol,Manual,Second Owner,22785.0,Dealer,22.0,999,5,425000.0,7,3255.0,199.8
+Maruti,Wagon R,2018,Cng,Manual,Second Owner,70000.0,Dealer,21.5,998,5,450000.0,8,8750.0,199.6
+Mercedes-Benz,E Class,2016,Diesel,Automatic,Third Owner,84169.0,Dealer,13.8,1991,5,2700000.0,10,8416.9,398.2
+Maruti,Baleno,2020,Petrol,Manual,Second Owner,12252.0,Dealer,21.4,1197,5,725000.0,6,2042.0,239.4
+Hyundai,I20,2021,Petrol,Manual,Second Owner,12420.0,Dealer,18.6,1197,5,910000.0,5,2484.0,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,50714.0,Dealer,19.8,1086,5,367000.0,12,4226.17,217.2
+Tata,Tiago,2021,Petrol,Manual,Second Owner,16337.0,Dealer,17.0,1199,5,590000.0,5,3267.4,239.8
+Maruti,S Cross,2017,Diesel,Manual,Third Owner,52245.0,Dealer,19.0,1498,5,795000.0,9,5805.0,299.6
+Hyundai,Venue,2020,Petrol,Automatic,Second Owner,64317.0,Dealer,18.3,1197,5,1097000.0,6,10719.5,239.4
+Audi,A6,2014,Diesel,Automatic,Third Owner,101850.0,Dealer,14.5,1984,5,1550000.0,12,8487.5,396.8
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,43189.0,Dealer,18.3,1197,5,529000.0,7,6169.86,239.4
+Audi,A4,2016,Diesel,Automatic,Third Owner,82695.0,Dealer,17.4,1984,5,2700000.0,10,8269.5,396.8
+Maruti,Wagon R,2021,Cng,Manual,Second Owner,19225.0,Dealer,21.5,998,5,687000.0,5,3845.0,199.6
+Maruti,Swift,2016,Petrol,Manual,Third Owner,63323.0,Dealer,21.2,1197,5,580000.0,10,6332.3,239.4
+Toyota,Corolla Altis,2015,Diesel,Manual,Third Owner,71957.0,Dealer,14.3,1798,5,1150000.0,11,6541.55,359.6
+Maruti,Ciaz,2020,Petrol,Manual,Second Owner,54031.0,Dealer,20.7,1373,5,849000.0,6,9005.17,274.6
+Maruti,S Cross,2018,Diesel,Manual,Second Owner,53416.0,Dealer,19.0,1498,5,895000.0,8,6677.0,299.6
+BMW,3 Series,2016,Diesel,Manual,Third Owner,64229.0,Dealer,16.1,1995,5,2785000.0,10,6422.9,399.0
+Honda,Brio,2014,Petrol,Manual,Third Owner,81122.0,Dealer,18.5,1198,5,375000.0,12,6760.17,239.6
+Maruti,Wagon R,2019,Petrol,Manual,Second Owner,50860.0,Dealer,21.5,998,5,579000.0,7,7265.71,199.6
+Skoda,Kushaq,2022,Petrol,Manual,First Owner,3000.0,Dealer,15.6,1498,5,1450000.0,4,750.0,299.6
+Maruti,Swift,2019,Petrol,Automatic,Second Owner,32516.0,Dealer,21.2,1197,5,785000.0,7,4645.14,239.4
+Maruti,Alto K10,2018,Petrol,Automatic,Second Owner,30305.0,Dealer,24.1,998,5,430000.0,8,3788.12,199.6
+Mahindra,Bolero,2017,Diesel,Manual,Third Owner,45090.0,Dealer,15.1,2179,7,571000.0,9,5010.0,311.29
+BMW,3 Series,2019,Diesel,Manual,Second Owner,51400.0,Dealer,16.1,1995,5,3950000.0,7,7342.86,399.0
+Toyota,Innova,2017,Diesel,Automatic,Third Owner,85182.0,Dealer,12.99,2494,7,1631000.0,9,9464.67,356.29
+Hyundai,Elantra,2014,Petrol,Automatic,Third Owner,25000.0,Dealer,14.6,1999,5,685000.0,12,2083.33,399.8
+Kia,Seltos,2021,Petrol,Manual,Second Owner,14300.0,Dealer,16.5,1497,5,1598000.0,5,2860.0,299.4
+Honda,City,2015,Petrol,Automatic,Third Owner,52283.0,Dealer,17.4,1497,5,645000.0,11,4753.0,299.4
+Tata,Tiago,2022,Petrol,Manual,First Owner,9578.0,Dealer,17.0,1199,5,843000.0,4,2394.5,239.8
+Ford,Freestyle,2020,Petrol,Manual,Second Owner,32000.0,Dealer,16.0,1497,5,600000.0,6,5333.33,299.4
+Honda,City,2017,Petrol,Automatic,Third Owner,43239.0,Dealer,17.4,1497,5,925000.0,9,4804.33,299.4
+Maruti,Wagon R,2007,Petrol + 1,Manual,Fourth & Above Owner,150000.0,Dealer,21.5,998,5,150000.0,19,7894.74,199.6
+Skoda,Rapid,2020,Petrol,Automatic,Second Owner,54698.0,Dealer,15.6,1498,5,959000.0,6,9116.33,299.6
+Maruti,Alto 800,2020,Petrol,Manual,Second Owner,19097.0,Dealer,22.7,796,5,349000.0,6,3182.83,159.2
+Maruti,Swift,2018,Petrol,Manual,Second Owner,37497.0,Dealer,21.2,1197,5,629000.0,8,4687.12,239.4
+Volkswagen,Polo,2013,Petrol,Manual,Fourth & Above Owner,76143.0,Dealer,17.2,1197,5,300000.0,13,5857.15,239.4
+Honda,City,2017,Petrol,Automatic,Third Owner,28340.0,Dealer,17.4,1497,5,1145000.0,9,3148.89,299.4
+Toyota,Corolla Altis,2017,Petrol,Automatic,Third Owner,75766.0,Dealer,14.3,1798,5,1227000.0,9,8418.44,359.6
+Hyundai,Verna,2014,Diesel,Manual,Third Owner,106985.0,Dealer,17.7,1497,5,600000.0,12,8915.42,299.4
+Jeep,Compass,2020,Petrol,Automatic,Second Owner,11000.0,Dealer,14.9,1956,5,2000000.0,6,1833.33,391.2
+BMW,X3,2012,Diesel,Manual,Fourth & Above Owner,74073.0,Dealer,19.0,1498,5,1800000.0,14,5290.93,299.6
+Volkswagen,Taigun,2021,Petrol,Manual,Second Owner,12093.0,Dealer,17.2,1197,5,1599000.0,5,2418.6,239.4
+Ford,Figo,2013,Diesel,Manual,Fourth & Above Owner,64983.0,Dealer,16.0,1497,5,299000.0,13,4998.69,299.4
+Hyundai,Elite I20,2014,Petrol,Manual,Third Owner,36787.0,Dealer,18.3,1197,5,515000.0,12,3065.58,239.4
+Jeep,Compass,2017,Diesel,Manual,Third Owner,47631.0,Dealer,14.9,1956,5,1126000.0,9,5292.33,391.2
+Maruti,Ciaz,2017,Petrol,Automatic,Third Owner,28800.0,Dealer,20.7,1373,5,752000.0,9,3200.0,274.6
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,43000.0,Dealer,21.4,1197,5,875000.0,7,6142.86,239.4
+Volkswagen,Vento,2016,Petrol,Manual,Third Owner,55837.0,Dealer,17.2,1197,5,610000.0,10,5583.7,239.4
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,41441.0,Dealer,16.8,1497,5,899000.0,10,4144.1,299.4
+Volkswagen,Polo,2015,Petrol,Manual,Third Owner,49047.0,Dealer,17.2,1197,5,425000.0,11,4458.82,239.4
+Hyundai,Grand I10,2013,Petrol,Manual,Fourth & Above Owner,55888.0,Dealer,18.9,1197,5,428000.0,13,4299.08,239.4
+Hyundai,Santro,2021,Cng,Manual,Second Owner,32036.0,Dealer,18.3,1197,5,604000.0,5,6407.2,239.4
+Maruti,Alto 800,2014,Petrol,Manual,Third Owner,71169.0,Dealer,22.7,796,5,246000.0,12,5930.75,159.2
+Honda,Civic,2019,Petrol,Automatic,Second Owner,19600.0,Dealer,17.8,1497,5,2070000.0,7,2800.0,299.4
+Maruti,Ciaz,2017,Diesel,Manual,Third Owner,61456.0,Dealer,20.7,1498,5,600000.0,9,6828.44,299.6
+Maruti,Baleno,2020,Petrol,Manual,Second Owner,28417.0,Dealer,21.4,1197,5,679000.0,6,4736.17,239.4
+Maruti,Baleno,2018,Diesel,Manual,Second Owner,60132.0,Dealer,21.4,1498,5,699000.0,8,7516.5,299.6
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,45571.0,Dealer,18.3,1197,5,610000.0,9,5063.44,239.4
+Hyundai,Eon,2014,Petrol,Manual,Third Owner,34229.0,Dealer,21.1,814,5,283000.0,12,2852.42,162.8
+Maruti,Wagon R,2018,Petrol,Automatic,Second Owner,38754.0,Dealer,21.5,998,5,445000.0,8,4844.25,199.6
+Hyundai,Verna,2019,Petrol,Manual,Second Owner,5564.0,Dealer,17.7,1497,5,965000.0,7,794.86,299.4
+Maruti,Alto K10,2019,Petrol,Automatic,Second Owner,58006.0,Dealer,24.1,998,5,430000.0,7,8286.57,199.6
+Jeep,Compass,2020,Diesel,Automatic,Second Owner,11293.0,Dealer,14.9,1956,5,2475000.0,6,1882.17,391.2
+Volkswagen,Polo,2015,Petrol,Manual,Third Owner,51000.0,Dealer,17.2,1197,5,579000.0,11,4636.36,239.4
+Hyundai,Elite I20,2017,Diesel,Manual,Third Owner,77505.0,Dealer,19.0,1498,5,770000.0,9,8611.67,299.6
+Maruti,Alto 800,2019,Petrol,Manual,Second Owner,6370.0,Dealer,22.7,796,5,343000.0,7,910.0,159.2
+Maruti,Swift,2017,Petrol,Manual,Third Owner,59000.0,Dealer,21.2,1197,5,515000.0,9,6555.56,239.4
+Maruti,Swift,2019,Petrol,Automatic,Second Owner,11874.0,Dealer,21.2,1197,5,725000.0,7,1696.29,239.4
+Renault,Kwid,2017,Petrol,Manual,Third Owner,56856.0,Dealer,22.0,999,5,285000.0,9,6317.33,199.8
+Maruti,Ignis,2018,Petrol,Manual,Second Owner,11824.0,Dealer,20.9,1197,5,474000.0,8,1478.0,239.4
+Mahindra,XUV500,2016,Diesel,Manual,Third Owner,56877.0,Dealer,15.1,2179,7,1125000.0,10,5687.7,311.29
+Maruti,Wagon R,2015,Cng,Manual,Third Owner,45000.0,Dealer,21.5,998,5,400000.0,11,4090.91,199.6
+Honda,Wr,2017,Petrol,Manual,Third Owner,24459.0,Dealer,17.8,1497,5,625000.0,9,2717.67,299.4
+Renault,Kwid,2016,Petrol,Manual,Third Owner,43335.0,Dealer,22.0,999,5,314000.0,10,4333.5,199.8
+Honda,Jazz,2016,Petrol,Manual,Third Owner,54912.0,Dealer,18.7,1199,5,400000.0,10,5491.2,239.8
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,15116.0,Dealer,21.4,1197,5,665000.0,7,2159.43,239.4
+Volvo,V90,2018,Diesel,Automatic,Second Owner,67713.0,Dealer,12.4,1969,5,3600000.0,8,8464.12,393.8
+Maruti,Baleno,2020,Petrol,Automatic,Second Owner,45000.0,Dealer,21.4,1197,5,725000.0,6,7500.0,239.4
+Hyundai,Eon,2018,Petrol,Manual,Second Owner,46101.0,Dealer,21.1,814,5,245000.0,8,5762.62,162.8
+Maruti,Dzire,2018,Petrol,Automatic,Second Owner,46232.0,Dealer,22.0,1197,5,769000.0,8,5779.0,239.4
+Mercedes-Benz,Glc,2022,Diesel,Automatic,First Owner,6563.0,Dealer,13.8,1991,5,6499000.0,4,1640.75,398.2
+Mercedes-Benz,Gle,2018,Diesel,Automatic,Second Owner,46023.0,Dealer,13.8,1991,5,5355000.0,8,5752.88,398.2
+Hyundai,Verna,2014,Petrol,Manual,Third Owner,74371.0,Dealer,17.7,1497,5,515000.0,12,6197.58,299.4
+Hyundai,Elite I20,2018,Diesel,Manual,Second Owner,58262.0,Dealer,19.0,1498,5,594000.0,8,7282.75,299.6
+Honda,Br,2016,Petrol,Automatic,Third Owner,61225.0,Dealer,17.8,1497,5,790000.0,10,6122.5,299.4
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,37882.0,Dealer,19.1,1197,5,482000.0,11,3443.82,239.4
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,71773.0,Dealer,16.0,1497,5,3300000.0,8,8971.62,299.4
+Hyundai,I20,2012,Petrol,Manual,Fourth & Above Owner,35982.0,Dealer,18.6,1197,5,299000.0,14,2570.14,239.4
+Honda,Amaze,2014,Petrol,Manual,Third Owner,46500.0,Dealer,18.6,1199,5,375000.0,12,3875.0,239.8
+Mercedes-Benz,E Class,2016,Diesel,Automatic,Third Owner,24162.0,Dealer,13.8,1991,5,2799000.0,10,2416.2,398.2
+Datsun,Go,2015,Petrol,Manual,Third Owner,43000.0,Dealer,20.6,999,5,250000.0,11,3909.09,199.8
+Kia,Sonet,2021,Diesel,Manual,Second Owner,58063.0,Dealer,16.5,1497,5,950000.0,5,11612.6,299.4
+Audi,Q7,2018,Diesel,Automatic,Second Owner,37648.0,Dealer,14.5,1984,5,6995000.0,8,4706.0,396.8
+Maruti,Swift,2017,Diesel,Manual,Third Owner,82366.0,Dealer,21.2,1498,5,650000.0,9,9151.78,299.6
+Skoda,Kodiaq,2017,Diesel,Automatic,Third Owner,103885.0,Dealer,15.6,1498,5,2500000.0,9,11542.78,299.6
+Volkswagen,Jetta,2011,Diesel,Manual,Fourth & Above Owner,63389.0,Dealer,19.0,1498,5,295000.0,15,4225.93,299.6
+Maruti,Ritz,2015,Petrol,Manual,Third Owner,88000.0,Dealer,18.5,1197,5,465000.0,11,8000.0,239.4
+Audi,A3,2018,Petrol,Automatic,Second Owner,43290.0,Dealer,14.5,1984,5,2450000.0,8,5411.25,396.8
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,29093.0,Dealer,21.4,1197,5,621000.0,8,3636.62,239.4
+Hyundai,I10,2013,Lpg,Manual,Fourth & Above Owner,73380.0,Dealer,19.8,1086,5,350000.0,13,5644.62,217.2
+Honda,Jazz,2017,Petrol,Manual,Third Owner,48210.0,Dealer,18.7,1199,5,550000.0,9,5356.67,239.8
+Hyundai,Verna,2014,Petrol,Manual,Third Owner,14296.0,Dealer,17.7,1497,5,669000.0,12,1191.33,299.4
+Toyota,Fortuner,2021,Diesel,Automatic,Second Owner,6373.0,Dealer,12.6,2755,7,4199000.0,5,1274.6,393.57
+Toyota,Innova,2018,Diesel,Manual,Second Owner,88000.0,Dealer,12.99,2494,7,2200000.0,8,11000.0,356.29
+Kia,Seltos,2020,Petrol,Manual,Second Owner,42000.0,Dealer,16.5,1497,5,1275000.0,6,7000.0,299.4
+Renault,Duster,2015,Diesel,Manual,Third Owner,94931.0,Dealer,20.0,1498,5,775000.0,11,8630.09,299.6
+MG,Hector,2021,Petrol,Automatic,Second Owner,5900.0,Dealer,18.0,1200,5,1800000.0,5,1180.0,240.0
+Toyota,Innova,2020,Diesel,Manual,Second Owner,48989.0,Dealer,12.99,2494,7,2700000.0,6,8164.83,356.29
+Maruti,Swift,2018,Petrol,Manual,Second Owner,15205.0,Dealer,21.2,1197,5,595000.0,8,1900.62,239.4
+Mercedes-Benz,Gls,2017,Diesel,Automatic,Third Owner,59348.0,Dealer,13.8,1991,5,6300000.0,9,6594.22,398.2
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,33941.0,Dealer,21.5,998,5,382000.0,8,4242.62,199.6
+Maruti,Wagon R,2015,Cng,Manual,Third Owner,19812.0,Dealer,21.5,998,5,415000.0,11,1801.09,199.6
+Volkswagen,Polo,2018,Petrol,Manual,Second Owner,55800.0,Dealer,17.2,1197,5,485000.0,8,6975.0,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,35010.0,Dealer,18.9,1197,5,482000.0,9,3890.0,239.4
+Kia,Seltos,2020,Petrol,Manual,Second Owner,11000.0,Dealer,16.5,1497,5,1690000.0,6,1833.33,299.4
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,28000.0,Dealer,21.4,1197,5,570000.0,9,3111.11,239.4
+Tata,Harrier,2020,Diesel,Manual,Second Owner,28000.0,Dealer,19.0,1498,5,1675000.0,6,4666.67,299.6
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,66000.0,Dealer,24.1,998,5,255000.0,14,4714.29,199.6
+Maruti,Ertiga,2019,Petrol,Automatic,Second Owner,32881.0,Dealer,19.0,1462,7,1090000.0,7,4697.29,208.86
+BMW,X1,2011,Diesel,Manual,Fourth & Above Owner,47000.0,Dealer,19.0,1498,5,835000.0,15,3133.33,299.6
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,82559.0,Dealer,17.0,1462,5,813000.0,8,10319.88,292.4
+Kia,Seltos,2021,Petrol,Manual,Second Owner,20881.0,Dealer,16.5,1497,5,1850000.0,5,4176.2,299.4
+Toyota,Corolla,2004,Petrol + 1,Manual,Fourth & Above Owner,140000.0,Dealer,14.5,1798,5,200000.0,22,6363.64,359.6
+Maruti,S Cross,2018,Diesel,Manual,Second Owner,48159.0,Dealer,19.0,1498,5,625000.0,8,6019.88,299.6
+Mercedes-Benz,B,2014,Diesel,Automatic,Third Owner,64300.0,Dealer,13.8,1991,5,1350000.0,12,5358.33,398.2
+Kia,Seltos,2020,Diesel,Automatic,Second Owner,32244.0,Dealer,16.5,1497,5,1851000.0,6,5374.0,299.4
+Maruti,Swift,2009,Petrol,Manual,Fourth & Above Owner,71861.0,Dealer,21.2,1197,5,325000.0,17,4227.12,239.4
+Hyundai,Grand I10,2013,Petrol,Manual,Fourth & Above Owner,24251.0,Dealer,18.9,1197,5,469000.0,13,1865.46,239.4
+Mercedes-Benz,S Class,2014,Diesel,Automatic,Third Owner,32500.0,Dealer,13.8,1991,5,4660000.0,12,2708.33,398.2
+Maruti,Swift,2017,Diesel + 1,Manual,Third Owner,82500.0,Dealer,21.2,1498,5,600000.0,9,9166.67,299.6
+Audi,A3,2015,Petrol,Automatic,Third Owner,69727.0,Dealer,14.5,1984,5,1500000.0,11,6338.82,396.8
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,54822.0,Dealer,18.3,1197,5,526000.0,11,4983.82,239.4
+Ford,Aspire,2016,Diesel,Manual,Third Owner,167000.0,Dealer,16.0,1497,5,425000.0,10,16700.0,299.4
+Hyundai,Xcent,2018,Petrol,Manual,Second Owner,36000.0,Dealer,19.1,1197,5,395000.0,8,4500.0,239.4
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,53958.0,Dealer,20.8,1197,5,431000.0,6,8993.0,239.4
+Hyundai,I20,2014,Petrol,Manual,Third Owner,50546.0,Dealer,18.6,1197,5,430000.0,12,4212.17,239.4
+Maruti,Celerio,2015,Petrol,Automatic,Third Owner,59175.0,Dealer,20.8,1197,5,479000.0,11,5379.55,239.4
+Audi,A3,2018,Diesel,Automatic,Second Owner,17300.0,Dealer,14.5,1984,5,2950000.0,8,2162.5,396.8
+Maruti,Ritz,2014,Petrol,Manual,Third Owner,88000.0,Dealer,18.5,1197,5,425000.0,12,7333.33,239.4
+Toyota,Yaris,2019,Petrol,Manual,Second Owner,28103.0,Dealer,14.5,1496,5,785000.0,7,4014.71,299.2
+Honda,Jazz,2015,Petrol,Manual,Third Owner,73061.0,Dealer,18.7,1199,5,520000.0,11,6641.91,239.8
+Toyota,Innova,2012,Diesel,Manual,Fourth & Above Owner,101330.0,Dealer,12.99,2494,7,725000.0,14,7237.86,356.29
+Maruti,Baleno,2021,Petrol,Manual,Second Owner,7773.0,Dealer,21.4,1197,5,942000.0,5,1554.6,239.4
+Land Rover,Range,2020,Petrol,Automatic,Second Owner,29000.0,Dealer,11.8,2179,5,8500000.0,6,4833.33,435.8
+Maruti,Alto 800,2021,Petrol,Manual,Second Owner,1953.0,Dealer,22.7,796,5,401000.0,5,390.6,159.2
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,18490.0,Dealer,18.3,1197,5,767000.0,7,2641.43,239.4
+Hyundai,Grand I10,2018,Diesel,Manual,Second Owner,60093.0,Dealer,19.0,1498,5,550000.0,8,7511.62,299.6
+Maruti,Swift,2019,Petrol,Manual,Second Owner,46282.0,Dealer,21.2,1197,5,543000.0,7,6611.71,239.4
+Volkswagen,Vento,2015,Petrol,Manual,Third Owner,93682.0,Dealer,17.2,1197,5,700000.0,11,8516.55,239.4
+Maruti,Swift,2015,Diesel,Manual,Third Owner,84316.0,Dealer,21.2,1498,5,490000.0,11,7665.09,299.6
+Kia,Seltos,2020,Diesel,Automatic,Second Owner,20175.0,Dealer,16.5,1497,5,1700000.0,6,3362.5,299.4
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,19266.0,Dealer,18.3,1197,5,739000.0,9,2140.67,239.4
+Maruti,Alto 800,2016,Petrol,Manual,Third Owner,26802.0,Dealer,22.7,796,5,322000.0,10,2680.2,159.2
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,20454.0,Dealer,18.3,1197,5,717000.0,8,2556.75,239.4
+Honda,City,2012,Petrol,Manual,Fourth & Above Owner,80000.0,Dealer,17.4,1497,5,365000.0,14,5714.29,299.4
+Renault,Kwid,2019,Petrol,Manual,Second Owner,2421.0,Dealer,22.0,999,5,451000.0,7,345.86,199.8
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,53946.0,Dealer,16.8,1497,5,911000.0,10,5394.6,299.4
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,74000.0,Dealer,19.1,1197,5,435000.0,11,6727.27,239.4
+Hyundai,Verna,2018,Petrol,Manual,Second Owner,22911.0,Dealer,17.7,1497,5,775000.0,8,2863.88,299.4
+Hyundai,Creta,2018,Diesel,Automatic,Second Owner,59994.0,Dealer,16.8,1497,5,1450000.0,8,7499.25,299.4
+Maruti,Baleno,2016,Petrol,Manual,Third Owner,48702.0,Dealer,21.4,1197,5,498000.0,10,4870.2,239.4
+Honda,City,2019,Petrol,Manual,Second Owner,12382.0,Dealer,17.4,1497,5,1060000.0,7,1768.86,299.4
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,12930.0,Dealer,18.9,1197,5,629000.0,10,1293.0,239.4
+Maruti,Ciaz,2019,Petrol,Manual,Second Owner,20440.0,Dealer,20.7,1373,5,995000.0,7,2920.0,274.6
+Maruti,Swift,2017,Petrol,Manual,Third Owner,43000.0,Dealer,21.2,1197,5,570000.0,9,4777.78,239.4
+Maruti,Celerio,2018,Cng,Manual,Second Owner,81091.0,Dealer,20.8,1197,5,468000.0,8,10136.38,239.4
+Hyundai,Grand I10,2014,Diesel,Manual,Third Owner,67621.0,Dealer,19.0,1498,5,450000.0,12,5635.08,299.6
+Hyundai,Verna,2016,Petrol,Manual,Third Owner,38494.0,Dealer,17.7,1497,5,650000.0,10,3849.4,299.4
+Maruti,Celerio,2020,Cng,Manual,Second Owner,42348.0,Dealer,20.8,1197,5,547000.0,6,7058.0,239.4
+Maruti,Celerio,2019,Cng,Manual,Second Owner,93275.0,Dealer,20.8,1197,5,527000.0,7,13325.0,239.4
+Maruti,Alto K10,2018,Petrol,Manual,Second Owner,44199.0,Dealer,24.1,998,5,367000.0,8,5524.88,199.6
+Audi,A3,2018,Petrol,Automatic,Second Owner,77590.0,Dealer,14.5,1984,5,2180000.0,8,9698.75,396.8
+Audi,A3,2019,Diesel,Automatic,Second Owner,15678.0,Dealer,14.5,1984,5,4299000.0,7,2239.71,396.8
+Maruti,Celerio,2016,Cng,Manual,Third Owner,52000.0,Dealer,20.8,1197,5,440000.0,10,5200.0,239.4
+Maruti,Ertiga,2021,Cng,Manual,Second Owner,28678.0,Dealer,19.0,1462,7,1140000.0,5,5735.6,208.86
+Maruti,Ritz,2013,Petrol,Manual,Fourth & Above Owner,40877.0,Dealer,18.5,1197,5,357000.0,13,3144.38,239.4
+Honda,Jazz,2016,Petrol,Manual,Third Owner,44464.0,Dealer,18.7,1199,5,557000.0,10,4446.4,239.8
+Mahindra,Bolero,2017,Diesel,Manual,Third Owner,57994.0,Dealer,15.1,2179,7,725000.0,9,6443.78,311.29
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,54982.0,Dealer,18.3,1197,5,657000.0,9,6109.11,239.4
+Datsun,Go,2018,Petrol,Manual,Second Owner,40000.0,Dealer,20.6,999,5,250000.0,8,5000.0,199.8
+Maruti,A,2010,Petrol,Manual,Fourth & Above Owner,54000.0,Dealer,20.8,1197,5,199000.0,16,3375.0,239.4
+Audi,Q5,2012,Diesel,Automatic,Fourth & Above Owner,56173.0,Dealer,14.5,1984,5,1500000.0,14,4012.36,396.8
+Renault,Duster,2019,Petrol,Automatic,Second Owner,36700.0,Dealer,20.0,999,5,899000.0,7,5242.86,199.8
+Volkswagen,Taigun,2022,Petrol,Automatic,First Owner,2377.0,Dealer,17.2,1197,5,1895000.0,4,594.25,239.4
+Volvo,S60,2016,Diesel,Automatic,Third Owner,83893.0,Dealer,12.4,1969,5,1800000.0,10,8389.3,393.8
+Hyundai,Verna,2011,Petrol,Manual,Fourth & Above Owner,96000.0,Dealer,17.7,1497,5,425000.0,15,6400.0,299.4
+Renault,Kwid,2016,Petrol,Manual,Third Owner,64346.0,Dealer,22.0,999,5,339000.0,10,6434.6,199.8
+Hyundai,Santro,2020,Petrol,Manual,Second Owner,15447.0,Dealer,18.3,1197,5,441000.0,6,2574.5,239.4
+MG,Hector,2019,Petrol,Automatic,Second Owner,29979.0,Dealer,18.0,1200,5,1599000.0,7,4282.71,240.0
+Skoda,Octavia,2018,Petrol,Manual,Second Owner,45661.0,Dealer,15.6,1498,5,1699000.0,8,5707.62,299.6
+MG,Zs,2020,Electric,Automatic,Second Owner,57946.0,Dealer,0.0,0,5,1919000.0,6,9657.67,0.0
+Renault,Kwid,2017,Petrol,Manual,Third Owner,43361.0,Dealer,22.0,999,5,369000.0,9,4817.89,199.8
+Honda,City,2017,Petrol,Automatic,Third Owner,18711.0,Dealer,17.4,1497,5,862000.0,9,2079.0,299.4
+Tata,Nexon,2020,Petrol,Manual,Second Owner,29700.0,Dealer,17.0,1199,5,850000.0,6,4950.0,239.8
+Isuzu,D,2018,Diesel,Manual,Second Owner,64377.0,Dealer,13.8,1898,5,1895000.0,8,8047.12,379.6
+Maruti,Ciaz,2017,Diesel,Manual,Third Owner,57498.0,Dealer,20.7,1498,5,597000.0,9,6388.67,299.6
+Toyota,Etios,2015,Diesel,Manual,Third Owner,169100.0,Dealer,14.5,1496,5,550000.0,11,15372.73,299.2
+Maruti,Swift,2016,Petrol,Manual,Third Owner,24389.0,Dealer,21.2,1197,5,479000.0,10,2438.9,239.4
+Tata,Harrier,2019,Diesel,Manual,Second Owner,21077.0,Dealer,19.0,1498,5,1620000.0,7,3011.0,299.6
+Tata,Nexon,2022,Electric,Automatic,First Owner,21065.0,Dealer,0.0,0,5,1475000.0,4,5266.25,0.0
+Hyundai,Venue,2020,Petrol,Manual,Second Owner,24410.0,Dealer,18.3,1197,5,1175000.0,6,4068.33,239.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,14000.0,Dealer,18.3,1197,5,715000.0,8,1750.0,239.4
+Maruti,Swift,2016,Diesel,Manual,Third Owner,69939.0,Dealer,21.2,1498,5,645000.0,10,6993.9,299.6
+Volkswagen,Polo,2017,Petrol,Manual,Third Owner,25501.0,Dealer,17.2,1197,5,609000.0,9,2833.44,239.4
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,78623.0,Dealer,16.8,1497,5,828000.0,10,7862.3,299.4
+Kia,Seltos,2019,Petrol,Manual,Second Owner,25483.0,Dealer,16.5,1497,5,1105000.0,7,3640.43,299.4
+Maruti,Ciaz,2017,Petrol,Automatic,Third Owner,46993.0,Dealer,20.7,1373,5,735000.0,9,5221.44,274.6
+Maruti,Alto 800,2020,Petrol,Manual,Second Owner,4697.0,Dealer,22.7,796,5,366000.0,6,782.83,159.2
+Maruti,Wagon R,2016,Petrol,Automatic,Third Owner,53000.0,Dealer,21.5,998,5,430000.0,10,5300.0,199.6
+Maruti,Ciaz,2019,Petrol,Manual,Second Owner,61867.0,Dealer,20.7,1373,5,812000.0,7,8838.14,274.6
+Maruti,S Cross,2018,Diesel,Manual,Second Owner,28016.0,Dealer,19.0,1498,5,950000.0,8,3502.0,299.6
+Ford,Endeavour,2019,Diesel,Automatic,Second Owner,27635.0,Dealer,16.0,1497,5,3595000.0,7,3947.86,299.4
+Jeep,Compass,2018,Petrol,Automatic,Second Owner,48179.0,Dealer,14.9,1956,5,1285000.0,8,6022.38,391.2
+Renault,Captur,2018,Petrol,Manual,Second Owner,99938.0,Dealer,20.0,999,5,779000.0,8,12492.25,199.8
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,12842.0,Dealer,18.9,1197,5,566000.0,7,1834.57,239.4
+Toyota,Yaris,2021,Petrol,Manual,Second Owner,8465.0,Dealer,14.5,1496,5,1027000.0,5,1693.0,299.2
+Renault,Triber,2019,Petrol,Manual,Second Owner,30040.0,Dealer,20.0,999,5,539000.0,7,4291.43,199.8
+Maruti,Swift,2020,Petrol,Automatic,Second Owner,45745.0,Dealer,21.2,1197,5,725000.0,6,7624.17,239.4
+Audi,A6,2016,Diesel,Automatic,Third Owner,62410.0,Dealer,14.5,1984,5,3175000.0,10,6241.0,396.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,29135.0,Dealer,18.9,1197,5,540000.0,9,3237.22,239.4
+Mercedes-Benz,S Class,2017,Petrol,Automatic,Third Owner,24500.0,Dealer,13.8,1991,5,11900000.0,9,2722.22,398.2
+Hyundai,Verna,2019,Petrol,Manual,Second Owner,8000.0,Dealer,17.7,1497,5,992000.0,7,1142.86,299.4
+Volkswagen,Vento,2018,Petrol,Automatic,Second Owner,40000.0,Dealer,17.2,1197,5,839000.0,8,5000.0,239.4
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,48502.0,Dealer,21.5,998,5,400000.0,9,5389.11,199.6
+Datsun,Redi,2021,Petrol,Manual,Second Owner,10655.0,Dealer,20.6,999,5,465000.0,5,2131.0,199.8
+Ford,Fiesta,2011,Diesel,Manual,Fourth & Above Owner,55000.0,Dealer,16.0,1497,5,185000.0,15,3666.67,299.4
+Hyundai,Grand I10,2021,Petrol,Manual,Second Owner,33863.0,Dealer,18.9,1197,5,729000.0,5,6772.6,239.4
+Honda,City,2016,Petrol,Automatic,Third Owner,61123.0,Dealer,17.4,1497,5,785000.0,10,6112.3,299.4
+Volvo,Xc60,2016,Diesel,Automatic,Third Owner,82807.0,Dealer,12.4,1969,5,2600000.0,10,8280.7,393.8
+Hyundai,Alcazar,2021,Petrol,Automatic,Second Owner,2293.0,Dealer,18.3,1197,5,1875000.0,5,458.6,239.4
+Renault,Kwid,2018,Petrol,Manual,Second Owner,28213.0,Dealer,22.0,999,5,449000.0,8,3526.62,199.8
+Maruti,Swift,2018,Petrol,Manual,Second Owner,15400.0,Dealer,21.2,1197,5,699000.0,8,1925.0,239.4
+BMW,3 Series,2013,Diesel,Manual,Fourth & Above Owner,38000.0,Dealer,16.1,1995,5,1150000.0,13,2923.08,399.0
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,63148.0,Dealer,18.9,1197,5,491000.0,11,5740.73,239.4
+Mahindra,Bolero,2016,Diesel,Manual,Third Owner,91752.0,Dealer,15.1,2179,7,650000.0,10,9175.2,311.29
+Maruti,Swift,2015,Petrol,Manual,Third Owner,66784.0,Dealer,21.2,1197,5,495000.0,11,6071.27,239.4
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,73000.0,Dealer,18.9,1197,5,385000.0,12,6083.33,239.4
+Ford,Endeavour,2019,Diesel,Automatic,Second Owner,27000.0,Dealer,16.0,1497,5,3595000.0,7,3857.14,299.4
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,21857.0,Dealer,22.7,796,5,330000.0,8,2732.12,159.2
+Maruti,Alto,2009,Petrol,Manual,Fourth & Above Owner,60506.0,Dealer,20.8,1197,5,200000.0,17,3559.18,239.4
+Hyundai,Santro,2020,Cng,Manual,Second Owner,39598.0,Dealer,18.3,1197,5,499000.0,6,6599.67,239.4
+Maruti,Ciaz,2016,Diesel,Manual,Third Owner,48196.0,Dealer,20.7,1498,5,499000.0,10,4819.6,299.6
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,27433.0,Dealer,16.8,1497,5,813000.0,10,2743.3,299.4
+Honda,Jazz,2017,Petrol,Manual,Third Owner,60857.0,Dealer,18.7,1199,5,545000.0,9,6761.89,239.8
+Mercedes-Benz,Gla,2015,Diesel,Automatic,Third Owner,75000.0,Dealer,13.8,1991,5,1650000.0,11,6818.18,398.2
+Hyundai,Verna,2019,Diesel,Automatic,Second Owner,41197.0,Dealer,17.7,1497,5,1200000.0,7,5885.29,299.4
+Volkswagen,Ameo,2017,Petrol,Manual,Third Owner,40000.0,Dealer,17.2,1197,5,550000.0,9,4444.44,239.4
+Datsun,Go,2016,Petrol,Manual,Third Owner,24921.0,Dealer,20.6,999,5,325000.0,10,2492.1,199.8
+Toyota,Yaris,2018,Petrol,Automatic,Second Owner,14839.0,Dealer,14.5,1496,5,804000.0,8,1854.88,299.2
+Maruti,Celerio,2017,Petrol,Automatic,Third Owner,80306.0,Dealer,20.8,1197,5,448000.0,9,8922.89,239.4
+Honda,City,2016,Petrol,Automatic,Third Owner,49419.0,Dealer,17.4,1497,5,750000.0,10,4941.9,299.4
+Honda,Jazz,2017,Petrol,Automatic,Third Owner,29206.0,Dealer,18.7,1199,5,650000.0,9,3245.11,239.8
+Hyundai,Creta,2019,Petrol,Automatic,Second Owner,37499.0,Dealer,16.8,1497,5,1445000.0,7,5357.0,299.4
+Mercedes-Benz,Cls,2014,Petrol,Automatic,Third Owner,47000.0,Dealer,13.8,1991,5,2900000.0,12,3916.67,398.2
+Toyota,Innova,2015,Diesel,Manual,Third Owner,45530.0,Dealer,12.99,2494,7,1435000.0,11,4139.09,356.29
+Hyundai,I10,2014,Petrol,Manual,Third Owner,57000.0,Dealer,19.8,1086,5,365000.0,12,4750.0,217.2
+Maruti,Celerio,2019,Cng,Manual,Second Owner,89495.0,Dealer,20.8,1197,5,558000.0,7,12785.0,239.4
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,51722.0,Dealer,20.8,1197,5,470000.0,10,5172.2,239.4
+BMW,5 Series,2020,Diesel,Manual,Second Owner,45700.0,Dealer,15.6,1995,5,5750000.0,6,7616.67,399.0
+Honda,Wr,2018,Diesel,Manual,Second Owner,46945.0,Dealer,17.8,1497,5,775000.0,8,5868.12,299.4
+Jeep,Compass,2017,Petrol,Automatic,Third Owner,63000.0,Dealer,14.9,1956,5,1650000.0,9,7000.0,391.2
+Mercedes-Benz,C Class,2018,Diesel,Automatic,Second Owner,40378.0,Dealer,13.8,1991,5,3250000.0,8,5047.25,398.2
+Maruti,Ertiga,2015,Diesel,Manual,Third Owner,110399.0,Dealer,19.0,1462,7,790000.0,11,10036.27,208.86
+Maruti,S Cross,2015,Diesel,Manual,Third Owner,45000.0,Dealer,19.0,1498,5,650000.0,11,4090.91,299.6
+Kia,Sonet,2020,Diesel,Manual,Second Owner,40089.0,Dealer,16.5,1497,5,1260000.0,6,6681.5,299.4
+Land Rover,Range,2018,Diesel,Automatic,Second Owner,45000.0,Dealer,11.8,2179,5,19500000.0,8,5625.0,435.8
+Volkswagen,Polo,2018,Diesel,Manual,Second Owner,46354.0,Dealer,19.0,1498,5,730000.0,8,5794.25,299.6
+Hyundai,Santro,2019,Petrol,Manual,Second Owner,4441.0,Dealer,18.3,1197,5,409000.0,7,634.43,239.4
+Maruti,Baleno,2017,Petrol,Manual,Third Owner,36146.0,Dealer,21.4,1197,5,615000.0,9,4016.22,239.4
+Hyundai,Venue,2020,Petrol,Automatic,Second Owner,16768.0,Dealer,18.3,1197,5,1161000.0,6,2794.67,239.4
+Honda,City,2019,Petrol,Manual,Second Owner,21691.0,Dealer,17.4,1497,5,999000.0,7,3098.71,299.4
+Kia,Seltos,2020,Diesel,Automatic,Second Owner,67420.0,Dealer,16.5,1497,5,1445000.0,6,11236.67,299.4
+Hyundai,I20,2013,Petrol,Manual,Fourth & Above Owner,41999.0,Dealer,18.6,1197,5,499000.0,13,3230.69,239.4
+Maruti,Baleno,2018,Petrol,Automatic,Second Owner,62000.0,Dealer,21.4,1197,5,675000.0,8,7750.0,239.4
+Tata,Nexon,2021,Petrol,Manual,Second Owner,3200.0,Dealer,17.0,1199,5,975000.0,5,640.0,239.8
+Maruti,Wagon R,2014,Cng,Manual,Third Owner,47747.0,Dealer,21.5,998,5,387000.0,12,3978.92,199.6
+Hyundai,I20,2021,Petrol,Automatic,Second Owner,14746.0,Dealer,18.6,1197,5,975000.0,5,2949.2,239.4
+Audi,A3,2014,Diesel,Automatic,Third Owner,78597.0,Dealer,14.5,1984,5,1650000.0,12,6549.75,396.8
+Honda,Amaze,2013,Petrol,Manual,Fourth & Above Owner,82075.0,Dealer,18.6,1199,5,409000.0,13,6313.46,239.8
+Honda,City,2015,Petrol,Manual,Third Owner,45000.0,Dealer,17.4,1497,5,650000.0,11,4090.91,299.4
+Maruti,Ertiga,2020,Petrol,Manual,Second Owner,19900.0,Dealer,19.0,1462,7,956000.0,6,3316.67,208.86
+Honda,Amaze,2016,Petrol,Automatic,Third Owner,36000.0,Dealer,18.6,1199,5,525000.0,10,3600.0,239.8
+Nissan,Micra,2013,Petrol + 1,Manual,Fourth & Above Owner,57000.0,Dealer,18.0,1498,5,400000.0,13,4384.62,299.6
+Toyota,Innova,2019,Diesel,Manual,Second Owner,21396.0,Dealer,12.99,2494,7,2299000.0,7,3056.57,356.29
+Tata,Nexon,2020,Electric,Automatic,Second Owner,48400.0,Dealer,0.0,0,5,1550000.0,6,8066.67,0.0
+Hyundai,Venue,2020,Petrol,Manual,Second Owner,7432.0,Dealer,18.3,1197,5,831000.0,6,1238.67,239.4
+Maruti,Wagon R,2014,Cng,Manual,Third Owner,68695.0,Dealer,21.5,998,5,375000.0,12,5724.58,199.6
+Renault,Kwid,2021,Petrol,Manual,Second Owner,13150.0,Dealer,22.0,999,5,460000.0,5,2630.0,199.8
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,36000.0,Dealer,18.3,1197,5,440000.0,9,4000.0,239.4
+Skoda,Rapid,2015,Diesel,Manual,Third Owner,109335.0,Dealer,15.6,1498,5,620000.0,11,9939.55,299.6
+Kia,Seltos,2022,Petrol,Manual,First Owner,10400.0,Dealer,16.5,1497,5,1551000.0,4,2600.0,299.4
+Tata,Altroz,2021,Petrol,Manual,Second Owner,11178.0,Dealer,17.0,1199,5,849000.0,5,2235.6,239.8
+Maruti,Wagon R,2012,Petrol,Manual,Fourth & Above Owner,66000.0,Dealer,21.5,998,5,235000.0,14,4714.29,199.6
+Honda,Amaze,2016,Petrol,Manual,Third Owner,33046.0,Dealer,18.6,1199,5,465000.0,10,3304.6,239.8
+Hyundai,I20,2013,Petrol,Manual,Fourth & Above Owner,64000.0,Dealer,18.6,1197,5,365000.0,13,4923.08,239.4
+Mahindra,Marazzo,2019,Diesel,Manual,Second Owner,20473.0,Dealer,15.1,2179,7,1149000.0,7,2924.71,311.29
+Honda,City,2015,Petrol,Automatic,Third Owner,62000.0,Dealer,17.4,1497,5,775000.0,11,5636.36,299.4
+Maruti,Alto 800,2021,Cng,Manual,Second Owner,37228.0,Dealer,22.7,796,5,500000.0,5,7445.6,159.2
+Audi,Q3,2015,Diesel,Automatic,Third Owner,65000.0,Dealer,14.5,1984,5,1513000.0,11,5909.09,396.8
+Ford,Figo,2014,Petrol,Manual,Third Owner,71000.0,Dealer,16.0,1497,5,249000.0,12,5916.67,299.4
+Maruti,Swift,2019,Diesel,Automatic,Second Owner,60161.0,Dealer,21.2,1498,5,800000.0,7,8594.43,299.6
+Tata,Nexon,2019,Diesel,Manual,Second Owner,37845.0,Dealer,19.0,1498,5,960000.0,7,5406.43,299.6
+Mahindra,Kuv100,2017,Diesel,Manual,Third Owner,20338.0,Dealer,15.1,2179,7,425000.0,9,2259.78,311.29
+Skoda,Octavia,2016,Petrol,Automatic,Third Owner,38842.0,Dealer,15.6,1498,5,1523000.0,10,3884.2,299.6
+Maruti,Celerio,2016,Petrol,Manual,Third Owner,76775.0,Dealer,20.8,1197,5,394000.0,10,7677.5,239.4
+Maruti,Dzire,2018,Petrol,Automatic,Second Owner,39439.0,Dealer,22.0,1197,5,729000.0,8,4929.88,239.4
+Maruti,Swift,2017,Petrol,Manual,Third Owner,81869.0,Dealer,21.2,1197,5,520000.0,9,9096.56,239.4
+Honda,Br,2018,Petrol,Manual,Second Owner,49889.0,Dealer,17.8,1497,5,775000.0,8,6236.12,299.4
+Maruti,S-Presso,2021,Petrol,Manual,Second Owner,7942.0,Dealer,20.8,1197,5,475000.0,5,1588.4,239.4
+Jaguar,Xf,2013,Diesel,Automatic,Fourth & Above Owner,83358.0,Dealer,13.0,1999,5,2300000.0,13,6412.15,399.8
+Hyundai,I20,2016,Petrol,Manual,Third Owner,50307.0,Dealer,18.6,1197,5,493000.0,10,5030.7,239.4
+Audi,Q3,2016,Diesel,Automatic,Third Owner,21894.0,Dealer,14.5,1984,5,1799000.0,10,2189.4,396.8
+Maruti,Baleno,2018,Petrol,Automatic,Second Owner,59468.0,Dealer,21.4,1197,5,651000.0,8,7433.5,239.4
+Hyundai,Eon,2015,Petrol,Manual,Third Owner,16205.0,Dealer,21.1,814,5,360000.0,11,1473.18,162.8
+Maruti,Ertiga,2015,Diesel,Manual,Third Owner,120000.0,Dealer,19.0,1462,7,730000.0,11,10909.09,208.86
+Hyundai,Creta,2018,Petrol,Automatic,Second Owner,33815.0,Dealer,16.8,1497,5,1350000.0,8,4226.88,299.4
+Renault,Duster,2017,Diesel,Manual,Third Owner,41591.0,Dealer,20.0,1498,5,999000.0,9,4621.22,299.6
+Renault,Duster,2018,Diesel,Automatic,Second Owner,82000.0,Dealer,20.0,1498,5,795000.0,8,10250.0,299.6
+Maruti,Alto K10,2019,Petrol,Manual,Second Owner,44288.0,Dealer,24.1,998,5,345000.0,7,6326.86,199.6
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,7082.0,Dealer,20.8,1197,5,455000.0,6,1180.33,239.4
+Mahindra,Scorpio,2015,Diesel,Manual,Third Owner,36624.0,Dealer,15.1,2179,7,929000.0,11,3329.45,311.29
+Maruti,Ritz,2014,Petrol,Manual,Third Owner,51000.0,Dealer,18.5,1197,5,390000.0,12,4250.0,239.4
+Ford,Aspire,2017,Petrol,Manual,Third Owner,24954.0,Dealer,16.0,1497,5,550000.0,9,2772.67,299.4
+Jeep,Compass,2017,Diesel,Manual,Third Owner,54441.0,Dealer,14.9,1956,5,1224000.0,9,6049.0,391.2
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,34579.0,Dealer,24.1,998,5,199000.0,14,2469.93,199.6
+Maruti,Wagon R,2020,Cng,Manual,Second Owner,23000.0,Dealer,21.5,998,5,615000.0,6,3833.33,199.6
+Hyundai,Creta,2018,Petrol,Automatic,Second Owner,35000.0,Dealer,16.8,1497,5,1350000.0,8,4375.0,299.4
+Mercedes-Benz,Amg,2021,Petrol,Automatic,Second Owner,1700.0,Dealer,13.8,1991,5,5200000.0,5,340.0,398.2
+Volkswagen,Ameo,2016,Diesel,Automatic,Third Owner,30000.0,Dealer,19.0,1498,5,515000.0,10,3000.0,299.6
+Maruti,Ciaz,2020,Petrol,Automatic,Second Owner,11140.0,Dealer,20.7,1373,5,1063000.0,6,1856.67,274.6
+Tata,Safari,2021,Diesel,Manual,Second Owner,19075.0,Dealer,14.1,1956,7,2349000.0,5,3815.0,279.43
+Mercedes-Benz,E Class,2014,Diesel,Automatic,Third Owner,114686.0,Dealer,13.8,1991,5,1790000.0,12,9557.17,398.2
+Ford,Figo,2019,Petrol,Automatic,Second Owner,38603.0,Dealer,16.0,1497,5,650000.0,7,5514.71,299.4
+Maruti,Sx4,2010,Petrol,Manual,Fourth & Above Owner,67860.0,Dealer,16.5,1586,5,245000.0,16,4241.25,317.2
+Maruti,Alto K10,2018,Petrol,Manual,Second Owner,40510.0,Dealer,24.1,998,5,336000.0,8,5063.75,199.6
+Jaguar,Xe,2017,Petrol,Automatic,Third Owner,21000.0,Dealer,13.0,1999,5,2400000.0,9,2333.33,399.8
+Hyundai,Eon,2014,Petrol,Manual,Third Owner,28104.0,Dealer,21.1,814,5,329000.0,12,2342.0,162.8
+Mercedes-Benz,C Class,2020,Diesel,Automatic,Second Owner,23400.0,Dealer,13.8,1991,5,4900000.0,6,3900.0,398.2
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,32000.0,Dealer,18.3,1197,5,775000.0,7,4571.43,239.4
+Hyundai,Creta,2015,Petrol,Manual,Third Owner,58289.0,Dealer,16.8,1497,5,790000.0,11,5299.0,299.4
+Hyundai,Venue,2019,Petrol,Automatic,Second Owner,11457.0,Dealer,18.3,1197,5,1145000.0,7,1636.71,239.4
+Tata,Nexon,2022,Electric,Automatic,First Owner,5000.0,Dealer,0.0,0,5,1525000.0,4,1250.0,0.0
+Honda,Amaze,2016,Petrol,Manual,Third Owner,73699.0,Dealer,18.6,1199,5,650000.0,10,7369.9,239.8
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,68766.0,Dealer,18.3,1197,5,525000.0,11,6251.45,239.4
+Honda,Wr,2017,Petrol,Manual,Third Owner,30902.0,Dealer,17.8,1497,5,695000.0,9,3433.56,299.4
+Honda,City,2015,Petrol,Automatic,Third Owner,66684.0,Dealer,17.4,1497,5,735000.0,11,6062.18,299.4
+Toyota,Urban,2021,Petrol,Manual,Second Owner,8134.0,Dealer,14.5,1496,5,985000.0,5,1626.8,299.2
+Hyundai,Venue,2021,Petrol,Manual,Second Owner,24432.0,Dealer,18.3,1197,5,964000.0,5,4886.4,239.4
+Hyundai,I10,2011,Petrol,Manual,Fourth & Above Owner,58734.0,Dealer,19.8,1086,5,286000.0,15,3915.6,217.2
+Hyundai,I10,2013,Petrol,Manual,Fourth & Above Owner,15780.0,Dealer,19.8,1086,5,325000.0,13,1213.85,217.2
+Datsun,Go,2014,Petrol,Manual,Third Owner,44760.0,Dealer,20.6,999,5,265000.0,12,3730.0,199.8
+Hyundai,Creta,2021,Petrol,Manual,Second Owner,17000.0,Dealer,16.8,1497,5,1320000.0,5,3400.0,299.4
+Hyundai,Creta,2015,Diesel,Manual,Third Owner,117295.0,Dealer,16.8,1497,5,970000.0,11,10663.18,299.4
+Hyundai,Eon,2014,Petrol,Manual,Third Owner,62000.0,Dealer,21.1,814,5,250000.0,12,5166.67,162.8
+Hyundai,Creta,2019,Diesel,Manual,Second Owner,43300.0,Dealer,16.8,1497,5,1175000.0,7,6185.71,299.4
+Honda,Amaze,2020,Petrol,Automatic,Second Owner,15899.0,Dealer,18.6,1199,5,775000.0,6,2649.83,239.8
+Mahindra,Alturas,2020,Diesel,Automatic,Second Owner,76187.0,Dealer,15.1,2179,7,2250000.0,6,12697.83,311.29
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,59194.0,Dealer,18.3,1197,5,521000.0,11,5381.27,239.4
+Kia,Seltos,2021,Petrol,Manual,Second Owner,13841.0,Dealer,16.5,1497,5,1667000.0,5,2768.2,299.4
+Maruti,Swift,2019,Petrol,Manual,Second Owner,11000.0,Dealer,21.2,1197,5,700000.0,7,1571.43,239.4
+Hyundai,Creta,2018,Petrol,Automatic,Second Owner,24128.0,Dealer,16.8,1497,5,1225000.0,8,3016.0,299.4
+Volkswagen,Vento,2017,Diesel,Automatic,Third Owner,96710.0,Dealer,19.0,1498,5,814000.0,9,10745.56,299.6
+Mahindra,Thar,2020,Diesel,Manual,Second Owner,38500.0,Dealer,15.1,2179,7,1625000.0,6,6416.67,311.29
+Honda,Wr,2017,Petrol,Manual,Third Owner,23798.0,Dealer,17.8,1497,5,625000.0,9,2644.22,299.4
+Tata,Altroz,2021,Petrol,Manual,Second Owner,5918.0,Dealer,17.0,1199,5,737000.0,5,1183.6,239.8
+Hyundai,Santro,2020,Petrol,Automatic,Second Owner,5231.0,Dealer,18.3,1197,5,606000.0,6,871.83,239.4
+Skoda,Laura,2013,Diesel,Automatic,Fourth & Above Owner,78000.0,Dealer,15.6,1498,5,595000.0,13,6000.0,299.6
+Hyundai,Creta,2019,Petrol,Automatic,Second Owner,60038.0,Dealer,16.8,1497,5,1290000.0,7,8576.86,299.4
+Maruti,Ciaz,2017,Petrol,Automatic,Third Owner,48279.0,Dealer,20.7,1373,5,740000.0,9,5364.33,274.6
+Nissan,Micra,2017,Petrol,Manual,Third Owner,56000.0,Dealer,18.0,1498,5,325000.0,9,6222.22,299.6
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,45907.0,Dealer,18.9,1197,5,509000.0,9,5100.78,239.4
+Hyundai,I20,2021,Petrol,Manual,Second Owner,8566.0,Dealer,18.6,1197,5,995000.0,5,1713.2,239.4
+Skoda,Octavia,2017,Diesel,Automatic,Third Owner,97050.0,Dealer,15.6,1498,5,1521000.0,9,10783.33,299.6
+Maruti,Swift,2021,Petrol,Manual,Second Owner,50000.0,Dealer,21.2,1197,5,695000.0,5,10000.0,239.4
+Toyota,Corolla Altis,2018,Petrol,Automatic,Second Owner,86000.0,Dealer,14.3,1798,5,1200000.0,8,10750.0,359.6
+BMW,X1,2018,Diesel,Manual,Second Owner,67337.0,Dealer,19.0,1498,5,3275000.0,8,8417.12,299.6
+Ford,Endeavour,2019,Diesel,Automatic,Second Owner,59000.0,Dealer,16.0,1497,5,3125000.0,7,8428.57,299.4
+Land Rover,Range,2021,Diesel,Automatic,Second Owner,45195.0,Dealer,11.8,2179,5,5999000.0,5,9039.0,435.8
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,71000.0,Dealer,16.0,1497,5,2700000.0,8,8875.0,299.4
+Skoda,Rapid,2017,Diesel,Automatic,Third Owner,123000.0,Dealer,15.6,1498,5,825000.0,9,13666.67,299.6
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,24695.0,Dealer,21.4,1197,5,607000.0,7,3527.86,239.4
+Maruti,Celerio,2015,Petrol,Manual,Third Owner,62228.0,Dealer,20.8,1197,5,385000.0,11,5657.09,239.4
+Honda,City,2015,Diesel,Manual,Third Owner,80000.0,Dealer,17.4,1497,5,650000.0,11,7272.73,299.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,22500.0,Dealer,21.2,1197,5,375000.0,13,1730.77,239.4
+Land Rover,Freelander,2012,Diesel,Automatic,Fourth & Above Owner,75000.0,Dealer,11.8,2179,5,950000.0,14,5357.14,435.8
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,28466.0,Dealer,16.0,1497,5,2995000.0,8,3558.25,299.4
+Hyundai,Santa,2015,Diesel,Manual,Third Owner,87642.0,Dealer,19.0,1498,5,1025000.0,11,7967.45,299.6
+Toyota,Etios Liva,2013,Diesel,Manual,Fourth & Above Owner,65243.0,Dealer,19.0,1498,5,540000.0,13,5018.69,299.6
+Volkswagen,Polo,2015,Petrol,Manual,Third Owner,90381.0,Dealer,17.2,1197,5,520000.0,11,8216.45,239.4
+Honda,Wr,2018,Diesel,Manual,Second Owner,84439.0,Dealer,17.8,1497,5,853000.0,8,10554.88,299.4
+Renault,Kwid,2019,Petrol,Automatic,Second Owner,20916.0,Dealer,22.0,999,5,485000.0,7,2988.0,199.8
+Audi,A6,2021,Petrol,Automatic,Second Owner,20000.0,Dealer,14.5,1984,5,7200000.0,5,4000.0,396.8
+Maruti,S-Presso,2021,Petrol,Manual,Second Owner,70.0,Dealer,20.8,1197,5,476000.0,5,14.0,239.4
+Mahindra,XUV500,2020,Diesel,Automatic,Second Owner,45350.0,Dealer,15.1,2179,7,2049000.0,6,7558.33,311.29
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,36283.0,Dealer,12.99,2494,7,2225000.0,8,4535.38,356.29
+Maruti,Dzire,2019,Petrol,Manual,Second Owner,26450.0,Dealer,22.0,1197,5,745000.0,7,3778.57,239.4
+Maruti,Ertiga,2013,Petrol,Manual,Fourth & Above Owner,62285.0,Dealer,19.0,1462,7,645000.0,13,4791.15,208.86
+Mahindra,Thar,2021,Petrol,Automatic,Second Owner,5438.0,Dealer,15.1,2179,7,1795000.0,5,1087.6,311.29
+Toyota,Corolla Altis,2016,Petrol,Automatic,Third Owner,88105.0,Dealer,14.3,1798,5,1002000.0,10,8810.5,359.6
+Honda,City,2015,Petrol,Manual,Third Owner,78529.0,Dealer,17.4,1497,5,556000.0,11,7139.0,299.4
+Honda,Jazz,2018,Petrol,Manual,Second Owner,33000.0,Dealer,18.7,1199,5,675000.0,8,4125.0,239.8
+Audi,Q5,2015,Diesel,Automatic,Third Owner,133000.0,Dealer,14.5,1984,5,1750000.0,11,12090.91,396.8
+Maruti,Ciaz,2017,Petrol,Automatic,Third Owner,53197.0,Dealer,20.7,1373,5,749000.0,9,5910.78,274.6
+Maruti,S Cross,2017,Diesel,Manual,Third Owner,15629.0,Dealer,19.0,1498,5,775000.0,9,1736.56,299.6
+Volkswagen,Vento,2014,Diesel,Automatic,Third Owner,95860.0,Dealer,19.0,1498,5,625000.0,12,7988.33,299.6
+Hyundai,Verna,2017,Diesel,Manual,Third Owner,91495.0,Dealer,17.7,1497,5,879000.0,9,10166.11,299.4
+Toyota,Innova,2017,Diesel,Automatic,Third Owner,177700.0,Dealer,12.99,2494,7,1369000.0,9,19744.44,356.29
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,22676.0,Dealer,18.9,1197,5,430000.0,11,2061.45,239.4
+Honda,City,2010,Petrol,Manual,Fourth & Above Owner,77000.0,Dealer,17.4,1497,5,325000.0,16,4812.5,299.4
+Skoda,Superb,2017,Petrol,Automatic,Third Owner,38818.0,Dealer,15.6,1498,5,1699000.0,9,4313.11,299.6
+Hyundai,Elantra,2013,Diesel,Manual,Fourth & Above Owner,66666.0,Dealer,14.6,1999,5,565000.0,13,5128.15,399.8
+Maruti,Alto,2011,Petrol,Manual,Fourth & Above Owner,62000.0,Dealer,20.8,1197,5,285000.0,15,4133.33,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,63000.0,Dealer,19.8,1086,5,325000.0,12,5250.0,217.2
+Volkswagen,Vento,2019,Petrol,Manual,Second Owner,40912.0,Dealer,17.2,1197,5,850000.0,7,5844.57,239.4
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,9323.0,Dealer,20.8,1197,5,460000.0,6,1553.83,239.4
+Mahindra,Marazzo,2022,Diesel,Manual,First Owner,5300.0,Dealer,15.1,2179,7,1500000.0,4,1325.0,311.29
+Honda,Jazz,2021,Petrol,Manual,Second Owner,5870.0,Dealer,18.7,1199,5,808000.0,5,1174.0,239.8
+Honda,City,2015,Petrol,Automatic,Third Owner,66608.0,Dealer,17.4,1497,5,675000.0,11,6055.27,299.4
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,41068.0,Dealer,18.3,1197,5,789000.0,8,5133.5,239.4
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,40532.0,Dealer,20.7,1373,5,825000.0,9,4503.56,274.6
+Honda,City,2015,Petrol,Automatic,Third Owner,48146.0,Dealer,17.4,1497,5,725000.0,11,4376.91,299.4
+Kia,Seltos,2020,Diesel,Automatic,Second Owner,27710.0,Dealer,16.5,1497,5,1545000.0,6,4618.33,299.4
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,49000.0,Dealer,21.4,1197,5,580000.0,7,7000.0,239.4
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,11628.0,Dealer,19.1,1197,5,425000.0,11,1057.09,239.4
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,63250.0,Dealer,24.1,998,5,181000.0,14,4517.86,199.6
+Mahindra,Thar,2022,Diesel,Manual,First Owner,4600.0,Dealer,15.1,2179,7,1800000.0,4,1150.0,311.29
+Maruti,Ciaz,2019,Petrol,Manual,Second Owner,19586.0,Dealer,20.7,1373,5,1087000.0,7,2798.0,274.6
+Maruti,Alto K10,2019,Petrol,Manual,Second Owner,17815.0,Dealer,24.1,998,5,373000.0,7,2545.0,199.6
+Skoda,Kodiaq,2018,Diesel,Automatic,Second Owner,51000.0,Dealer,15.6,1498,5,2875000.0,8,6375.0,299.6
+MG,Hector,2020,Petrol,Automatic,Second Owner,29988.0,Dealer,18.0,1200,5,1599000.0,6,4998.0,240.0
+Nissan,Terrano,2014,Diesel,Manual,Third Owner,121000.0,Dealer,18.0,1498,5,570000.0,12,10083.33,299.6
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,39852.0,Dealer,21.4,1197,5,585000.0,8,4981.5,239.4
+Renault,Kwid,2020,Petrol,Manual,Second Owner,12850.0,Dealer,22.0,999,5,435000.0,6,2141.67,199.8
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,31500.0,Dealer,18.9,1197,5,581000.0,8,3937.5,239.4
+Kia,Sonet,2020,Petrol,Manual,Second Owner,18169.0,Dealer,16.5,1497,5,1006000.0,6,3028.17,299.4
+Mahindra,Scorpio,2020,Diesel,Manual,Second Owner,19000.0,Dealer,15.1,2179,7,1285000.0,6,3166.67,311.29
+Hyundai,Elite I20,2020,Petrol,Manual,Second Owner,35811.0,Dealer,18.3,1197,5,830000.0,6,5968.5,239.4
+Mercedes-Benz,Cla,2018,Diesel,Automatic,Second Owner,7000.0,Dealer,13.8,1991,5,2675000.0,8,875.0,398.2
+Honda,City,2018,Diesel,Manual,Second Owner,60000.0,Dealer,17.4,1497,5,790000.0,8,7500.0,299.4
+Skoda,Rapid,2017,Petrol,Automatic,Third Owner,67269.0,Dealer,15.6,1498,5,695000.0,9,7474.33,299.6
+Maruti,Wagon R,2021,Cng,Manual,Second Owner,40664.0,Dealer,21.5,998,5,640000.0,5,8132.8,199.6
+Toyota,Fortuner,2011,Diesel,Manual,Fourth & Above Owner,113000.0,Dealer,12.6,2755,7,1075000.0,15,7533.33,393.57
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,20786.0,Dealer,22.7,796,5,341000.0,8,2598.25,159.2
+MG,Hector,2020,Hybrid,Manual,Second Owner,35000.0,Dealer,18.0,1200,5,1450000.0,6,5833.33,240.0
+BMW,5 Series,2017,Diesel,Manual,Third Owner,53971.0,Dealer,15.6,1995,5,3295000.0,9,5996.78,399.0
+Toyota,Fortuner,2021,Diesel,Automatic,Second Owner,53834.0,Dealer,12.6,2755,7,3950000.0,5,10766.8,393.57
+Tata,Nexon,2020,Petrol,Manual,Second Owner,30356.0,Dealer,17.0,1199,5,1067000.0,6,5059.33,239.8
+Maruti,Ciaz,2019,Diesel,Manual,Second Owner,76000.0,Dealer,20.7,1498,5,910000.0,7,10857.14,299.6
+Hyundai,Santro,2013,Petrol,Manual,Fourth & Above Owner,79800.0,Dealer,18.3,1197,5,260000.0,13,6138.46,239.4
+Maruti,Alto 800,2021,Petrol,Manual,Second Owner,4958.0,Dealer,22.7,796,5,402000.0,5,991.6,159.2
+Hyundai,Creta,2019,Petrol,Automatic,Second Owner,70000.0,Dealer,16.8,1497,5,1175000.0,7,10000.0,299.4
+Hyundai,Santro,2020,Petrol,Manual,Second Owner,24669.0,Dealer,18.3,1197,5,562000.0,6,4111.5,239.4
+Land Rover,Range,2014,Diesel,Automatic,Third Owner,89000.0,Dealer,11.8,2179,5,2250000.0,12,7416.67,435.8
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,42228.0,Dealer,18.9,1197,5,385000.0,12,3519.0,239.4
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,40544.0,Dealer,16.8,1497,5,939000.0,10,4054.4,299.4
+Maruti,Vitara Brezza,2020,Petrol,Manual,Second Owner,19608.0,Dealer,17.0,1462,5,1125000.0,6,3268.0,292.4
+Maruti,Celerio,2016,Petrol,Automatic,Third Owner,41058.0,Dealer,20.8,1197,5,395000.0,10,4105.8,239.4
+BMW,3 Series,2013,Diesel,Manual,Fourth & Above Owner,65000.0,Dealer,16.1,1995,5,1090000.0,13,5000.0,399.0
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,38773.0,Dealer,20.7,1373,5,635000.0,9,4308.11,274.6
+Mercedes-Benz,E Class,2018,Diesel,Automatic,Second Owner,49700.0,Dealer,13.8,1991,5,4437000.0,8,6212.5,398.2
+Tata,Nexon,2018,Petrol,Manual,Second Owner,31585.0,Dealer,17.0,1199,5,866000.0,8,3948.12,239.8
+Maruti,Wagon R,2015,Petrol,Manual,Third Owner,86866.0,Dealer,21.5,998,5,360000.0,11,7896.91,199.6
+Skoda,Superb,2017,Diesel,Automatic,Third Owner,56341.0,Dealer,15.6,1498,5,1995000.0,9,6260.11,299.6
+Honda,City,2015,Petrol,Manual,Third Owner,53206.0,Dealer,17.4,1497,5,669000.0,11,4836.91,299.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,18000.0,Dealer,18.9,1197,5,475000.0,9,2000.0,239.4
+Hyundai,Elite I20,2016,Diesel,Manual,Third Owner,63379.0,Dealer,19.0,1498,5,685000.0,10,6337.9,299.6
+Honda,City,2015,Petrol,Automatic,Third Owner,48900.0,Dealer,17.4,1497,5,750000.0,11,4445.45,299.4
+Hyundai,Creta,2016,Petrol,Manual,Third Owner,41951.0,Dealer,16.8,1497,5,856000.0,10,4195.1,299.4
+Tata,Safari,2021,Diesel,Manual,Second Owner,22889.0,Dealer,14.1,1956,7,1945000.0,5,4577.8,279.43
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,44706.0,Dealer,22.7,796,5,350000.0,8,5588.25,159.2
+Honda,City,2008,Petrol,Manual,Fourth & Above Owner,83920.0,Dealer,17.4,1497,5,180000.0,18,4662.22,299.4
+Audi,A4,2021,Petrol,Automatic,Second Owner,45760.0,Dealer,17.4,1984,5,3950000.0,5,9152.0,396.8
+Hyundai,Verna,2017,Diesel,Automatic,Third Owner,56040.0,Dealer,17.7,1497,5,890000.0,9,6226.67,299.4
+Maruti,S-Presso,2021,Petrol,Manual,Second Owner,64.0,Dealer,20.8,1197,5,476000.0,5,12.8,239.4
+Maruti,Dzire,2019,Petrol,Automatic,Second Owner,51500.0,Dealer,22.0,1197,5,690000.0,7,7357.14,239.4
+Honda,City,2018,Petrol,Manual,Second Owner,36040.0,Dealer,17.4,1497,5,1130000.0,8,4505.0,299.4
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,40875.0,Dealer,18.3,1197,5,461000.0,11,3715.91,239.4
+Hyundai,I20,2017,Petrol,Manual,Third Owner,31622.0,Dealer,18.6,1197,5,673000.0,9,3513.56,239.4
+Audi,A6,2013,Diesel,Automatic,Fourth & Above Owner,29000.0,Dealer,14.5,1984,5,1350000.0,13,2230.77,396.8
+Skoda,Rapid,2019,Diesel,Manual,Second Owner,41443.0,Dealer,15.6,1498,5,980000.0,7,5920.43,299.6
+Maruti,Wagon R,2017,Petrol,Manual,Third Owner,55486.0,Dealer,21.5,998,5,384000.0,9,6165.11,199.6
+Hyundai,Grand I10,2020,Petrol,Manual,Second Owner,36053.0,Dealer,18.9,1197,5,625000.0,6,6008.83,239.4
+Honda,Jazz,2019,Petrol,Manual,Second Owner,17922.0,Dealer,18.7,1199,5,770000.0,7,2560.29,239.8
+Kia,Seltos,2022,Petrol,Manual,First Owner,8963.0,Dealer,16.5,1497,5,1685000.0,4,2240.75,299.4
+Honda,City,2018,Petrol,Manual,Second Owner,20143.0,Dealer,17.4,1497,5,891000.0,8,2517.88,299.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,66000.0,Dealer,21.2,1197,5,475000.0,13,5076.92,239.4
+Maruti,Estilo,2008,Petrol,Manual,Fourth & Above Owner,29012.0,Dealer,20.8,1197,5,99991.0,18,1611.78,239.4
+Honda,City,2018,Petrol,Manual,Second Owner,40547.0,Dealer,17.4,1497,5,835000.0,8,5068.38,299.4
+Honda,City,2016,Petrol,Manual,Third Owner,80815.0,Dealer,17.4,1497,5,680000.0,10,8081.5,299.4
+Maruti,Swift,2017,Petrol,Manual,Third Owner,24858.0,Dealer,21.2,1197,5,606000.0,9,2762.0,239.4
+Isuzu,Mu,2017,Diesel,Manual,Third Owner,96095.0,Dealer,13.8,1898,5,1791000.0,9,10677.22,379.6
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,54095.0,Dealer,21.5,998,5,323000.0,12,4507.92,199.6
+Mini,Cooper,2014,Petrol,Automatic,Third Owner,69446.0,Dealer,16.3,1998,4,2000000.0,12,5787.17,499.5
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,127000.0,Dealer,24.1,998,5,210000.0,14,9071.43,199.6
+Hyundai,Creta,2020,Petrol + 1,Automatic,Second Owner,12500.0,Dealer,16.8,1497,5,1700000.0,6,2083.33,299.4
+Maruti,Dzire,2018,Petrol,Automatic,Second Owner,59597.0,Dealer,22.0,1197,5,799000.0,8,7449.62,239.4
+Maruti,Wagon R,2019,Petrol,Manual,Second Owner,18855.0,Dealer,21.5,998,5,535000.0,7,2693.57,199.6
+Maruti,Swift,2018,Petrol,Automatic,Second Owner,41528.0,Dealer,21.2,1197,5,745000.0,8,5191.0,239.4
+Maruti,Swift,2019,Petrol,Manual,Second Owner,35166.0,Dealer,21.2,1197,5,551000.0,7,5023.71,239.4
+Fiat,Abarth,2015,Petrol,Manual,Third Owner,26762.0,Dealer,16.3,1248,5,897000.0,11,2432.91,249.6
+Audi,Q5,2014,Diesel,Automatic,Third Owner,58670.0,Dealer,14.5,1984,5,2288000.0,12,4889.17,396.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,29964.0,Dealer,18.9,1197,5,575000.0,9,3329.33,239.4
+Maruti,Alto 800,2017,Petrol,Manual,Third Owner,20572.0,Dealer,22.7,796,5,289000.0,9,2285.78,159.2
+Tata,Tiago,2018,Petrol,Manual,Second Owner,44296.0,Dealer,17.0,1199,5,453000.0,8,5537.0,239.8
+Mahindra,Kuv100,2020,Petrol,Manual,Second Owner,12000.0,Dealer,15.1,2179,7,700000.0,6,2000.0,311.29
+Maruti,Alto 800,2017,Petrol,Manual,Third Owner,39262.0,Dealer,22.7,796,5,291000.0,9,4362.44,159.2
+Hyundai,Santro,2010,Petrol,Manual,Fourth & Above Owner,46733.0,Dealer,18.3,1197,5,142000.0,16,2920.81,239.4
+Volkswagen,Polo,2016,Petrol,Manual,Third Owner,39200.0,Dealer,17.2,1197,5,699000.0,10,3920.0,239.4
+Hyundai,Creta,2016,Petrol,Automatic,Third Owner,67981.0,Dealer,16.8,1497,5,964000.0,10,6798.1,299.4
+Honda,City,2020,Petrol,Manual,Second Owner,66729.0,Dealer,17.4,1497,5,1249000.0,6,11121.5,299.4
+Mercedes-Benz,Cla,2017,Petrol,Automatic,Third Owner,13137.0,Dealer,13.8,1991,5,2550000.0,9,1459.67,398.2
+Volkswagen,Polo,2013,Petrol,Manual,Fourth & Above Owner,47000.0,Dealer,17.2,1197,5,300000.0,13,3615.38,239.4
+Volvo,Xc90,2018,Diesel,Automatic,Second Owner,45000.0,Dealer,12.4,1969,5,4500000.0,8,5625.0,393.8
+Mahindra,Xuv300,2019,Diesel,Automatic,Second Owner,36770.0,Dealer,15.1,2179,7,1299000.0,7,5252.86,311.29
+Isuzu,D,2017,Diesel,Manual,Third Owner,67970.0,Dealer,13.8,1898,5,1695000.0,9,7552.22,379.6
+Honda,City,2015,Petrol,Automatic,Third Owner,46910.0,Dealer,17.4,1497,5,658000.0,11,4264.55,299.4
+Honda,Jazz,2015,Petrol,Automatic,Third Owner,34231.0,Dealer,18.7,1199,5,685000.0,11,3111.91,239.8
+Tata,Safari,2021,Diesel,Manual,Second Owner,13594.0,Dealer,14.1,1956,7,2395000.0,5,2718.8,279.43
+Hyundai,Venue,2020,Diesel,Manual,Second Owner,43000.0,Dealer,19.0,1498,5,925000.0,6,7166.67,299.6
+Tata,Safari,2014,Diesel,Manual,Third Owner,65000.0,Dealer,14.1,1956,7,575000.0,12,5416.67,279.43
+Audi,A4,2013,Diesel,Automatic,Fourth & Above Owner,86830.0,Dealer,17.4,1984,5,1490000.0,13,6679.23,396.8
+Hyundai,Creta,2021,Diesel,Manual,Second Owner,72305.0,Dealer,16.8,1497,5,1600000.0,5,14461.0,299.4
+Honda,City,2015,Diesel,Manual,Third Owner,55201.0,Dealer,17.4,1497,5,680000.0,11,5018.27,299.4
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,37799.0,Dealer,20.7,1373,5,731000.0,9,4199.89,274.6
+Maruti,Wagon R,2011,Petrol,Manual,Fourth & Above Owner,24628.0,Dealer,21.5,998,5,295000.0,15,1641.87,199.6
+Honda,Wr,2020,Petrol,Manual,Second Owner,24000.0,Dealer,17.8,1497,5,775000.0,6,4000.0,299.4
+Maruti,S Cross,2019,Diesel,Manual,Second Owner,34514.0,Dealer,19.0,1498,5,1150000.0,7,4930.57,299.6
+Mahindra,XUV500,2016,Diesel,Manual,Third Owner,89000.0,Dealer,15.1,2179,7,1050000.0,10,8900.0,311.29
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,108810.0,Dealer,12.99,2494,7,1900000.0,8,13601.25,356.29
+Maruti,Wagon R,2021,Petrol,Manual,Second Owner,3810.0,Dealer,21.5,998,5,556000.0,5,762.0,199.6
+Jeep,Compass,2019,Diesel,Manual,Second Owner,43922.0,Dealer,14.9,1956,5,1540000.0,7,6274.57,391.2
+Maruti,Celerio,2020,Cng,Manual,Second Owner,36560.0,Dealer,20.8,1197,5,615000.0,6,6093.33,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,48137.0,Dealer,19.8,1086,5,455000.0,12,4011.42,217.2
+Honda,City,2017,Petrol,Automatic,Third Owner,44415.0,Dealer,17.4,1497,5,795000.0,9,4935.0,299.4
+Honda,Amaze,2014,Petrol,Automatic,Third Owner,38885.0,Dealer,18.6,1199,5,395000.0,12,3240.42,239.8
+Toyota,Land Cruiser,2011,Diesel,Manual,Fourth & Above Owner,152000.0,Dealer,11.0,4461,7,7000000.0,15,10133.33,637.29
+Hyundai,Verna,2018,Petrol,Automatic,Second Owner,31726.0,Dealer,17.7,1497,5,1011000.0,8,3965.75,299.4
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,75258.0,Dealer,20.8,1197,5,440000.0,6,12543.0,239.4
+Maruti,Swift,2015,Petrol,Manual,Third Owner,34551.0,Dealer,21.2,1197,5,411000.0,11,3141.0,239.4
+Hyundai,Creta,2017,Diesel,Manual,Third Owner,53459.0,Dealer,16.8,1497,5,1157000.0,9,5939.89,299.4
+Maruti,S Cross,2020,Petrol,Automatic,Second Owner,11729.0,Dealer,18.5,1248,5,914000.0,6,1954.83,249.6
+Hyundai,I20,2022,Diesel,Manual,First Owner,11000.0,Dealer,19.0,1498,5,950000.0,4,2750.0,299.6
+Maruti,Swift,2014,Petrol,Manual,Third Owner,75000.0,Dealer,21.2,1197,5,410000.0,12,6250.0,239.4
+Toyota,Urban,2022,Petrol,Automatic,First Owner,15412.0,Dealer,14.5,1496,5,1256000.0,4,3853.0,299.2
+Honda,City,2017,Petrol,Automatic,Third Owner,70233.0,Dealer,17.4,1497,5,793000.0,9,7803.67,299.4
+Honda,Brio,2013,Petrol,Manual,Fourth & Above Owner,53000.0,Dealer,18.5,1198,5,345000.0,13,4076.92,239.6
+Skoda,Rapid,2014,Petrol,Manual,Third Owner,60000.0,Dealer,15.6,1498,5,525000.0,12,5000.0,299.6
+Maruti,Swift,2017,Petrol,Manual,Third Owner,54489.0,Dealer,21.2,1197,5,557000.0,9,6054.33,239.4
+Chevrolet,Tavera,2016,Diesel,Manual,Third Owner,95000.0,Dealer,19.0,1498,5,795000.0,10,9500.0,299.6
+Toyota,Corolla Altis,2017,Petrol,Automatic,Third Owner,25000.0,Dealer,14.3,1798,5,1275000.0,9,2777.78,359.6
+Nissan,Kicks,2020,Petrol,Manual,Second Owner,31387.0,Dealer,18.0,1498,5,1265000.0,6,5231.17,299.6
+Maruti,Celerio,2020,Cng,Manual,Second Owner,23225.0,Dealer,20.8,1197,5,610000.0,6,3870.83,239.4
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,35705.0,Dealer,18.9,1197,5,494000.0,9,3967.22,239.4
+Honda,City,2015,Diesel,Manual,Third Owner,41000.0,Dealer,17.4,1497,5,680000.0,11,3727.27,299.4
+Audi,Q7,2017,Diesel,Automatic,Third Owner,48000.0,Dealer,14.5,1984,5,5200000.0,9,5333.33,396.8
+Maruti,Alto 800,2014,Petrol,Manual,Third Owner,72171.0,Dealer,22.7,796,5,299000.0,12,6014.25,159.2
+Renault,Triber,2020,Petrol,Manual,Second Owner,20555.0,Dealer,20.0,999,5,670000.0,6,3425.83,199.8
+Maruti,Swift,2019,Petrol,Manual,Second Owner,3168.0,Dealer,21.2,1197,5,650000.0,7,452.57,239.4
+Tata,Tiago,2018,Petrol,Manual,Second Owner,47751.0,Dealer,17.0,1199,5,475000.0,8,5968.88,239.8
+Maruti,Alto K10,2010,Petrol,Manual,Fourth & Above Owner,52151.0,Dealer,24.1,998,5,201000.0,16,3259.44,199.6
+Maruti,Swift,2017,Diesel,Manual,Third Owner,82914.0,Dealer,21.2,1498,5,427000.0,9,9212.67,299.6
+Volkswagen,Vento,2013,Diesel,Manual,Fourth & Above Owner,83501.0,Dealer,19.0,1498,5,470000.0,13,6423.15,299.6
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,61900.0,Dealer,18.3,1197,5,549000.0,11,5627.27,239.4
+Hyundai,Creta,2018,Diesel,Automatic,Second Owner,37630.0,Dealer,16.8,1497,5,1093000.0,8,4703.75,299.4
+Hyundai,Verna,2020,Petrol,Manual,Second Owner,63994.0,Dealer,17.7,1497,5,1179000.0,6,10665.67,299.4
+Maruti,S Cross,2018,Diesel,Manual,Second Owner,58000.0,Dealer,19.0,1498,5,875000.0,8,7250.0,299.6
+Honda,City,2017,Petrol,Manual,Third Owner,25000.0,Dealer,17.4,1497,5,950000.0,9,2777.78,299.4
+Honda,City,2017,Petrol,Manual,Third Owner,33246.0,Dealer,17.4,1497,5,745000.0,9,3694.0,299.4
+Jaguar,Xe,2017,Diesel,Automatic,Third Owner,29999.0,Dealer,13.0,1999,5,3299000.0,9,3333.22,399.8
+Renault,Kwid,2017,Petrol,Manual,Third Owner,15507.0,Dealer,22.0,999,5,315000.0,9,1723.0,199.8
+Maruti,Dzire,2018,Diesel,Automatic,Second Owner,15805.0,Dealer,22.0,1498,5,764000.0,8,1975.62,299.6
+Maruti,Celerio,2014,Petrol,Automatic,Third Owner,63931.0,Dealer,20.8,1197,5,385000.0,12,5327.58,239.4
+Maruti,Wagon R,2019,Petrol,Manual,Second Owner,31295.0,Dealer,21.5,998,5,550000.0,7,4470.71,199.6
+Hyundai,Creta,2017,Diesel,Automatic,Third Owner,130000.0,Dealer,16.8,1497,5,1025000.0,9,14444.44,299.4
+Maruti,S Cross,2021,Petrol,Automatic,Second Owner,9400.0,Dealer,18.5,1248,5,1156000.0,5,1880.0,249.6
+Hyundai,Creta,2015,Petrol,Manual,Third Owner,39000.0,Dealer,16.8,1497,5,855000.0,11,3545.45,299.4
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,24749.0,Dealer,21.4,1197,5,582000.0,8,3093.62,239.4
+Maruti,Vitara Brezza,2020,Petrol,Automatic,Second Owner,21986.0,Dealer,17.0,1462,5,1275000.0,6,3664.33,292.4
+BMW,5 Series,2012,Diesel,Manual,Fourth & Above Owner,81000.0,Dealer,15.6,1995,5,1500000.0,14,5785.71,399.0
+Volkswagen,Vento,2021,Petrol,Manual,Second Owner,37230.0,Dealer,17.2,1197,5,1200000.0,5,7446.0,239.4
+Hyundai,Verna,2014,Petrol,Manual,Third Owner,35856.0,Dealer,17.7,1497,5,525000.0,12,2988.0,299.4
+Skoda,Yeti,2011,Diesel,Manual,Fourth & Above Owner,137849.0,Dealer,15.6,1498,5,600000.0,15,9189.93,299.6
+Renault,Kwid,2019,Petrol,Manual,Second Owner,19927.0,Dealer,22.0,999,5,452000.0,7,2846.71,199.8
+Nissan,Sunny,2012,Petrol,Manual,Fourth & Above Owner,56000.0,Dealer,18.0,1498,5,249000.0,14,4000.0,299.6
+BMW,5 Series,2017,Diesel,Manual,Third Owner,41296.0,Dealer,15.6,1995,5,3300000.0,9,4588.44,399.0
+Honda,Amaze,2016,Petrol,Manual,Third Owner,63882.0,Dealer,18.6,1199,5,445000.0,10,6388.2,239.8
+Hyundai,Creta,2021,Petrol,Manual,Second Owner,16000.0,Dealer,16.8,1497,5,1325000.0,5,3200.0,299.4
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,50802.0,Dealer,17.0,1462,5,1022000.0,7,7257.43,292.4
+Hyundai,I20,2014,Petrol,Manual,Third Owner,45195.0,Dealer,18.6,1197,5,375000.0,12,3766.25,239.4
+Maruti,Wagon R,2018,Cng,Manual,Second Owner,86955.0,Dealer,21.5,998,5,420000.0,8,10869.38,199.6
+Kia,Sonet,2020,Petrol,Manual,Second Owner,20879.0,Dealer,16.5,1497,5,1104000.0,6,3479.83,299.4
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,5000.0,Dealer,18.3,1197,5,595000.0,10,500.0,239.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,44480.0,Dealer,21.5,998,5,299000.0,12,3706.67,199.6
+Hyundai,Santro,2018,Cng,Manual,Second Owner,39717.0,Dealer,18.3,1197,5,529000.0,8,4964.62,239.4
+Mahindra,TUV300,2017,Diesel,Manual,Third Owner,32549.0,Dealer,15.1,2179,7,623000.0,9,3616.56,311.29
+Mahindra,Thar,2020,Petrol,Automatic,Second Owner,10900.0,Dealer,15.1,2179,7,1575000.0,6,1816.67,311.29
+Audi,Q3,2015,Diesel,Automatic,Third Owner,90000.0,Dealer,14.5,1984,5,1490000.0,11,8181.82,396.8
+Maruti,Xl6,2020,Petrol,Manual,Second Owner,38598.0,Dealer,20.8,1197,5,990000.0,6,6433.0,239.4
+Tata,Tigor,2021,Electric,Automatic,Second Owner,17294.0,Dealer,0.0,0,5,1135000.0,5,3458.8,0.0
+Skoda,Superb,2010,Petrol + 1,Automatic,Fourth & Above Owner,135000.0,Dealer,15.6,1498,5,800000.0,16,8437.5,299.6
+Maruti,Swift,2019,Petrol,Manual,Second Owner,46027.0,Dealer,21.2,1197,5,695000.0,7,6575.29,239.4
+Renault,Duster,2014,Petrol,Manual,Third Owner,46525.0,Dealer,20.0,999,5,480000.0,12,3877.08,199.8
+Tata,Harrier,2019,Diesel,Manual,Second Owner,24500.0,Dealer,19.0,1498,5,1551000.0,7,3500.0,299.6
+Honda,City,2016,Petrol,Automatic,Third Owner,48793.0,Dealer,17.4,1497,5,775000.0,10,4879.3,299.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,85500.0,Dealer,19.8,1086,5,325000.0,12,7125.0,217.2
+Maruti,Swift,2017,Petrol,Manual,Third Owner,34088.0,Dealer,21.2,1197,5,689000.0,9,3787.56,239.4
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,19921.0,Dealer,21.4,1197,5,719000.0,7,2845.86,239.4
+Honda,Brio,2012,Petrol,Manual,Fourth & Above Owner,75000.0,Dealer,18.5,1198,5,239000.0,14,5357.14,239.6
+Maruti,Alto K10,2012,Petrol,Manual,Fourth & Above Owner,99203.0,Dealer,24.1,998,5,260000.0,14,7085.93,199.6
+Jeep,Compass,2019,Diesel,Manual,Second Owner,57000.0,Dealer,14.9,1956,5,1350000.0,7,8142.86,391.2
+Hyundai,Grand I10,2015,Lpg,Manual,Third Owner,34810.0,Dealer,18.9,1197,5,475000.0,11,3164.55,239.4
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,35829.0,Dealer,20.7,1373,5,845000.0,8,4478.62,274.6
+Audi,A4,2013,Diesel,Automatic,Fourth & Above Owner,89332.0,Dealer,17.4,1984,5,1350000.0,13,6871.69,396.8
+Audi,Q7,2019,Diesel,Automatic,Second Owner,22000.0,Dealer,14.5,1984,5,5400000.0,7,3142.86,396.8
+Maruti,Vitara Brezza,2016,Diesel,Manual,Third Owner,59706.0,Dealer,17.0,1462,5,821000.0,10,5970.6,292.4
+BMW,X1,2011,Diesel,Manual,Fourth & Above Owner,75000.0,Dealer,19.0,1498,5,800000.0,15,5000.0,299.6
+Kia,Sonet,2021,Diesel,Automatic,Second Owner,9914.0,Dealer,16.5,1497,5,1550000.0,5,1982.8,299.4
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,81298.0,Dealer,18.9,1197,5,496000.0,11,7390.73,239.4
+BMW,X1,2019,Diesel,Manual,Second Owner,29221.0,Dealer,19.0,1498,5,3785000.0,7,4174.43,299.6
+Hyundai,Creta,2017,Petrol,Manual,Third Owner,34766.0,Dealer,16.8,1497,5,829000.0,9,3862.89,299.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,20138.0,Dealer,21.5,998,5,341000.0,12,1678.17,199.6
+Honda,Wr,2017,Petrol,Manual,Third Owner,47000.0,Dealer,17.8,1497,5,649000.0,9,5222.22,299.4
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,27113.0,Dealer,18.9,1197,5,659000.0,7,3873.29,239.4
+Maruti,Wagon R,2020,Petrol,Manual,Second Owner,7506.0,Dealer,21.5,998,5,699000.0,6,1251.0,199.6
+Honda,Amaze,2018,Petrol,Manual,Second Owner,77200.0,Dealer,18.6,1199,5,585000.0,8,9650.0,239.8
+Hyundai,Grand I10,2016,Petrol,Manual,Third Owner,34258.0,Dealer,18.9,1197,5,541000.0,10,3425.8,239.4
+Hyundai,Elite I20,2015,Petrol,Manual,Third Owner,54136.0,Dealer,18.3,1197,5,446000.0,11,4921.45,239.4
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,28000.0,Dealer,18.3,1197,5,675000.0,9,3111.11,239.4
+Volkswagen,Vento,2014,Diesel,Automatic,Third Owner,56000.0,Dealer,19.0,1498,5,550000.0,12,4666.67,299.6
+MG,Hector,2021,Petrol,Automatic,Second Owner,19000.0,Dealer,18.0,1200,5,1700000.0,5,3800.0,240.0
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,84065.0,Dealer,21.5,998,5,467000.0,8,10508.12,199.6
+Maruti,Ertiga,2019,Petrol,Automatic,Second Owner,37523.0,Dealer,19.0,1462,7,1045000.0,7,5360.43,208.86
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,82000.0,Dealer,17.0,1462,5,875000.0,8,10250.0,292.4
+Hyundai,I20,2011,Petrol,Manual,Fourth & Above Owner,41123.0,Dealer,18.6,1197,5,259000.0,15,2741.53,239.4
+Chevrolet,Cruze,2015,Diesel,Automatic,Third Owner,72000.0,Dealer,19.0,1498,5,690000.0,11,6545.45,299.6
+Maruti,Ritz,2014,Petrol,Manual,Third Owner,65247.0,Dealer,18.5,1197,5,321000.0,12,5437.25,239.4
+Honda,Brio,2017,Petrol,Automatic,Third Owner,56861.0,Dealer,18.5,1198,5,575000.0,9,6317.89,239.6
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,41100.0,Dealer,18.9,1197,5,545000.0,8,5137.5,239.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,56932.0,Dealer,21.5,998,5,299000.0,12,4744.33,199.6
+Toyota,Camry,2017,Petrol,Manual,Third Owner,20000.0,Dealer,12.9,2494,5,1890000.0,9,2222.22,498.8
+Honda,City,2021,Petrol,Automatic,Second Owner,4275.0,Dealer,17.4,1497,5,1450000.0,5,855.0,299.4
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,20281.0,Dealer,18.3,1197,5,591000.0,9,2253.44,239.4
+Maruti,Baleno,2019,Petrol,Manual,Second Owner,46310.0,Dealer,21.4,1197,5,568000.0,7,6615.71,239.4
+Maruti,Ritz,2014,Petrol,Manual,Third Owner,60000.0,Dealer,18.5,1197,5,250000.0,12,5000.0,239.4
+Tata,Nexon,2018,Petrol,Manual,Second Owner,16449.0,Dealer,17.0,1199,5,690000.0,8,2056.12,239.8
+Jeep,Compass,2019,Petrol,Automatic,Second Owner,27000.0,Dealer,14.9,1956,5,1875000.0,7,3857.14,391.2
+Tata,Tigor,2021,Petrol,Manual,Second Owner,15122.0,Dealer,17.0,1199,5,709000.0,5,3024.4,239.8
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,5221.0,Dealer,18.9,1197,5,569000.0,11,474.64,239.4
+Hyundai,Grand I10,2016,Petrol,Automatic,Third Owner,35000.0,Dealer,18.9,1197,5,595000.0,10,3500.0,239.4
+Toyota,Corolla Altis,2015,Petrol,Automatic,Third Owner,67800.0,Dealer,14.3,1798,5,1025000.0,11,6163.64,359.6
+Hyundai,Creta,2018,Petrol,Manual,Second Owner,34841.0,Dealer,16.8,1497,5,1050000.0,8,4355.12,299.4
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,22217.0,Dealer,20.7,1373,5,715000.0,9,2468.56,274.6
+Tata,Tiago,2020,Petrol,Manual,Second Owner,17817.0,Dealer,17.0,1199,5,679000.0,6,2969.5,239.8
+Kia,Seltos,2020,Petrol,Manual,Second Owner,13969.0,Dealer,16.5,1497,5,1545000.0,6,2328.17,299.4
+Hyundai,I20,2021,Petrol,Manual,Second Owner,13626.0,Dealer,18.6,1197,5,960000.0,5,2725.2,239.4
+Maruti,Wagon R,2014,Petrol,Manual,Third Owner,31316.0,Dealer,21.5,998,5,332000.0,12,2609.67,199.6
+Maruti,Dzire,2018,Diesel,Manual,Second Owner,7050.0,Dealer,22.0,1498,5,725000.0,8,881.25,299.6
+Honda,City,2012,Petrol,Manual,Fourth & Above Owner,74000.0,Dealer,17.4,1497,5,395000.0,14,5285.71,299.4
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,24737.0,Dealer,18.3,1197,5,801000.0,7,3533.86,239.4
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,29147.0,Dealer,17.0,1462,5,945000.0,7,4163.86,292.4
+Hyundai,Creta,2017,Diesel,Manual,Third Owner,48976.0,Dealer,16.8,1497,5,970000.0,9,5441.78,299.4
+Maruti,Alto 800,2018,Petrol,Manual,Second Owner,70153.0,Dealer,22.7,796,5,281000.0,8,8769.12,159.2
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,16398.0,Dealer,18.3,1197,5,675000.0,7,2342.57,239.4
+Honda,Amaze,2014,Petrol,Manual,Third Owner,65636.0,Dealer,18.6,1199,5,390000.0,12,5469.67,239.8
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,30000.0,Dealer,18.3,1197,5,575000.0,9,3333.33,239.4
+Hyundai,I10,2012,Petrol,Manual,Fourth & Above Owner,26916.0,Dealer,19.8,1086,5,245000.0,14,1922.57,217.2
+Hyundai,Grand I10,2019,Petrol,Manual,Second Owner,34000.0,Dealer,18.9,1197,5,540000.0,7,4857.14,239.4
+Hyundai,Venue,2021,Diesel,Manual,Second Owner,16100.0,Dealer,19.0,1498,5,1150000.0,5,3220.0,299.6
+Honda,City,2015,Petrol,Automatic,Third Owner,36623.0,Dealer,17.4,1497,5,650000.0,11,3329.36,299.4
+Maruti,Eeco,2021,Cng,Manual,Second Owner,1374.0,Dealer,16.1,1196,5,645000.0,5,274.8,239.2
+Honda,City,2021,Petrol,Automatic,Second Owner,12372.0,Dealer,17.4,1497,5,1590000.0,5,2474.4,299.4
+Maruti,Ciaz,2020,Petrol,Manual,Second Owner,10200.0,Dealer,20.7,1373,5,850000.0,6,1700.0,274.6
+Maruti,S-Presso,2020,Petrol,Manual,Second Owner,28224.0,Dealer,20.8,1197,5,465000.0,6,4704.0,239.4
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,45116.0,Dealer,21.5,998,5,451000.0,9,5012.89,199.6
+Mercedes-Benz,Cla,2018,Petrol,Automatic,Second Owner,37000.0,Dealer,13.8,1991,5,2590000.0,8,4625.0,398.2
+MG,Hector,2021,Petrol,Automatic,Second Owner,14000.0,Dealer,18.0,1200,5,1875000.0,5,2800.0,240.0
+Honda,City,2017,Petrol,Automatic,Third Owner,59053.0,Dealer,17.4,1497,5,730000.0,9,6561.44,299.4
+Audi,A4,2012,Diesel,Automatic,Fourth & Above Owner,73562.0,Dealer,17.4,1984,5,1500000.0,14,5254.43,396.8
+Mercedes-Benz,Gle,2015,Diesel,Automatic,Third Owner,75176.0,Dealer,13.8,1991,5,3850000.0,11,6834.18,398.2
+Toyota,Corolla Altis,2018,Petrol,Automatic,Second Owner,34316.0,Dealer,14.3,1798,5,1394000.0,8,4289.5,359.6
+Toyota,Innova,2021,Diesel,Automatic,Second Owner,23439.0,Dealer,12.99,2494,7,2975000.0,5,4687.8,356.29
+Jeep,Grand,2017,Petrol,Manual,Third Owner,47300.0,Dealer,14.9,1956,5,5300000.0,9,5255.56,391.2
+Mahindra,Marazzo,2021,Diesel,Manual,Second Owner,36700.0,Dealer,15.1,2179,7,1485000.0,5,7340.0,311.29
+Land Rover,Range,2019,Diesel,Automatic,Second Owner,36000.0,Dealer,11.8,2179,5,13600000.0,7,5142.86,435.8
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,19021.0,Dealer,21.5,998,5,411000.0,8,2377.62,199.6
+Kia,Seltos,2020,Diesel,Automatic,Second Owner,68700.0,Dealer,16.5,1497,5,1850000.0,6,11450.0,299.4
+MG,Hector,2019,Diesel,Manual,Second Owner,28679.0,Dealer,19.0,1498,5,1699000.0,7,4097.0,299.6
+Tata,Nexon,2020,Petrol,Manual,Second Owner,27499.0,Dealer,17.0,1199,5,929000.0,6,4583.17,239.8
+Maruti,Vitara Brezza,2016,Diesel,Manual,Third Owner,86908.0,Dealer,17.0,1462,5,700000.0,10,8690.8,292.4
+Volkswagen,Passat,2010,Petrol,Manual,Fourth & Above Owner,55460.0,Dealer,17.2,1197,5,335000.0,16,3466.25,239.4
+Honda,City,2017,Petrol,Automatic,Third Owner,58165.0,Dealer,17.4,1497,5,1009000.0,9,6462.78,299.4
+Mercedes-Benz,Gle,2020,Diesel,Automatic,Second Owner,34000.0,Dealer,13.8,1991,5,8600000.0,6,5666.67,398.2
+Kia,Sonet,2022,Petrol,Manual,First Owner,12800.0,Dealer,16.5,1497,5,1250000.0,4,3200.0,299.4
+Hyundai,Accent,2011,Petrol,Manual,Fourth & Above Owner,57704.0,Dealer,18.3,1197,5,270000.0,15,3846.93,239.4
+Honda,City,2022,Petrol,Automatic,First Owner,6116.0,Dealer,17.4,1497,5,1606000.0,4,1529.0,299.4
+Honda,Brio,2013,Petrol,Manual,Fourth & Above Owner,81000.0,Dealer,18.5,1198,5,295000.0,13,6230.77,239.6
+MG,Astor,2022,Petrol,Manual,First Owner,2200.0,Dealer,18.0,1200,5,1549000.0,4,550.0,240.0
+Mahindra,Marazzo,2021,Diesel,Manual,Second Owner,9238.0,Dealer,15.1,2179,7,1136000.0,5,1847.6,311.29
+Tata,Harrier,2019,Diesel,Manual,Second Owner,47082.0,Dealer,19.0,1498,5,1695000.0,7,6726.0,299.6
+Hyundai,Xcent,2015,Diesel + 1,Manual,Third Owner,73000.0,Dealer,19.1,1498,5,500000.0,11,6636.36,299.6
+Maruti,Swift,2017,Diesel,Manual,Third Owner,62000.0,Dealer,21.2,1498,5,610000.0,9,6888.89,299.6
+Skoda,Rapid,2020,Petrol,Automatic,Second Owner,46807.0,Dealer,15.6,1498,5,1125000.0,6,7801.17,299.6
+Hyundai,Grand I10,2017,Petrol,Automatic,Third Owner,25971.0,Dealer,18.9,1197,5,570000.0,9,2885.67,239.4
+Maruti,Dzire,2018,Petrol,Manual,Second Owner,43100.0,Dealer,22.0,1197,5,611000.0,8,5387.5,239.4
+MG,Gloster,2021,Diesel,Manual,Second Owner,20264.0,Dealer,19.0,1498,5,4285000.0,5,4052.8,299.6
+Maruti,Ciaz,2016,Petrol,Automatic,Third Owner,75000.0,Dealer,20.7,1373,5,650000.0,10,7500.0,274.6
+Honda,City,2019,Petrol,Manual,Second Owner,20580.0,Dealer,17.4,1497,5,815000.0,7,2940.0,299.4
+Hyundai,Creta,2019,Petrol,Manual,Second Owner,28596.0,Dealer,16.8,1497,5,1167000.0,7,4085.14,299.4
+Honda,Amaze,2014,Petrol,Manual,Third Owner,48333.0,Dealer,18.6,1199,5,509000.0,12,4027.75,239.8
+Mahindra,XUV500,2017,Diesel,Automatic,Third Owner,74000.0,Dealer,15.1,2179,7,950000.0,9,8222.22,311.29
+Toyota,Corolla,2005,Petrol,Manual,Fourth & Above Owner,140000.0,Dealer,14.5,1798,5,200000.0,21,6666.67,359.6
+Maruti,Vitara Brezza,2016,Diesel,Manual,Third Owner,42000.0,Dealer,17.0,1462,5,740000.0,10,4200.0,292.4
+Honda,Jazz,2016,Petrol,Automatic,Third Owner,26786.0,Dealer,18.7,1199,5,590000.0,10,2678.6,239.8
+Maruti,Celerio,2016,Petrol,Manual,Third Owner,36415.0,Dealer,20.8,1197,5,443000.0,10,3641.5,239.4
+Mercedes-Benz,Gle,2018,Diesel,Automatic,Second Owner,42000.0,Dealer,13.8,1991,5,5400000.0,8,5250.0,398.2
+Honda,City,2021,Petrol,Automatic,Second Owner,7747.0,Dealer,17.4,1497,5,1511000.0,5,1549.4,299.4
+Maruti,Swift,2019,Petrol,Manual,Second Owner,18619.0,Dealer,21.2,1197,5,734000.0,7,2659.86,239.4
+Mercedes-Benz,Gle,2017,Diesel,Automatic,Third Owner,55000.0,Dealer,13.8,1991,5,4700000.0,9,6111.11,398.2
+Hyundai,I10,2012,Petrol,Automatic,Fourth & Above Owner,36000.0,Dealer,19.8,1086,5,345000.0,14,2571.43,217.2
+Renault,Kwid,2020,Petrol,Manual,Second Owner,2066.0,Dealer,22.0,999,5,475000.0,6,344.33,199.8
+Audi,Q2,2020,Petrol,Automatic,Second Owner,10700.0,Dealer,14.5,1984,5,3050000.0,6,1783.33,396.8
+Maruti,Dzire,2018,Petrol,Automatic,Second Owner,48000.0,Dealer,22.0,1197,5,660000.0,8,6000.0,239.4
+Honda,City,2016,Petrol,Manual,Third Owner,87693.0,Dealer,17.4,1497,5,675000.0,10,8769.3,299.4
+Tata,Nexon,2021,Petrol,Manual,Second Owner,14836.0,Dealer,17.0,1199,5,1025000.0,5,2967.2,239.8
+Tata,Harrier,2022,Diesel,Manual,First Owner,16000.0,Dealer,19.0,1498,5,2290000.0,4,4000.0,299.6
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,53864.0,Dealer,18.3,1197,5,721000.0,8,6733.0,239.4
+Hyundai,Elite I20,2019,Petrol,Manual,Second Owner,14546.0,Dealer,18.3,1197,5,839000.0,7,2078.0,239.4
+Honda,Amaze,2017,Petrol,Manual,Third Owner,87150.0,Dealer,18.6,1199,5,505000.0,9,9683.33,239.8
+Maruti,Celerio,2018,Cng,Manual,Second Owner,50889.0,Dealer,20.8,1197,5,525000.0,8,6361.12,239.4
+Toyota,Etios,2011,Petrol,Manual,Fourth & Above Owner,70000.0,Dealer,14.5,1496,5,275000.0,15,4666.67,299.2
+Audi,A4,2018,Diesel,Automatic,Second Owner,47555.0,Dealer,17.4,1984,5,3275000.0,8,5944.38,396.8
+Datsun,Redi,2016,Petrol,Manual,Third Owner,63225.0,Dealer,20.6,999,5,270000.0,10,6322.5,199.8
+Mahindra,Kuv100,2020,Petrol,Manual,Second Owner,60132.0,Dealer,15.1,2179,7,492000.0,6,10022.0,311.29
+BMW,5 Series,2016,Diesel,Manual,Third Owner,42465.0,Dealer,15.6,1995,5,2099000.0,10,4246.5,399.0
+Mercedes-Benz,C Class,2013,Diesel,Automatic,Fourth & Above Owner,64304.0,Dealer,13.8,1991,5,1095000.0,13,4946.46,398.2
+Audi,A6,2016,Diesel,Automatic,Third Owner,79059.0,Dealer,14.5,1984,5,2400000.0,10,7905.9,396.8
+Hyundai,Grand I10,2021,Cng,Manual,Second Owner,18590.0,Dealer,18.9,1197,5,725000.0,5,3718.0,239.4
+Hyundai,Creta,2016,Diesel,Manual,Third Owner,75000.0,Dealer,16.8,1497,5,875000.0,10,7500.0,299.4
+Jeep,Compass,2017,Diesel,Manual,Third Owner,70400.0,Dealer,14.9,1956,5,1499000.0,9,7822.22,391.2
+Honda,City,2017,Petrol,Manual,Third Owner,79938.0,Dealer,17.4,1497,5,760000.0,9,8882.0,299.4
+Mahindra,Xuv300,2019,Diesel,Automatic,Second Owner,70000.0,Dealer,15.1,2179,7,1300000.0,7,10000.0,311.29
+MG,Gloster,2020,Diesel,Manual,Second Owner,24600.0,Dealer,19.0,1498,5,4199000.0,6,4100.0,299.6
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,48174.0,Dealer,17.0,1462,5,825000.0,8,6021.75,292.4
+Volkswagen,Polo,2019,Petrol,Manual,Second Owner,52000.0,Dealer,17.2,1197,5,925000.0,7,7428.57,239.4
+Renault,Captur,2018,Petrol,Manual,Second Owner,34000.0,Dealer,20.0,999,5,690000.0,8,4250.0,199.8
+BMW,X1,2019,Diesel,Manual,Second Owner,16000.0,Dealer,19.0,1498,5,3900000.0,7,2285.71,299.6
+Maruti,Ritz,2012,Diesel,Manual,Fourth & Above Owner,92000.0,Dealer,19.0,1498,5,345000.0,14,6571.43,299.6
+Hyundai,Verna,2021,Petrol,Manual,Second Owner,11000.0,Dealer,17.7,1497,5,1150000.0,5,2200.0,299.4
+Maruti,Swift,2014,Diesel,Manual,Third Owner,89000.0,Dealer,21.2,1498,5,550000.0,12,7416.67,299.6
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,45000.0,Dealer,16.0,1497,5,3143000.0,8,5625.0,299.4
+Mercedes-Benz,Gla,2017,Petrol,Automatic,Third Owner,53000.0,Dealer,13.8,1991,5,2175000.0,9,5888.89,398.2
+Nissan,Terrano,2015,Diesel,Manual,Third Owner,85000.0,Dealer,18.0,1498,5,575000.0,11,7727.27,299.6
+Maruti,Swift,2012,Petrol,Manual,Fourth & Above Owner,46000.0,Dealer,21.2,1197,5,334000.0,14,3285.71,239.4
+Maruti,Dzire,2021,Petrol,Manual,Second Owner,45000.0,Dealer,22.0,1197,5,675000.0,5,9000.0,239.4
+Jeep,Compass,2018,Petrol,Automatic,Second Owner,48381.0,Dealer,14.9,1956,5,1341000.0,8,6047.62,391.2
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,20225.0,Dealer,18.9,1197,5,482000.0,8,2528.12,239.4
+Toyota,Corolla Altis,2018,Petrol,Automatic,Second Owner,25914.0,Dealer,14.3,1798,5,1650000.0,8,3239.25,359.6
+Mercedes-Benz,Gle,2018,Diesel,Automatic,Second Owner,50012.0,Dealer,13.8,1991,5,5500000.0,8,6251.5,398.2
+MG,Hector,2019,Petrol,Automatic,Second Owner,9700.0,Dealer,18.0,1200,5,1499000.0,7,1385.71,240.0
+Kia,Seltos,2021,Petrol,Automatic,Second Owner,8000.0,Dealer,16.5,1497,5,1865000.0,5,1600.0,299.4
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,47452.0,Dealer,18.3,1197,5,620000.0,10,4745.2,239.4
+Honda,Jazz,2016,Petrol,Manual,Third Owner,10861.0,Dealer,18.7,1199,5,595000.0,10,1086.1,239.8
+Maruti,Sx4,2010,Cng,Manual,Fourth & Above Owner,76000.0,Dealer,16.5,1586,5,171000.0,16,4750.0,317.2
+Maruti,A,2013,Petrol,Manual,Fourth & Above Owner,15000.0,Dealer,20.8,1197,5,295000.0,13,1153.85,239.4
+Mahindra,Marazzo,2020,Diesel,Manual,Second Owner,10616.0,Dealer,15.1,2179,7,1137000.0,6,1769.33,311.29
+Hyundai,I20,2021,Petrol,Automatic,Second Owner,10530.0,Dealer,18.6,1197,5,1195000.0,5,2106.0,239.4
+Honda,Civic,2012,Petrol,Manual,Fourth & Above Owner,62500.0,Dealer,17.8,1497,5,349000.0,14,4464.29,299.4
+Kia,Seltos,2021,Petrol,Automatic,Second Owner,7358.0,Dealer,16.5,1497,5,1995000.0,5,1471.6,299.4
+Citroen,C5,2021,Diesel,Manual,Second Owner,27000.0,Dealer,19.0,1498,5,3500000.0,5,5400.0,299.6
+Honda,City,2010,Petrol,Manual,Fourth & Above Owner,95000.0,Dealer,17.4,1497,5,310000.0,16,5937.5,299.4
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,36234.0,Dealer,18.9,1197,5,415000.0,8,4529.25,239.4
+Maruti,Alto 800,2019,Cng,Manual,Second Owner,54765.0,Dealer,22.7,796,5,389000.0,7,7823.57,159.2
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,58000.0,Dealer,18.9,1197,5,465000.0,9,6444.44,239.4
+Hyundai,Santro,2018,Petrol,Automatic,Second Owner,13772.0,Dealer,18.3,1197,5,589000.0,8,1721.5,239.4
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,47000.0,Dealer,16.0,1497,5,3150000.0,8,5875.0,299.4
+Hyundai,Verna,2019,Diesel,Manual,Second Owner,45000.0,Dealer,17.7,1497,5,1090000.0,7,6428.57,299.4
+Mahindra,Scorpio,2014,Diesel,Manual,Third Owner,127000.0,Dealer,15.1,2179,7,615000.0,12,10583.33,311.29
+Honda,City,2015,Petrol,Manual,Third Owner,21946.0,Dealer,17.4,1497,5,615000.0,11,1995.09,299.4
+Hyundai,Elite I20,2015,Diesel,Manual,Third Owner,91.0,Dealer,19.0,1498,5,551000.0,11,8.27,299.6
+Skoda,Superb,2021,Petrol,Automatic,Second Owner,14500.0,Dealer,15.6,1498,5,3490000.0,5,2900.0,299.6
+Maruti,Ertiga,2018,Diesel,Manual,Second Owner,65917.0,Dealer,19.0,1462,7,1080000.0,8,8239.62,208.86
+Maruti,Wagon R,2018,Petrol,Manual,Second Owner,34124.0,Dealer,21.5,998,5,425000.0,8,4265.5,199.6
+Maruti,Celerio,2019,Petrol,Manual,Second Owner,25834.0,Dealer,20.8,1197,5,486000.0,7,3690.57,239.4
+Maruti,Alto K10,2014,Petrol,Manual,Third Owner,58073.0,Dealer,24.1,998,5,236000.0,12,4839.42,199.6
+Maruti,Wagon R,2013,Petrol,Manual,Fourth & Above Owner,52002.0,Dealer,21.5,998,5,357000.0,13,4000.15,199.6
+Hyundai,Tucson,2018,Diesel,Automatic,Second Owner,17852.0,Dealer,19.0,1498,5,1990000.0,8,2231.5,299.6
+Volkswagen,Tiguan,2018,Diesel,Manual,Second Owner,41797.0,Dealer,19.0,1498,5,2495000.0,8,5224.62,299.6
+Jaguar,Xf,2014,Diesel,Automatic,Third Owner,36000.0,Dealer,13.0,1999,5,1950000.0,12,3000.0,399.8
+Honda,Amaze,2016,Petrol,Manual,Third Owner,37206.0,Dealer,18.6,1199,5,521000.0,10,3720.6,239.8
+Maruti,Wagon R,2013,Cng,Manual,Fourth & Above Owner,106900.0,Dealer,21.5,998,5,335000.0,13,8223.08,199.6
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,46000.0,Dealer,18.3,1197,5,640000.0,9,5111.11,239.4
+BMW,X4,2020,Diesel,Manual,Second Owner,13600.0,Dealer,19.0,1498,5,6250000.0,6,2266.67,299.6
+Maruti,Vitara Brezza,2018,Diesel,Manual,Second Owner,69812.0,Dealer,17.0,1462,5,735000.0,8,8726.5,292.4
+Maruti,Vitara Brezza,2019,Diesel,Manual,Second Owner,33747.0,Dealer,17.0,1462,5,801000.0,7,4821.0,292.4
+Hyundai,Grand I10,2015,Petrol,Manual,Third Owner,36122.0,Dealer,18.9,1197,5,360000.0,11,3283.82,239.4
+Maruti,Wagon R,2019,Petrol,Automatic,Second Owner,38447.0,Dealer,21.5,998,5,475000.0,7,5492.43,199.6
+Hyundai,Elite I20,2017,Petrol,Manual,Third Owner,18000.0,Dealer,18.3,1197,5,635000.0,9,2000.0,239.4
+Hyundai,I10,2013,Petrol,Manual,Fourth & Above Owner,63000.0,Dealer,19.8,1086,5,295000.0,13,4846.15,217.2
+Hyundai,Grand I10,2020,Petrol,Manual,Second Owner,24736.0,Dealer,18.9,1197,5,712000.0,6,4122.67,239.4
+Ford,Endeavour,2018,Diesel,Automatic,Second Owner,25160.0,Dealer,16.0,1497,5,3189000.0,8,3145.0,299.4
+Audi,Q3,2016,Diesel,Automatic,Third Owner,76840.0,Dealer,14.5,1984,5,2150000.0,10,7684.0,396.8
+BMW,X1,2021,Petrol,Manual,Second Owner,19000.0,Dealer,18.0,1200,5,4190000.0,5,3800.0,240.0
+Maruti,Wagon R,2015,Petrol,Automatic,Third Owner,56000.0,Dealer,21.5,998,5,450000.0,11,5090.91,199.6
+Hyundai,I10,2015,Petrol,Manual,Third Owner,26250.0,Dealer,19.8,1086,5,359000.0,11,2386.36,217.2
+Hyundai,I10,2008,Petrol,Manual,Fourth & Above Owner,43278.0,Dealer,19.8,1086,5,250000.0,18,2404.33,217.2
+Maruti,Dzire,2019,Petrol,Manual,Second Owner,30663.0,Dealer,22.0,1197,5,641000.0,7,4380.43,239.4
+Maruti,Swift,2013,Petrol,Manual,Fourth & Above Owner,71138.0,Dealer,21.2,1197,5,415000.0,13,5472.15,239.4
+Skoda,Yeti,2012,Diesel,Manual,Fourth & Above Owner,86000.0,Dealer,15.6,1498,5,349000.0,14,6142.86,299.6
+Hyundai,Santro,2007,Petrol,Automatic,Fourth & Above Owner,74000.0,Dealer,18.3,1197,5,300000.0,19,3894.74,239.4
+Tata,Tiago,2022,Petrol,Manual,First Owner,100088.0,Dealer,17.0,1199,5,400000.0,4,25022.0,239.8
+Mercedes-Benz,Gl,2015,Diesel,Automatic,Third Owner,69000.0,Dealer,13.8,1991,5,4700000.0,11,6272.73,398.2
+Honda,City,2014,Petrol + 1,Manual,Third Owner,69000.0,Dealer,17.4,1497,5,530000.0,12,5750.0,299.4
+Maruti,Baleno,2018,Petrol,Manual,Second Owner,40244.0,Dealer,21.4,1197,5,690000.0,8,5030.5,239.4
+Maruti,Ciaz,2017,Petrol,Manual,Third Owner,43152.0,Dealer,20.7,1373,5,697000.0,9,4794.67,274.6
+Hyundai,Creta,2017,Diesel,Automatic,Third Owner,120000.0,Dealer,16.8,1497,5,1195000.0,9,13333.33,299.4
+MG,Hector,2021,Petrol,Automatic,Second Owner,21105.0,Dealer,18.0,1200,5,1800000.0,5,4221.0,240.0
+Honda,Brio,2014,Petrol,Manual,Third Owner,46089.0,Dealer,18.5,1198,5,439000.0,12,3840.75,239.6
+Maruti,Eeco,2020,Petrol,Manual,Second Owner,18568.0,Dealer,16.1,1196,5,492000.0,6,3094.67,239.2
+Hyundai,Grand I10,2018,Petrol,Manual,Second Owner,57847.0,Dealer,18.9,1197,5,539000.0,8,7230.88,239.4
+Volkswagen,Vento,2015,Diesel,Automatic,Third Owner,58436.0,Dealer,19.0,1498,5,635000.0,11,5312.36,299.6
+Maruti,Swift,2015,Petrol,Manual,Third Owner,52000.0,Dealer,21.2,1197,5,490000.0,11,4727.27,239.4
+Volkswagen,Vento,2021,Petrol,Automatic,Second Owner,30788.0,Dealer,17.2,1197,5,1350000.0,5,6157.6,239.4
+Honda,Amaze,2014,Diesel,Manual,Third Owner,90354.0,Dealer,19.0,1498,5,450000.0,12,7529.5,299.6
+Kia,Seltos,2021,Petrol,Manual,Second Owner,11870.0,Dealer,16.5,1497,5,1075000.0,5,2374.0,299.4
+Toyota,Corolla Altis,2010,Cng,Manual,Fourth & Above Owner,149500.0,Dealer,14.3,1798,5,345000.0,16,9343.75,359.6
+Hyundai,Xcent,2015,Petrol,Manual,Third Owner,44000.0,Dealer,19.1,1197,5,475000.0,11,4000.0,239.4
+Hyundai,Santa,2015,Diesel,Manual,Third Owner,55545.0,Dealer,19.0,1498,5,1625000.0,11,5049.55,299.6
+Tata,Tiago,2018,Petrol,Manual,Second Owner,57000.0,Dealer,17.0,1199,5,445000.0,8,7125.0,239.8
+Maruti,Ritz,2012,Petrol,Manual,Fourth & Above Owner,49000.0,Dealer,18.5,1197,5,325000.0,14,3500.0,239.4
+Tata,Safari,2021,Diesel,Manual,Second Owner,16600.0,Dealer,14.1,1956,7,2400000.0,5,3320.0,279.43
+Maruti,Ciaz,2018,Petrol,Manual,Second Owner,30830.0,Dealer,20.7,1373,5,923000.0,8,3853.75,274.6
+Maruti,Wagon R,2017,Cng,Manual,Third Owner,72000.0,Dealer,21.5,998,5,465000.0,9,8000.0,199.6
+Audi,A4,2014,Diesel,Automatic,Third Owner,89070.0,Dealer,17.4,1984,5,1650000.0,12,7422.5,396.8
+Mahindra,Xuv300,2021,Petrol,Manual,Second Owner,15777.0,Dealer,15.1,2179,7,724000.0,5,3155.4,311.29
+Skoda,Kodiaq,2017,Diesel,Automatic,Third Owner,25000.0,Dealer,15.6,1498,5,2975000.0,9,2777.78,299.6
+Toyota,Innova,2021,Diesel,Automatic,Second Owner,33500.0,Dealer,12.99,2494,7,3100000.0,5,6700.0,356.29
+Volkswagen,Vento,2016,Diesel,Automatic,Third Owner,48000.0,Dealer,19.0,1498,5,790000.0,10,4800.0,299.6
+Hyundai,Grand I10,2021,Cng,Manual,Second Owner,21187.0,Dealer,18.9,1197,5,709000.0,5,4237.4,239.4
+Hyundai,Elite I20,2014,Petrol,Manual,Third Owner,58326.0,Dealer,18.3,1197,5,395000.0,12,4860.5,239.4
+Maruti,Eeco,2019,Petrol,Manual,Second Owner,12566.0,Dealer,16.1,1196,5,433000.0,7,1795.14,239.2
+Maruti,Celerio,2015,Petrol,Manual,Third Owner,49821.0,Dealer,20.8,1197,5,398000.0,11,4529.18,239.4
+Hyundai,Grand I10,2013,Petrol,Manual,Fourth & Above Owner,25028.0,Dealer,18.9,1197,5,395000.0,13,1925.23,239.4
+Mahindra,Kuv100,2018,Petrol,Manual,Second Owner,41604.0,Dealer,15.1,2179,7,451000.0,8,5200.5,311.29
+Maruti,Wagon R,2011,Petrol,Manual,Fourth & Above Owner,80386.0,Dealer,21.5,998,5,255000.0,15,5359.07,199.6
+Mercedes-Benz,E Class,2020,Diesel,Automatic,Second Owner,17500.0,Dealer,13.8,1991,5,6000000.0,6,2916.67,398.2
+Maruti,Ciaz,2019,Diesel,Manual,Second Owner,27095.0,Dealer,20.7,1498,5,870000.0,7,3870.71,299.6
+Honda,City,2018,Diesel,Manual,Second Owner,34178.0,Dealer,17.4,1497,5,885000.0,8,4272.25,299.4
+Mahindra,XUV500,2016,Diesel,Manual,Third Owner,37000.0,Dealer,15.1,2179,7,975000.0,10,3700.0,311.29
+Hyundai,Elantra,2017,Diesel,Automatic,Third Owner,85930.0,Dealer,14.6,1999,5,1300000.0,9,9547.78,399.8
+Hyundai,Grand I10,2017,Petrol,Manual,Third Owner,35373.0,Dealer,18.9,1197,5,530000.0,9,3930.33,239.4
+BMW,5 Series,2022,Petrol,Manual,First Owner,9664.0,Dealer,15.6,1995,5,6800000.0,4,2416.0,399.0
+Honda,Jazz,2018,Petrol,Manual,Second Owner,34640.0,Dealer,18.7,1199,5,532000.0,8,4330.0,239.8
+Renault,Duster,2017,Petrol,Manual,Third Owner,50244.0,Dealer,20.0,999,5,699000.0,9,5582.67,199.8
+Honda,Wr,2018,Petrol,Manual,Second Owner,29099.0,Dealer,17.8,1497,5,785000.0,8,3637.38,299.4
+Volkswagen,Polo,2016,Petrol,Manual,Third Owner,27239.0,Dealer,17.2,1197,5,695000.0,10,2723.9,239.4
+Hyundai,I10,2014,Petrol,Manual,Third Owner,41000.0,Dealer,19.8,1086,5,245000.0,12,3416.67,217.2
+Datsun,Go,2019,Petrol,Manual,Second Owner,15755.0,Dealer,20.6,999,5,498000.0,7,2250.71,199.8
+Audi,A4,2015,Diesel,Automatic,Third Owner,57566.0,Dealer,17.4,1984,5,1395000.0,11,5233.27,396.8
+Maruti,Alto 800,2012,Petrol,Manual,Fourth & Above Owner,65315.0,Dealer,22.7,796,5,239000.0,14,4665.36,159.2
+Maruti,Alto K10,2016,Petrol,Manual,Third Owner,74200.0,Dealer,24.1,998,5,379000.0,10,7420.0,199.6
+Skoda,Slavia,2022,Petrol,Automatic,First Owner,6098.0,Dealer,15.6,1498,5,1658000.0,4,1524.5,299.6
+Hyundai,I10,2016,Petrol,Manual,Third Owner,46150.0,Dealer,19.8,1086,5,425000.0,10,4615.0,217.2
+BMW,X1,2016,Diesel,Manual,Third Owner,68714.0,Dealer,19.0,1498,5,2250000.0,10,6871.4,299.6
+Honda,Amaze,2013,Petrol,Manual,Fourth & Above Owner,61000.0,Dealer,18.6,1199,5,430000.0,13,4692.31,239.8
+BMW,X1,2021,Diesel,Manual,Second Owner,7100.0,Dealer,19.0,1498,5,4475000.0,5,1420.0,299.6
+Mercedes-Benz,S Class,2017,Diesel,Automatic,Third Owner,18000.0,Dealer,13.8,1991,5,6900000.0,9,2000.0,398.2
+Maruti,Swift,2020,Petrol,Automatic,Second Owner,21800.0,Dealer,21.2,1197,5,795000.0,6,3633.33,239.4
+Maruti,Wagon R,2018,Petrol,Automatic,Second Owner,84827.0,Dealer,21.5,998,5,475000.0,8,10603.38,199.6
+Tata,Tiago,2017,Petrol,Manual,Third Owner,34867.0,Dealer,17.0,1199,5,475000.0,9,3874.11,239.8
+Volvo,V40,2018,Diesel,Automatic,Second Owner,47000.0,Dealer,12.4,1969,5,1675000.0,8,5875.0,393.8
+Renault,Kwid,2019,Petrol,Automatic,Second Owner,53447.0,Dealer,22.0,999,5,456000.0,7,7635.29,199.8
+Bentley,Continental,2008,Petrol,Manual,Fourth & Above Owner,19506.0,Dealer,8.6,3993,4,7000000.0,18,1083.67,998.25
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,67844.0,Dealer,18.9,1197,5,394000.0,12,5653.67,239.4
+Renault,Kwid,2017,Petrol,Manual,Third Owner,32000.0,Dealer,22.0,999,5,335000.0,9,3555.56,199.8
+Honda,Amaze,2016,Petrol,Automatic,Third Owner,15075.0,Dealer,18.6,1199,5,649000.0,10,1507.5,239.8
+Hyundai,Elite I20,2016,Petrol,Manual,Third Owner,100000.0,Dealer,18.3,1197,5,650000.0,10,10000.0,239.4
+Honda,Brio,2014,Petrol,Automatic,Third Owner,46314.0,Dealer,18.5,1198,5,435000.0,12,3859.5,239.6
+Maruti,Baleno,2017,Diesel,Manual,Third Owner,58238.0,Dealer,21.4,1498,5,730000.0,9,6470.89,299.6
+Ford,Figo,2017,Petrol,Manual,Third Owner,44000.0,Dealer,16.0,1497,5,430000.0,9,4888.89,299.4
+Skoda,Rapid,2016,Petrol,Manual,Third Owner,45834.0,Dealer,15.6,1498,5,666000.0,10,4583.4,299.6
+MG,Gloster,2020,Diesel,Manual,Second Owner,22000.0,Dealer,19.0,1498,5,3900000.0,6,3666.67,299.6
+Ford,Aspire,2019,Cng,Manual,Second Owner,47781.0,Dealer,16.0,1497,5,677000.0,7,6825.86,299.4
+Honda,Wr,2018,Petrol,Manual,Second Owner,51425.0,Dealer,17.8,1497,5,735000.0,8,6428.12,299.4
+Jaguar,Xe,2018,Diesel,Automatic,Second Owner,9090.0,Dealer,13.0,1999,5,3775000.0,8,1136.25,399.8
+Tata,Nexon,2022,Electric,Automatic,First Owner,7000.0,Dealer,0.0,0,5,1875000.0,4,1750.0,0.0
+Honda,Amaze,2013,Petrol,Manual,Fourth & Above Owner,44114.0,Dealer,18.6,1199,5,439000.0,13,3393.38,239.8
+Honda,Jazz,2015,Petrol,Manual,Third Owner,52000.0,Dealer,18.7,1199,5,495000.0,11,4727.27,239.8
+Tata,Safari,2022,Diesel,Manual,First Owner,6625.0,Dealer,14.1,1956,7,2615000.0,4,1656.25,279.43
+Renault,Duster,2018,Diesel,Automatic,Second Owner,62732.0,Dealer,20.0,1498,5,895000.0,8,7841.5,299.6
+Toyota,Innova,2018,Diesel,Automatic,Second Owner,121842.0,Dealer,12.99,2494,7,2400000.0,8,15230.25,356.29
+Hyundai,Verna,2015,Petrol,Manual,Third Owner,40493.0,Dealer,17.7,1497,5,649000.0,11,3681.18,299.4
+Maruti,Swift,2018,Diesel,Manual,Second Owner,65000.0,Dealer,21.2,1498,5,750000.0,8,8125.0,299.6
+Hyundai,I20,2020,Petrol,Manual,Second Owner,15608.0,Dealer,18.6,1197,5,889000.0,6,2601.33,239.4
+Renault,Triber,2021,Petrol,Manual,Second Owner,19000.0,Dealer,20.0,999,5,765000.0,5,3800.0,199.8
+Tata,Harrier,2019,Diesel,Manual,Second Owner,45163.0,Dealer,19.0,1498,5,1550000.0,7,6451.86,299.6
+Tata,Altroz,2020,Petrol,Manual,Second Owner,33530.0,Dealer,17.0,1199,5,706000.0,6,5588.33,239.8
+Renault,Duster,2017,Petrol,Manual,Third Owner,60444.0,Dealer,20.0,999,5,789000.0,9,6716.0,199.8
+Hyundai,Elite I20,2018,Petrol,Manual,Second Owner,27189.0,Dealer,18.3,1197,5,538000.0,8,3398.62,239.4
+Maruti,Ertiga,2014,Cng,Manual,Third Owner,112000.0,Dealer,19.0,1462,7,715000.0,12,9333.33,208.86
+Toyota,Corolla Altis,2018,Petrol,Automatic,Second Owner,65100.0,Dealer,14.3,1798,5,1295000.0,8,8137.5,359.6
+Maruti,Dzire,2019,Petrol,Automatic,Second Owner,21477.0,Dealer,22.0,1197,5,647000.0,7,3068.14,239.4
+Honda,City,2018,Petrol,Manual,Second Owner,14437.0,Dealer,17.4,1497,5,879000.0,8,1804.62,299.4
+Maruti,Alto,2008,Petrol,Manual,Fourth & Above Owner,67181.0,Dealer,20.8,1197,5,180000.0,18,3732.28,239.4
+Honda,City,2018,Petrol,Automatic,Second Owner,31482.0,Dealer,17.4,1497,5,935000.0,8,3935.25,299.4
+Maruti,Dzire,2018,Petrol,Manual,Second Owner,27563.0,Dealer,22.0,1197,5,550000.0,8,3445.38,239.4
+Honda,Jazz,2016,Petrol,Manual,Third Owner,37210.0,Dealer,18.7,1199,5,425000.0,10,3721.0,239.8
+Hyundai,Grand I10,2014,Petrol,Manual,Third Owner,66250.0,Dealer,18.9,1197,5,450000.0,12,5520.83,239.4
+Ford,Figo,2015,Diesel,Manual,Third Owner,42158.0,Dealer,16.0,1497,5,360000.0,11,3832.55,299.4
+Mini,Cooper,2013,Diesel,Automatic,Fourth & Above Owner,68862.0,Dealer,16.3,1998,4,2200000.0,13,5297.08,499.5
+Hyundai,Verna,2018,Petrol,Manual,Second Owner,37622.0,Dealer,17.7,1497,5,838000.0,8,4702.75,299.4
+Maruti,Ciaz,2017,Petrol,Automatic,Third Owner,64726.0,Dealer,20.7,1373,5,675000.0,9,7191.78,274.6
+Hyundai,Verna,2017,Petrol,Manual,Third Owner,29150.0,Dealer,17.7,1497,5,876000.0,9,3238.89,299.4
